@@ -1,0 +1,217 @@
+EPISODE NUMBER: Episode 8
+EPISODE LOGLINE: Mara discovers her father's logbook hidden in the lamp room.
+CONTINUITY NOTES: Episode 8 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowynd Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MARROWIND HALL – NIGHT
+Scene start: 00:00.00
+Scene end: 00:48.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:06.00)
+Slow push-in on the Mayor as the lamp flickers behind them.
+
+**MAYOR BRISK (Cold, Triumphant):**
+Start: (00:00.40) | End: (00:03.44)
+"Take the girl to the cells until morning."
+
+**SOUND FX:**
+Start: (00:04.50) | End: (00:06.00)
+A heartbeat pulse rises toward the cliffhanger.
+
+**CAMERA:**
+Start: (00:06.00) | End: (00:12.00)
+High wide shot of the crowded hall turning toward the door.
+
+**CORIN (Cold, Low):**
+Start: (00:06.40) | End: (00:10.58)
+"I came back for one reason, and she is standing here."
+
+**CAMERA:**
+Start: (00:12.00) | End: (00:17.00)
+Close-up on the widow's jaw tightening.
+
+**MARA (Quiet, Defiant):**
+Start: (00:12.40) | End: (00:16.20)
+"Why does the sea give back only what it wants?"
+
+**CAMERA:**
+Start: (00:17.00) | End: (00:21.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**TOBIN THE FERRYMAN (Gruff, Afraid):**
+Start: (00:17.40) | End: (00:20.44)
+"Your father paid me to watch over you."
+
+**SOUND FX:**
+Start: (00:19.50) | End: (00:21.00)
+The crowd gasps.
+
+**CAMERA:**
+Start: (00:21.00) | End: (00:24.00)
+Slow push-in on Mara as the lamp flickers behind them.
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:28.00)
+Medium two-shot of Selene and Tobin, the space between them charged.
+
+**ACTION:**
+Start: (00:24.20) | End: (00:28.00)
+Selene throws open the shutters; the storm floods in.
+
+**WIDOW HALLORAN (Cold, Venomous):**
+Start: (00:24.40) | End: (00:27.44)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:34.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (00:28.20) | End: (00:34.00)
+Mara kneels on the slick quay boards.
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:37.00)
+Close-up on the widow's hands gripping the rail.
+
+**SELENE (Mocking, Shrill):**
+Start: (00:34.40) | End: (00:36.80)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (00:37.00) | End: (00:43.00)
+Extreme close-up on Corin's eyes, wet with sea spray.
+
+**TOBIN THE FERRYMAN (Kind, Gruff):**
+Start: (00:37.40) | End: (00:40.82)
+"I saw who slipped the ring into your shawl."
+
+**CAMERA:**
+Start: (00:43.00) | End: (00:46.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**TOBIN THE FERRYMAN (Gruff, Afraid):**
+Start: (00:43.40) | End: (00:45.80)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:48.00)
+Close-up on Selene's jaw tightening.
+
+SCENE 02
+Scene heading: INT. MARROWIND HALL – NIGHT
+Scene start: 00:48.00
+Scene end: 01:36.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:48.00) | End: (00:54.00)
+Over-the-shoulder shot from Tobin toward Selene.
+
+**MAYOR BRISK (Triumphant, Pompous):**
+Start: (00:48.40) | End: (00:51.06)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (00:54.00) | End: (00:57.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (00:54.20) | End: (00:57.00)
+the Mayor tears the lace veil and lets it fall.
+
+**WIDOW HALLORAN (Silken, Furious):**
+Start: (00:54.40) | End: (00:56.80)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:57.00) | End: (01:03.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**CORIN (Calm, Protective):**
+Start: (00:57.40) | End: (01:00.44)
+"Nobody leaves this hall until I say so."
+
+**CAMERA:**
+Start: (01:03.00) | End: (01:06.00)
+High wide shot of the crowded hall turning toward the door.
+
+**CORIN (Earnest, Low):**
+Start: (01:03.40) | End: (01:05.80)
+"Say her name again and you will regret it."
+
+**SOUND FX:**
+Start: (01:04.50) | End: (01:06.00)
+Glass shatters on stone.
+
+**CAMERA:**
+Start: (01:06.00) | End: (01:11.00)
+Over-the-shoulder shot from Corin toward Selene.
+
+**MAYOR BRISK (O.S.) (Cold, Nervous):**
+Start: (01:06.40) | End: (01:09.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (01:11.00) | End: (01:15.00)
+Over-the-shoulder shot from the Mayor toward the widow.
+
+**ACTION:**
+Start: (01:11.20) | End: (01:15.00)
+the widow tears the lace veil and lets it fall.
+
+**SELENE (Cruel, Mocking):**
+Start: (01:11.40) | End: (01:14.44)
+"He is lying. Everyone knows he is lying!"
+
+**CAMERA:**
+Start: (01:15.00) | End: (01:20.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**CAMERA:**
+Start: (01:20.00) | End: (01:23.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+**WIDOW HALLORAN (Silken, Furious):**
+Start: (01:20.40) | End: (01:22.80)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (01:23.00) | End: (01:27.00)
+Extreme close-up on Selene's eyes, wet with sea spray.
+
+**ACTION:**
+Start: (01:23.20) | End: (01:27.00)
+Selene slaps the cup from the widow's hand and it shatters.
+
+**CORIN (Dangerous, Cold):**
+Start: (01:23.40) | End: (01:26.80)
+"Marry me at dawn, and no one will dare touch you."
+
+**CAMERA:**
+Start: (01:27.00) | End: (01:33.00)
+Slow push-in on Selene as the lamp flickers behind them.
+
+**ACTION:**
+Start: (01:27.20) | End: (01:33.00)
+Selene steps between Corin and the crowd.
+
+**CORIN (Dangerous, Calm):**
+Start: (01:27.40) | End: (01:30.82)
+"Say her name again and you will regret it."
+
+**CAMERA:**
+Start: (01:33.00) | End: (01:36.00)
+High wide shot of the crowded hall turning toward the door.
+
+**TOBIN THE FERRYMAN (Gruff, Afraid):**
+Start: (01:33.40) | End: (01:35.80)
+"Your father paid me to watch over you."
+
+--- SCRIPT END ---

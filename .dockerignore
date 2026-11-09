@@ -1,0 +1,11 @@
+.git
+.venv
+.cache
+.env
+data
+runs
+PROMPT.md
+web/node_modules
+web/dist
+docs/screens
+**/__pycache__

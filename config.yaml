@@ -1,0 +1,25 @@
+# Cold Open configuration. Swapping a model is a one-line change under `models`.
+# Run `coldopen models` to see the exact model names your keys can use.
+models:
+  miner: "gemini/gemini-3.6-flash"           # proposes candidates, builds bible (3.8 timed out on the free tier)
+  judge: "groq/openai/gpt-oss-120b"          # cold viewer; different family on purpose
+  classifier: "gemini/gemini-3.5-flash-lite" # lexicon, grader, risk
+# Free tiers cap requests per model per day (the best Gemini Flash allows 20/day on a free key),
+# so each role names fallbacks with their OWN quotas. A call moves down the list when a model is
+# overloaded or its quota is used up. Every call records "answered_by", and run_report.json
+# lists each fallback used. The judge's fallback stays outside the miner's model family.
+fallbacks:
+  "gemini/gemini-3.6-flash": ["gemini/gemini-3.1-flash-lite", "gemini/gemini-3.5-flash-lite"]
+  "groq/openai/gpt-oss-120b": ["groq/openai/gpt-oss-20b"]
+  "gemini/gemini-3.5-flash-lite": ["gemini/gemini-3.1-flash-lite", "groq/openai/gpt-oss-20b"]
+temperature: { miner: 0.4, judge: 0.7, classifier: 0.0 }
+concurrency: 2
+rpm: 10              # per provider; check yours: aistudio.google.com/rate-limit, console.groq.com/settings/limits
+rpm_by_provider: {}  # e.g. { groq: 30 } once your Groq limits page confirms 30 RPM for the judge model
+paywall_episode: 10
+fps: 30
+weights: { hook: 0.25, cliff: 0.20, viewer: 0.25, tension: 0.15, quality: 0.15 }
+penalties: { review: 0.05, organic_only: 0.15, spoiler: 0.10, paywall: 0.10, referent: 0.03, referent_cap: 0.09 }
+mmr_lambda: 0.7
+slate: { challengers: 4, bench: 10 }
+judge_limit: null    # e.g. 40 on a slow free tier: only the top-N valid promos get Cold Viewer + risk calls

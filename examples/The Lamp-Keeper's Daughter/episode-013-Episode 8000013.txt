@@ -1,0 +1,138 @@
+EPISODE NUMBER: Episode 13
+EPISODE LOGLINE: Mara must light the lamp to guide in the ship carrying Corin's accusers.
+CONTINUITY NOTES: Episode 13 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:00.00
+Scene end: 01:12.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Extreme close-up on Tobin's eyes, wet with sea spray.
+
+**TOBIN THE FERRYMAN (Urgent, Gruff):**
+Start: (00:00.40) | End: (00:02.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (00:03.00) | End: (00:08.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**SELENE (Cruel, Sweet):**
+Start: (00:03.40) | End: (00:06.82)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (00:08.00) | End: (00:12.00)
+Slow push-in on Selene as the lamp flickers behind them.
+
+**WIDOW HALLORAN (Venomous, Furious):**
+Start: (00:08.40) | End: (00:11.44)
+"You were always too soft for this family."
+
+**SOUND FX:**
+Start: (00:10.50) | End: (00:12.00)
+The crowd gasps.
+
+**CAMERA:**
+Start: (00:12.00) | End: (00:16.00)
+Over-the-shoulder shot from the widow toward Corin.
+
+**CORIN (Cold, Protective):**
+Start: (00:12.40) | End: (00:15.80)
+"Say her name again and you will regret it."
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:22.00)
+Low angle on Mara framed against the lighthouse beam.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (00:16.40) | End: (00:19.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:28.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:31.00)
+High wide shot of the crowded hall turning toward the door.
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:34.00)
+Low angle on Corin framed against the lighthouse beam.
+
+**MAYOR BRISK (O.S.) (Nervous, Cold):**
+Start: (00:31.40) | End: (00:33.80)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:39.00)
+Slow push-in on Corin as the lamp flickers behind them.
+
+**SOUND FX:**
+Start: (00:37.50) | End: (00:39.00)
+Thunder cracks over the harbour.
+
+**CAMERA:**
+Start: (00:39.00) | End: (00:43.00)
+Over-the-shoulder shot from the Mayor toward Selene.
+
+**ACTION:**
+Start: (00:39.20) | End: (00:43.00)
+Selene kneels on the slick quay boards.
+
+**WIDOW HALLORAN (Venomous, Cold):**
+Start: (00:39.40) | End: (00:42.44)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (00:43.00) | End: (00:47.00)
+Close-up on the Mayor's hands gripping the rail.
+
+**CORIN (Protective, Calm):**
+Start: (00:43.40) | End: (00:46.80)
+"Marry me at dawn, and no one will dare touch you."
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:52.00)
+Low angle on the widow framed against the lighthouse beam.
+
+**SELENE (Venomous, Cruel):**
+Start: (00:47.40) | End: (00:50.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:58.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:02.00)
+Medium two-shot of Mara and the Mayor, the space between them charged.
+
+**SELENE (Sweet, Shrill):**
+Start: (00:58.40) | End: (01:01.06)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (01:02.00) | End: (01:07.00)
+High wide shot of the crowded hall turning toward the door.
+
+**SOUND FX:**
+Start: (01:05.50) | End: (01:07.00)
+Thunder cracks over the harbour.
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:10.00)
+Over-the-shoulder shot from Corin toward the widow.
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:12.00)
+Tight shot on a silver ring glinting in candlelight.
+
+--- SCRIPT END ---

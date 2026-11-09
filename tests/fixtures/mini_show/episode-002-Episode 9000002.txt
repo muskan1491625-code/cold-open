@@ -1,0 +1,90 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: The harbourmaster is revealed as Lord Corin Ashvale, long thought drowned, and he offers Mara a bargain: marry him to clear her name.
+CONTINUITY NOTES: Corin has a scar along his jaw. The hall is now spelled Marrowynd Hall in the notes. Selene wears a green gown.
+
+--- SCRIPT START ---
+
+SCENE 01
+SCENE HEADING: INT. MARROWYND HALL – CONTINUOUS
+SCENE START: 00:00.00
+SCENE END: 00:62.00
+
+ACTIONS AND DIALOGUE:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.00)
+Close-up as the hood falls, revealing a scarred jaw.
+
+**SOUND FX:**
+Start: (00:00.20) | End: (00:01.50)
+The whole hall gasps.
+
+**MAYOR BRISK (Stunned, Breathless):**
+Start: (00:01.60) | End: (00:04.80)
+"Lord Corin Ashvale? You drowned three winters ago!"
+
+**CAMERA:**
+Start: (00:05.00) | End: (00:11.00)
+Medium shot of Corin stepping towards Mara.
+
+**CORIN (Dry, Amused):**
+Start: (00:05.40) | End: (00:09.00)
+"The sea returned me. It returns most things."
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:18.00)
+Two-shot of Corin and Mara, close and quiet.
+
+**CORIN (Low, Earnest):**
+Start: (00:11.50) | End: (00:17.20)
+"Marry me tonight, and no one in this harbour will dare call you a thief."
+
+**CAMERA:**
+Start: (00:18.00) | End: (00:24.00)
+Close-up on Mara, torn.
+
+**MARA (Hesitant, Wary):**
+Start: (00:18.40) | End: (00:21.00)
+"Why would a lord want a lamp-keeper's daughter?"
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:31.00)
+Medium shot of Selene stepping between them.
+
+**SELENE (Furious, Shrill):**
+Start: (00:24.30) | End: (00:28.90)
+"She is a thief! You cannot marry a thief!"
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:38.00)
+Tight shot of Corin's eyes on Selene.
+
+**CORIN (Cold, Quiet):**
+Start: (00:31.40) | End: (00:36.60)
+"Then explain why the ring smells of your rose oil, Selene."
+
+**CAMERA:**
+Start: (00:38.00) | End: (00:45.00)
+Wide shot of the crowd murmuring.
+
+**ACTION:**
+Start: (00:38.20) | End: (00:42.00)
+Selene steps back, clutching her own wrist.
+
+**CAMERA:**
+Start: (00:45.00) | End: (00:53.00)
+Close-up on Mara's hand hovering over Corin's offered hand.
+
+**MARA (V.O.) (Calm, Distant):**
+Start: (00:45.50) | End: (00:50.80)
+"If I say yes, I lose the lighthouse. If I say no, I lose everything."
+
+**CAMERA:**
+Start: (00:53.00) | End: (01:02.00)
+Extreme close-up on their almost-touching fingers.
+
+**SOUND FX:**
+Start: (00:57.00) | End: (01:01.00)
+Heartbeat sting rises to the cliffhanger.
+
+--- SCRIPT END ---

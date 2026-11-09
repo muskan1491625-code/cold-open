@@ -1,0 +1,19 @@
+# Uploaded by `vercel deploy`: code, the built-in Dockerfile and the staged demo runs only.
+.git
+.env
+.env.*
+!.env.example
+PROMPT.md
+NEXT_STEPS.md
+data/
+runs/
+.cache/
+.venv/
+**/__pycache__/
+web/node_modules/
+web/dist/
+docs/
+tests/
+eval/gold.yaml
+raw_outputs.zip
+*.pdf

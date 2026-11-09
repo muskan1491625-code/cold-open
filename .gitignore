@@ -1,0 +1,35 @@
+# Confidential: master prompt quotes show details; the pack belongs to Kuku
+PROMPT.md
+data/
+runs/
+.cache/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Frontend
+web/node_modules/
+web/dist/
+node_modules/
+
+.DS_Store
+
+# Filled solution doc and submission bundle quote the client's scripts
+docs/solution_doc.*
+raw_outputs.zip
+examples/**/runs/
+# Personal hand-off notes and the author's words for the PDF
+NEXT_STEPS.md
+docs/my_words.yaml
+# Staged demo runs (client data): uploaded only by `vercel deploy`, never committed
+demo_runs/*
+!demo_runs/.gitkeep
+.vercel
+.env*

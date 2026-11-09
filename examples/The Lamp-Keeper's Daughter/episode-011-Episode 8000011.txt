@@ -1,0 +1,170 @@
+EPISODE NUMBER: Episode 11
+EPISODE LOGLINE: Selene's betrothed confesses that he planted the ring.
+CONTINUITY NOTES: Episode 11 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:00.00
+Scene end: 01:24.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+High wide shot of the crowded hall turning toward the door.
+
+**MAYOR BRISK (Cold, Pompous):**
+Start: (00:00.40) | End: (00:02.80)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:03.00) | End: (00:09.00)
+Slow push-in on the Mayor as the lamp flickers behind them.
+
+**CORIN (Low, Earnest):**
+Start: (00:03.40) | End: (00:06.44)
+"I was drowned once. It did not take."
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:14.00)
+Close-up on the Mayor's jaw tightening.
+
+**MAYOR BRISK (Cold, Pompous):**
+Start: (00:09.40) | End: (00:12.06)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:19.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**SELENE (Panicked, Shrill):**
+Start: (00:14.40) | End: (00:17.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**CAMERA:**
+Start: (00:19.00) | End: (00:23.00)
+Close-up on Selene's hands gripping the rail.
+
+**ACTION:**
+Start: (00:19.20) | End: (00:23.00)
+Selene kneels on the slick quay boards.
+
+**SELENE (Shrill, Cruel):**
+Start: (00:19.40) | End: (00:22.06)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (00:23.00) | End: (00:29.00)
+Medium two-shot of Selene and Tobin, the space between them charged.
+
+**TOBIN THE FERRYMAN (O.S.) (Urgent, Gruff):**
+Start: (00:23.40) | End: (00:26.82)
+"I saw who slipped the ring into your shawl."
+
+**CAMERA:**
+Start: (00:29.00) | End: (00:34.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**SELENE (Shrill, Mocking):**
+Start: (00:29.40) | End: (00:32.06)
+"Mother will see you hang for this."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:38.00)
+Medium two-shot of Tobin and Mara, the space between them charged.
+
+**ACTION:**
+Start: (00:34.20) | End: (00:38.00)
+Tobin slaps the cup from Mara's hand and it shatters.
+
+**SELENE (Panicked, Shrill):**
+Start: (00:34.40) | End: (00:37.06)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (00:38.00) | End: (00:42.00)
+Close-up on Corin's jaw tightening.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (00:38.40) | End: (00:40.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (00:42.00) | End: (00:47.00)
+Close-up on the widow's jaw tightening.
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:50.00)
+Low angle on Selene framed against the lighthouse beam.
+
+**TOBIN THE FERRYMAN (Kind, Afraid):**
+Start: (00:47.40) | End: (00:49.80)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (00:50.00) | End: (00:56.00)
+High wide shot of the crowded hall turning toward the door.
+
+**TOBIN THE FERRYMAN (Gruff, Urgent):**
+Start: (00:50.40) | End: (00:53.44)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (00:56.00) | End: (01:00.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**WIDOW HALLORAN (Silken, Cold):**
+Start: (00:56.40) | End: (00:59.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (01:00.00) | End: (01:04.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**SELENE (Shrill, Mocking):**
+Start: (01:00.40) | End: (01:03.44)
+"He is lying. Everyone knows he is lying!"
+
+**CAMERA:**
+Start: (01:04.00) | End: (01:10.00)
+Slow push-in on Tobin as the lamp flickers behind them.
+
+**TOBIN THE FERRYMAN (Kind, Urgent):**
+Start: (01:04.40) | End: (01:07.44)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:14.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**WIDOW HALLORAN (Silken, Cold):**
+Start: (01:10.40) | End: (01:13.44)
+"You were always too soft for this family."
+
+**CAMERA:**
+Start: (01:14.00) | End: (01:20.00)
+Close-up on the Mayor's hands gripping the rail.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (01:14.40) | End: (01:17.06)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (01:20.00) | End: (01:23.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**MAYOR BRISK (Nervous, Cold):**
+Start: (01:20.40) | End: (01:22.80)
+"Take the girl to the cells until morning."
+
+**SOUND FX:**
+Start: (01:21.50) | End: (01:23.00)
+A string sting swells to a peak.
+
+**CAMERA:**
+Start: (01:23.00) | End: (01:24.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+--- SCRIPT END ---

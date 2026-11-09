@@ -1,0 +1,217 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family.
+CONTINUITY NOTES: Episode 3 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HARBOUR CHAPEL – DAY
+Scene start: 00:00.00
+Scene end: 00:52.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+High wide shot of the crowded hall turning toward the door.
+
+**MARA (Wary, Furious):**
+Start: (00:00.40) | End: (00:02.80)
+"Is this mercy, or is it another trap?"
+
+**CAMERA:**
+Start: (00:03.00) | End: (00:06.00)
+Close-up on Tobin's hands gripping the rail.
+
+**MARA (Broken, Furious):**
+Start: (00:03.40) | End: (00:05.80)
+"If I say yes, the harbour keeps its tongue."
+
+**CAMERA:**
+Start: (00:06.00) | End: (00:12.00)
+Close-up on the Mayor's hands gripping the rail.
+
+**MARA (Broken, Hopeful):**
+Start: (00:06.40) | End: (00:09.06)
+"Then let them come with their torches!"
+
+**CAMERA:**
+Start: (00:12.00) | End: (00:17.00)
+Extreme close-up on the widow's eyes, wet with sea spray.
+
+**ACTION:**
+Start: (00:12.20) | End: (00:17.00)
+the widow grabs Tobin by the wrist.
+
+**TOBIN THE FERRYMAN (Kind, Urgent):**
+Start: (00:12.40) | End: (00:16.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (00:17.00) | End: (00:22.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:27.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**WIDOW HALLORAN (Cold, Silken):**
+Start: (00:22.40) | End: (00:25.44)
+"You were always too soft for this family."
+
+**CAMERA:**
+Start: (00:27.00) | End: (00:31.00)
+Close-up on Mara's hands gripping the rail.
+
+**ACTION:**
+Start: (00:27.20) | End: (00:31.00)
+Mara draws a short blade from a boot.
+
+**SELENE (Sweet, Venomous):**
+Start: (00:27.40) | End: (00:30.06)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:36.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**MAYOR BRISK (Triumphant, Cold):**
+Start: (00:31.40) | End: (00:34.44)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:36.00) | End: (00:42.00)
+Low angle on Selene framed against the lighthouse beam.
+
+**ACTION:**
+Start: (00:36.20) | End: (00:42.00)
+Selene tears the lace veil and lets it fall.
+
+**MAYOR BRISK (O.S.) (Cold, Nervous):**
+Start: (00:36.40) | End: (00:39.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:42.00) | End: (00:47.00)
+Medium two-shot of Selene and Mara, the space between them charged.
+
+**SOUND FX:**
+Start: (00:45.50) | End: (00:47.00)
+A heartbeat pulse rises toward the cliffhanger.
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:52.00)
+Close-up on Mara's hands gripping the rail.
+
+**ACTION:**
+Start: (00:47.20) | End: (00:52.00)
+Mara steps between Selene and the crowd.
+
+**CORIN (Dry, Earnest):**
+Start: (00:47.40) | End: (00:50.44)
+"I was drowned once. It did not take."
+
+SCENE 02
+Scene heading: INT. LAMP ROOM – DAWN
+Scene start: 00:52.00
+Scene end: 01:44.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:58.00)
+High wide shot of the crowded hall turning toward the door.
+
+**MARA (Tender, Quiet):**
+Start: (00:52.40) | End: (00:55.82)
+"My father built this tower with his own hands."
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:03.00)
+High wide shot of the crowded hall turning toward the door.
+
+**ACTION:**
+Start: (00:58.20) | End: (01:03.00)
+the Mayor throws open the shutters; the storm floods in.
+
+**SELENE (Cruel, Venomous):**
+Start: (00:58.40) | End: (01:01.44)
+"You think a scarred stranger can save you?"
+
+**CAMERA:**
+Start: (01:03.00) | End: (01:09.00)
+Close-up on the widow's hands gripping the rail.
+
+**ACTION:**
+Start: (01:03.20) | End: (01:09.00)
+the widow slaps the cup from the Mayor's hand and it shatters.
+
+**WIDOW HALLORAN (Silken, Furious):**
+Start: (01:03.40) | End: (01:06.44)
+"You were always too soft for this family."
+
+**CAMERA:**
+Start: (01:09.00) | End: (01:15.00)
+High wide shot of the crowded hall turning toward the door.
+
+**SELENE (Shrill, Cruel):**
+Start: (01:09.40) | End: (01:12.82)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (01:15.00) | End: (01:19.00)
+Medium two-shot of Mara and the Mayor, the space between them charged.
+
+**MAYOR BRISK (Nervous, Pompous):**
+Start: (01:15.40) | End: (01:17.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (01:19.00) | End: (01:24.00)
+High wide shot of the crowded hall turning toward the door.
+
+**CAMERA:**
+Start: (01:24.00) | End: (01:29.00)
+Medium two-shot of Corin and the Mayor, the space between them charged.
+
+**SELENE (Mocking, Shrill):**
+Start: (01:24.40) | End: (01:27.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**CAMERA:**
+Start: (01:29.00) | End: (01:35.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (01:29.20) | End: (01:35.00)
+the widow tears the lace veil and lets it fall.
+
+**MAYOR BRISK (Cold, Pompous):**
+Start: (01:29.40) | End: (01:32.44)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (01:35.00) | End: (01:38.00)
+Close-up on Tobin's hands gripping the rail.
+
+**CORIN (Cold, Calm):**
+Start: (01:35.40) | End: (01:37.80)
+"I was drowned once. It did not take."
+
+**CAMERA:**
+Start: (01:38.00) | End: (01:42.00)
+High wide shot of the crowded hall turning toward the door.
+
+**MARA (Wary, Defiant):**
+Start: (01:38.40) | End: (01:41.44)
+"You will not take the lamp from me."
+
+**CAMERA:**
+Start: (01:42.00) | End: (01:44.00)
+Close-up on Corin's jaw tightening.
+
+**ACTION:**
+Start: (01:42.20) | End: (01:44.00)
+Selene draws a short blade from a boot.
+
+--- SCRIPT END ---

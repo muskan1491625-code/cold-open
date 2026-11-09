@@ -1,0 +1,217 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.
+CONTINUITY NOTES: Episode 1 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:00.00
+Scene end: 00:48.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:06.00)
+Close-up on Tobin's hands gripping the rail.
+
+**WIDOW HALLORAN (Silken, Venomous):**
+Start: (00:00.40) | End: (00:01.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (00:06.00) | End: (00:10.00)
+Medium two-shot of Mara and the widow, the space between them charged.
+
+**ACTION:**
+Start: (00:06.20) | End: (00:10.00)
+Mara draws a short blade from a boot.
+
+**CORIN (Cold, Low):**
+Start: (00:06.40) | End: (00:07.92)
+"Step away from her."
+
+**CAMERA:**
+Start: (00:10.00) | End: (00:13.00)
+Over-the-shoulder shot from Corin toward the widow.
+
+**WIDOW HALLORAN (Silken, Venomous):**
+Start: (00:10.40) | End: (00:12.80)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:13.00) | End: (00:18.00)
+Close-up on Mara's hands gripping the rail.
+
+**MAYOR BRISK (Nervous, Cold):**
+Start: (00:13.40) | End: (00:16.44)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:18.00) | End: (00:23.00)
+Slow push-in on Corin as the lamp flickers behind them.
+
+**ACTION:**
+Start: (00:18.20) | End: (00:23.00)
+Corin kneels on the slick quay boards.
+
+**SELENE (Panicked, Cruel):**
+Start: (00:18.40) | End: (00:21.06)
+"Mother will see you hang for this."
+
+**SOUND FX:**
+Start: (00:21.50) | End: (00:23.00)
+Glass shatters on stone.
+
+**CAMERA:**
+Start: (00:23.00) | End: (00:29.00)
+Extreme close-up on Corin's eyes, wet with sea spray.
+
+**TOBIN THE FERRYMAN (Urgent, Kind):**
+Start: (00:23.40) | End: (00:27.96)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (00:29.00) | End: (00:35.00)
+Over-the-shoulder shot from Tobin toward Mara.
+
+**MARA (Tender, Defiant):**
+Start: (00:29.40) | End: (00:32.82)
+"If I say yes, the harbour keeps its tongue."
+
+**CAMERA:**
+Start: (00:35.00) | End: (00:40.00)
+Low angle on Mara framed against the lighthouse beam.
+
+**ACTION:**
+Start: (00:35.20) | End: (00:40.00)
+Mara grabs the Mayor by the wrist.
+
+**CORIN (Dangerous, Protective):**
+Start: (00:35.40) | End: (00:38.82)
+"Say her name again and you will regret it."
+
+**CAMERA:**
+Start: (00:40.00) | End: (00:46.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**CORIN (Low, Cold):**
+Start: (00:40.40) | End: (00:44.58)
+"I came back for one reason, and she is standing here."
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:48.00)
+Slow push-in on Tobin as the lamp flickers behind them.
+
+**ACTION:**
+Start: (00:46.20) | End: (00:48.00)
+Tobin slaps the cup from the Mayor's hand and it shatters.
+
+SCENE 02
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:48.00
+Scene end: 01:36.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:48.00) | End: (00:51.00)
+Extreme close-up on the Mayor's eyes, wet with sea spray.
+
+**MAYOR BRISK (Nervous, Pompous):**
+Start: (00:48.40) | End: (00:50.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (00:51.00) | End: (00:54.00)
+Medium two-shot of the Mayor and the widow, the space between them charged.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (00:51.40) | End: (00:53.80)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:54.00) | End: (00:58.00)
+Close-up on Selene's jaw tightening.
+
+**ACTION:**
+Start: (00:54.20) | End: (00:58.00)
+Mara grabs Selene by the wrist.
+
+**WIDOW HALLORAN (O.S.) (Cold, Furious):**
+Start: (00:54.40) | End: (00:55.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:04.00)
+Low angle on Corin framed against the lighthouse beam.
+
+**MARA (Tender, Broken):**
+Start: (00:58.40) | End: (01:01.44)
+"Is this mercy, or is it another trap?"
+
+**CAMERA:**
+Start: (01:04.00) | End: (01:07.00)
+Over-the-shoulder shot from Selene toward Tobin.
+
+**WIDOW HALLORAN (Silken, Cold):**
+Start: (01:04.40) | End: (01:05.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:10.00)
+Close-up on the widow's hands gripping the rail.
+
+**SELENE (Cruel, Mocking):**
+Start: (01:07.40) | End: (01:09.80)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:15.00)
+Close-up on Corin's jaw tightening.
+
+**CAMERA:**
+Start: (01:15.00) | End: (01:19.00)
+Slow push-in on the Mayor as the lamp flickers behind them.
+
+**MARA (Quiet, Broken):**
+Start: (01:15.40) | End: (01:18.44)
+"I kept that light burning for eleven winters."
+
+**CAMERA:**
+Start: (01:19.00) | End: (01:24.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+**ACTION:**
+Start: (01:19.20) | End: (01:24.00)
+the Mayor grabs Selene by the wrist.
+
+**CORIN (Dangerous, Earnest):**
+Start: (01:19.40) | End: (01:22.44)
+"The ring smells of your rose oil, Selene."
+
+**CAMERA:**
+Start: (01:24.00) | End: (01:27.00)
+Close-up on the Mayor's hands gripping the rail.
+
+**MAYOR BRISK (Triumphant, Pompous):**
+Start: (01:24.40) | End: (01:26.80)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (01:27.00) | End: (01:30.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**CAMERA:**
+Start: (01:30.00) | End: (01:34.00)
+Extreme close-up on Corin's eyes, wet with sea spray.
+
+**TOBIN THE FERRYMAN (Afraid, Urgent):**
+Start: (01:30.40) | End: (01:33.80)
+"I saw who slipped the ring into your shawl."
+
+**CAMERA:**
+Start: (01:34.00) | End: (01:36.00)
+Close-up on Mara's hands gripping the rail.
+
+--- SCRIPT END ---

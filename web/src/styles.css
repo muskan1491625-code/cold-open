@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Cutting Room tokens. Stored as RGB triplets so Tailwind can apply alpha. */
+:root {
+  --bay: 20 33 42;        /* #14212A app background: hued blue-slate, not near-black */
+  --console: 29 46 56;    /* #1D2E38 panels */
+  --raised: 34 52 63;     /* panel hover / 2% lighter surface */
+  --rule: 51 72 90;       /* #33485A hairlines */
+  --bone: 236 230 216;    /* #ECE6D8 primary text */
+  --fog: 147 164 174;     /* #93A4AE secondary text */
+  --teal: 59 166 160;     /* #3BA6A0 calm / approve */
+  --tungsten: 242 163 58; /* #F2A33A rising / focus / hero */
+  --rec: 232 73 79;       /* #E8494F peak / reject / risk */
+  --ink: 20 33 42;        /* text placed on bright fills */
+  --rec-ink: 244 106 111; /* rec for TEXT: #E8494F is 3.7:1 on panels, this is 4.8:1 */
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bay: 246 248 249; --console: 255 255 255; --raised: 240 244 246; --rule: 213 222 227;
+    --bone: 20 33 42; --fog: 84 101 112; --teal: 26 115 111; --tungsten: 150 88 0; --rec: 196 44 51;
+    --ink: 255 255 255; --rec-ink: 196 44 51; color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --bay: 246 248 249; --console: 255 255 255; --raised: 240 244 246; --rule: 213 222 227;
+  --bone: 20 33 42; --fog: 84 101 112; --teal: 26 115 111; --tungsten: 150 88 0; --rec: 196 44 51;
+  --ink: 255 255 255; --rec-ink: 196 44 51; color-scheme: light;
+}
+
+html, body { background: rgb(var(--bay)); color: rgb(var(--bone)); }
+body {
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
+  font-size: 15px; line-height: 1.5;
+  font-variant-numeric: tabular-nums;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+button, [role="button"], a { touch-action: manipulation; }
+:focus { outline: none; }
+:focus-visible { outline: 2px solid rgb(var(--tungsten)); outline-offset: 2px; border-radius: 4px; }
+::selection { background: rgb(var(--tungsten) / 0.35); }
+select { background-color: rgb(var(--console)); color: rgb(var(--bone)); }
+
+/* Keyboard hints mean nothing on touch screens. */
+@media (hover: none), (pointer: coarse) { .kbd-hint { display: none !important; } }
+
+.tnum { font-variant-numeric: tabular-nums; }
+.measure { max-width: 72ch; }
+
+/* Screenplay block: cue centred in caps, parenthetical italic, dialogue 35ch. */
+.screenplay { font-family: "Courier Prime", Courier, monospace; font-size: 16px; line-height: 1.45; }
+.screenplay .cue { text-align: center; text-transform: uppercase; letter-spacing: 0.02em; }
+.screenplay .paren { text-align: center; font-style: italic; color: rgb(var(--fog)); }
+.screenplay .line { max-width: 35ch; margin: 0 auto; }
+
+.skip-link { position: absolute; left: -9999px; }
+.skip-link:focus { left: 16px; top: 8px; z-index: 50; background: rgb(var(--console)); padding: 8px 12px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* The phone is a screen: it stays dark in both themes. */
+.phone-screen { --bone: 236 230 216; --fog: 147 164 174; --rule: 51 72 90; --teal: 59 166 160; --rec: 232 73 79; color: rgb(var(--bone)); }

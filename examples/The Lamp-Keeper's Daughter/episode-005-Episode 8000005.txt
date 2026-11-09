@@ -1,0 +1,217 @@
+EPISODE NUMBER: Episode 5
+EPISODE LOGLINE: Tobin the ferryman reveals what he saw on the night of the feast.
+CONTINUITY NOTES: Episode 5 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:00.00
+Scene end: 00:48.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:06.00)
+Slow push-in on Tobin as the lamp flickers behind them.
+
+**CORIN (Calm, Low):**
+Start: (00:00.40) | End: (00:04.58)
+"I came back for one reason, and she is standing here."
+
+**CAMERA:**
+Start: (00:06.00) | End: (00:12.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (00:06.20) | End: (00:12.00)
+Corin slaps the cup from Tobin's hand and it shatters.
+
+**MAYOR BRISK (Nervous, Triumphant):**
+Start: (00:06.40) | End: (00:09.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:12.00) | End: (00:17.00)
+Extreme close-up on Corin's eyes, wet with sea spray.
+
+**MAYOR BRISK (Nervous, Pompous):**
+Start: (00:12.40) | End: (00:15.06)
+"The council has already decided her fate."
+
+**SOUND FX:**
+Start: (00:15.50) | End: (00:17.00)
+A heartbeat pulse rises toward the cliffhanger.
+
+**CAMERA:**
+Start: (00:17.00) | End: (00:22.00)
+Medium two-shot of Mara and the widow, the space between them charged.
+
+**ACTION:**
+Start: (00:17.20) | End: (00:22.00)
+Mara steps between the widow and the crowd.
+
+**CORIN (Cold, Earnest):**
+Start: (00:17.40) | End: (00:20.44)
+"I was drowned once. It did not take."
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:28.00)
+Slow push-in on Corin as the lamp flickers behind them.
+
+**ACTION:**
+Start: (00:22.20) | End: (00:28.00)
+Corin draws a short blade from a boot.
+
+**SELENE (Mocking, Venomous):**
+Start: (00:22.40) | End: (00:25.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:32.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**MAYOR BRISK (Nervous, Triumphant):**
+Start: (00:28.40) | End: (00:31.44)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:32.00) | End: (00:38.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**MARA (Tender, Broken):**
+Start: (00:32.40) | End: (00:35.06)
+"Then let them come with their torches!"
+
+**CAMERA:**
+Start: (00:38.00) | End: (00:44.00)
+Medium two-shot of Corin and the Mayor, the space between them charged.
+
+**ACTION:**
+Start: (00:38.20) | End: (00:44.00)
+Corin slaps the cup from the Mayor's hand and it shatters.
+
+**SELENE (Panicked, Sweet):**
+Start: (00:38.40) | End: (00:41.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**SOUND FX:**
+Start: (00:42.50) | End: (00:44.00)
+Thunder cracks over the harbour.
+
+**CAMERA:**
+Start: (00:44.00) | End: (00:47.00)
+High wide shot of the crowded hall turning toward the door.
+
+**ACTION:**
+Start: (00:44.20) | End: (00:47.00)
+Tobin tears the lace veil and lets it fall.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (00:44.40) | End: (00:46.80)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:48.00)
+Tight shot on a silver ring glinting in candlelight.
+
+SCENE 02
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:48.00
+Scene end: 01:36.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:48.00) | End: (00:52.00)
+Close-up on Selene's jaw tightening.
+
+**WIDOW HALLORAN (Furious, Venomous):**
+Start: (00:48.40) | End: (00:51.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:58.00)
+Over-the-shoulder shot from the widow toward Corin.
+
+**SELENE (Mocking, Venomous):**
+Start: (00:52.40) | End: (00:55.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:03.00)
+Medium two-shot of Tobin and Selene, the space between them charged.
+
+**ACTION:**
+Start: (00:58.20) | End: (01:03.00)
+Tobin tears the lace veil and lets it fall.
+
+**WIDOW HALLORAN (Cold, Silken):**
+Start: (00:58.40) | End: (00:59.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (01:03.00) | End: (01:06.00)
+Medium two-shot of Selene and the widow, the space between them charged.
+
+**MAYOR BRISK (Cold, Triumphant):**
+Start: (01:03.40) | End: (01:05.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (01:06.00) | End: (01:10.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**SELENE (Sweet, Cruel):**
+Start: (01:06.40) | End: (01:09.06)
+"Mother will see you hang for this."
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:14.00)
+Close-up on Selene's jaw tightening.
+
+**SELENE (Mocking, Panicked):**
+Start: (01:10.40) | End: (01:13.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**CAMERA:**
+Start: (01:14.00) | End: (01:17.00)
+Close-up on Tobin's jaw tightening.
+
+**SELENE (Mocking, Panicked):**
+Start: (01:14.40) | End: (01:16.80)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (01:17.00) | End: (01:21.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**ACTION:**
+Start: (01:17.20) | End: (01:21.00)
+Selene grabs the widow by the wrist.
+
+**CAMERA:**
+Start: (01:21.00) | End: (01:25.00)
+Close-up on the Mayor's hands gripping the rail.
+
+**CAMERA:**
+Start: (01:25.00) | End: (01:31.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**SELENE (Venomous, Sweet):**
+Start: (01:25.40) | End: (01:28.82)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (01:31.00) | End: (01:36.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (01:31.20) | End: (01:36.00)
+Corin draws a short blade from a boot.
+
+**CORIN (Dangerous, Calm):**
+Start: (01:31.40) | End: (01:34.44)
+"I was drowned once. It did not take."
+
+--- SCRIPT END ---

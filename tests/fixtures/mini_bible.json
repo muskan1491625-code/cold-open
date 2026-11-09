@@ -1,0 +1,22 @@
+{
+  "premise": "A lamp-keeper's daughter framed for theft is rescued by a hooded harbourmaster who is a lord thought drowned. He offers marriage to clear her name while her sister's family plots against them.",
+  "characters": [
+    {"canonical": "Mara Vell", "aliases": [{"label": "MARA", "first_ep": 1, "last_ep": 3}], "role": "lamp-keeper's daughter, framed for theft", "visual_descriptor": "a young woman in a grey wool shawl"},
+    {"canonical": "Selene", "aliases": [{"label": "SELENE", "first_ep": 1, "last_ep": 3}], "role": "Mara's sister, who planted the ring", "visual_descriptor": "a haughty woman in a green gown"},
+    {"canonical": "Mayor Brisk", "aliases": [{"label": "MAYOR BRISK", "first_ep": 1, "last_ep": 2}], "role": "harbour mayor who orders Mara arrested", "visual_descriptor": "a stout man in a chain of office"},
+    {"canonical": "Corin Ashvale", "aliases": [{"label": "THE HOODED HARBOURMASTER", "first_ep": 1, "last_ep": 1}, {"label": "CORIN", "first_ep": 2, "last_ep": 3}], "role": "lord thought drowned, Mara's protector", "visual_descriptor": "a scarred man in a dark hood"},
+    {"canonical": "Widow Halloran", "aliases": [{"label": "WIDOW HALLORAN", "first_ep": 3, "last_ep": 3}], "role": "Selene's mother, a poisoner", "visual_descriptor": "a pale older woman in black gloves"}
+  ],
+  "arcs": [
+    {"name": "The stolen ring", "first_ep": 1, "last_ep": 2, "summary": "Mara is framed at the feast and saved by the harbourmaster."},
+    {"name": "The poisoned wedding", "first_ep": 3, "last_ep": 3, "summary": "The widow poisons the wedding wine."}
+  ],
+  "key_reveals": [
+    {"id": "R01", "description": "The hooded harbourmaster is Lord Corin Ashvale, thought drowned", "episode": 2},
+    {"id": "R02", "description": "Selene planted the ring", "episode": 2},
+    {"id": "R03", "description": "The widow poisoned the wedding cup", "episode": 3}
+  ],
+  "continuity_conflicts": [
+    {"entity": "Marrowind Hall", "variants": [{"spelling": "Marrowind", "episodes": [1]}, {"spelling": "Marrowynd", "episodes": [2]}, {"spelling": "Marrowinde", "episodes": [3]}], "note": "Same hall, three spellings"}
+  ]
+}

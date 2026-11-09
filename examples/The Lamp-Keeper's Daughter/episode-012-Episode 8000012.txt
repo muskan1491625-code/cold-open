@@ -1,0 +1,138 @@
+EPISODE NUMBER: Episode 12
+EPISODE LOGLINE: Corin is arrested for a murder from before his drowning.
+CONTINUITY NOTES: Episode 12 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HARBOUR CHAPEL – DAY
+Scene start: 00:00.00
+Scene end: 01:12.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:06.00)
+High wide shot of the crowded hall turning toward the door.
+
+**MARA (Quiet, Furious):**
+Start: (00:00.40) | End: (00:03.82)
+"If I say yes, the harbour keeps its tongue."
+
+**CAMERA:**
+Start: (00:06.00) | End: (00:09.00)
+Extreme close-up on Mara's eyes, wet with sea spray.
+
+**TOBIN THE FERRYMAN (Gruff, Urgent):**
+Start: (00:06.40) | End: (00:08.80)
+"I saw who slipped the ring into your shawl."
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:14.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+**WIDOW HALLORAN (O.S.) (Cold, Venomous):**
+Start: (00:09.40) | End: (00:12.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:20.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**SELENE (Sweet, Shrill):**
+Start: (00:14.40) | End: (00:17.82)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (00:20.00) | End: (00:24.00)
+Close-up on the Mayor's hands gripping the rail.
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:28.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (00:24.20) | End: (00:28.00)
+Tobin draws a short blade from a boot.
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:34.00)
+Close-up on Corin's hands gripping the rail.
+
+**MAYOR BRISK (O.S.) (Pompous, Cold):**
+Start: (00:28.40) | End: (00:30.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:38.00)
+Medium two-shot of Tobin and Corin, the space between them charged.
+
+**WIDOW HALLORAN (Silken, Furious):**
+Start: (00:34.40) | End: (00:37.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:38.00) | End: (00:44.00)
+Extreme close-up on the Mayor's eyes, wet with sea spray.
+
+**CAMERA:**
+Start: (00:44.00) | End: (00:47.00)
+Close-up on Selene's jaw tightening.
+
+**MAYOR BRISK (Triumphant, Nervous):**
+Start: (00:44.40) | End: (00:46.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:52.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**TOBIN THE FERRYMAN (Kind, Urgent):**
+Start: (00:47.40) | End: (00:51.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:58.00)
+Slow push-in on Selene as the lamp flickers behind them.
+
+**MARA (Defiant, Wary):**
+Start: (00:52.40) | End: (00:55.44)
+"I never stole from anyone in my life!"
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:03.00)
+Slow push-in on Tobin as the lamp flickers behind them.
+
+**MAYOR BRISK (Triumphant, Pompous):**
+Start: (00:58.40) | End: (01:01.06)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (01:03.00) | End: (01:06.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**ACTION:**
+Start: (01:03.20) | End: (01:06.00)
+the Mayor draws a short blade from a boot.
+
+**TOBIN THE FERRYMAN (Gruff, Kind):**
+Start: (01:03.40) | End: (01:05.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (01:06.00) | End: (01:10.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**WIDOW HALLORAN (O.S.) (Furious, Venomous):**
+Start: (01:06.40) | End: (01:07.92)
+"Drink deep, little lamp-keeper."
+
+**SOUND FX:**
+Start: (01:08.50) | End: (01:10.00)
+Glass shatters on stone.
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:12.00)
+Close-up on the Mayor's hands gripping the rail.
+
+--- SCRIPT END ---

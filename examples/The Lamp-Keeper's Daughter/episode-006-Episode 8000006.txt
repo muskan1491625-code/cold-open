@@ -1,0 +1,249 @@
+EPISODE NUMBER: Episode 6
+EPISODE LOGLINE: The council votes to take the lighthouse from Mara.
+CONTINUITY NOTES: Episode 6 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowynd Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:00.00
+Scene end: 00:59.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+High wide shot of the crowded hall turning toward the door.
+
+**TOBIN THE FERRYMAN (Kind, Urgent):**
+Start: (00:00.40) | End: (00:03.44)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.00)
+High wide shot of the crowded hall turning toward the door.
+
+**ACTION:**
+Start: (00:04.20) | End: (00:07.00)
+Tobin tears the lace veil and lets it fall.
+
+**MAYOR BRISK (Triumphant, Pompous):**
+Start: (00:04.40) | End: (00:06.80)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:07.00) | End: (00:11.00)
+Close-up on Tobin's hands gripping the rail.
+
+**TOBIN THE FERRYMAN (Gruff, Kind):**
+Start: (00:07.40) | End: (00:10.80)
+"They are coming up the cliff path with lanterns!"
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:16.00)
+Close-up on Selene's hands gripping the rail.
+
+**SELENE (Venomous, Mocking):**
+Start: (00:11.40) | End: (00:14.06)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:21.00)
+Low angle on Corin framed against the lighthouse beam.
+
+**TOBIN THE FERRYMAN (Afraid, Urgent):**
+Start: (00:16.40) | End: (00:19.44)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (00:21.00) | End: (00:27.00)
+Close-up on Corin's jaw tightening.
+
+**MAYOR BRISK (O.S.) (Cold, Pompous):**
+Start: (00:21.40) | End: (00:24.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:27.00) | End: (00:31.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (00:27.20) | End: (00:31.00)
+Selene slaps the cup from Corin's hand and it shatters.
+
+**TOBIN THE FERRYMAN (O.S.) (Gruff, Urgent):**
+Start: (00:27.40) | End: (00:30.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:36.00)
+Close-up on Corin's hands gripping the rail.
+
+**TOBIN THE FERRYMAN (Gruff, Afraid):**
+Start: (00:31.40) | End: (00:34.44)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (00:36.00) | End: (00:39.00)
+Over-the-shoulder shot from Mara toward Tobin.
+
+**TOBIN THE FERRYMAN (Urgent, Kind):**
+Start: (00:36.40) | End: (00:38.80)
+"I saw who slipped the ring into your shawl."
+
+**CAMERA:**
+Start: (00:39.00) | End: (00:44.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**SELENE (Sweet, Panicked):**
+Start: (00:39.40) | End: (00:42.82)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (00:44.00) | End: (00:47.00)
+Medium two-shot of the Mayor and Mara, the space between them charged.
+
+**MAYOR BRISK (Cold, Nervous):**
+Start: (00:44.40) | End: (00:46.80)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:52.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**MARA (Furious, Broken):**
+Start: (00:47.40) | End: (00:50.44)
+"I kept that light burning for eleven winters."
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:56.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+**WIDOW HALLORAN (Cold, Venomous):**
+Start: (00:52.40) | End: (00:55.44)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (00:56.00) | End: (00:59.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**MARA (Furious, Hopeful):**
+Start: (00:56.40) | End: (00:58.80)
+"Tell me the truth, or tell me nothing."
+
+SCENE 02
+Scene heading: INT. MARROWIND HALL – NIGHT
+Scene start: 00:59.00
+Scene end: 01:58.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:59.00) | End: (01:05.00)
+Low angle on Tobin framed against the lighthouse beam.
+
+**WIDOW HALLORAN (Furious, Cold):**
+Start: (00:59.40) | End: (01:02.44)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (01:05.00) | End: (01:08.00)
+Low angle on Selene framed against the lighthouse beam.
+
+**CAMERA:**
+Start: (01:08.00) | End: (01:13.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**CORIN (Dry, Earnest):**
+Start: (01:08.40) | End: (01:12.58)
+"Marry me at dawn, and no one will dare touch you."
+
+**CAMERA:**
+Start: (01:13.00) | End: (01:17.00)
+Close-up on Tobin's jaw tightening.
+
+**ACTION:**
+Start: (01:13.20) | End: (01:17.00)
+Selene slaps the cup from Tobin's hand and it shatters.
+
+**CAMERA:**
+Start: (01:17.00) | End: (01:22.00)
+Low angle on Corin framed against the lighthouse beam.
+
+**TOBIN THE FERRYMAN (Kind, Urgent):**
+Start: (01:17.40) | End: (01:21.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (01:22.00) | End: (01:26.00)
+Medium two-shot of Selene and Tobin, the space between them charged.
+
+**MARA (Broken, Tender):**
+Start: (01:22.40) | End: (01:25.80)
+"If I say yes, the harbour keeps its tongue."
+
+**SOUND FX:**
+Start: (01:24.50) | End: (01:26.00)
+A heartbeat pulse rises toward the cliffhanger.
+
+**CAMERA:**
+Start: (01:26.00) | End: (01:30.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**ACTION:**
+Start: (01:26.20) | End: (01:30.00)
+the widow kneels on the slick quay boards.
+
+**MAYOR BRISK (Cold, Triumphant):**
+Start: (01:26.40) | End: (01:29.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (01:30.00) | End: (01:36.00)
+Slow push-in on Corin as the lamp flickers behind them.
+
+**MAYOR BRISK (Nervous, Cold):**
+Start: (01:30.40) | End: (01:33.44)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (01:36.00) | End: (01:42.00)
+Extreme close-up on Corin's eyes, wet with sea spray.
+
+**MAYOR BRISK (Triumphant, Nervous):**
+Start: (01:36.40) | End: (01:39.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (01:42.00) | End: (01:46.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**MARA (Quiet, Tender):**
+Start: (01:42.40) | End: (01:45.44)
+"I kept that light burning for eleven winters."
+
+**CAMERA:**
+Start: (01:46.00) | End: (01:50.00)
+Close-up on the widow's hands gripping the rail.
+
+**CORIN (Cold, Calm):**
+Start: (01:46.40) | End: (01:49.44)
+"Nobody leaves this hall until I say so."
+
+**CAMERA:**
+Start: (01:50.00) | End: (01:55.00)
+Slow push-in on the Mayor as the lamp flickers behind them.
+
+**WIDOW HALLORAN (O.S.) (Cold, Furious):**
+Start: (01:50.40) | End: (01:51.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (01:55.00) | End: (01:58.00)
+Close-up on Mara's hands gripping the rail.
+
+**TOBIN THE FERRYMAN (Urgent, Gruff):**
+Start: (01:55.40) | End: (01:57.80)
+"They are coming up the cliff path with lanterns!"
+
+--- SCRIPT END ---

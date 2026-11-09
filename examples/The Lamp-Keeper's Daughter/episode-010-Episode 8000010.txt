@@ -1,0 +1,174 @@
+EPISODE NUMBER: Episode 10
+EPISODE LOGLINE: A storm traps the whole family in the lighthouse overnight.
+CONTINUITY NOTES: Episode 10 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HARBOUR CHAPEL – DAY
+Scene start: 00:00.00
+Scene end: 01:24.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+High wide shot of the crowded hall turning toward the door.
+
+**WIDOW HALLORAN (Furious, Silken):**
+Start: (00:00.40) | End: (00:02.80)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (00:03.00) | End: (00:09.00)
+Over-the-shoulder shot from Tobin toward the Mayor.
+
+**MAYOR BRISK (Nervous, Pompous):**
+Start: (00:03.40) | End: (00:06.44)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:15.00)
+Over-the-shoulder shot from Tobin toward the Mayor.
+
+**CORIN (Cold, Earnest):**
+Start: (00:09.40) | End: (00:13.58)
+"I came back for one reason, and she is standing here."
+
+**CAMERA:**
+Start: (00:15.00) | End: (00:20.00)
+Slow push-in on Selene as the lamp flickers behind them.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (00:15.40) | End: (00:18.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:20.00) | End: (00:25.00)
+High wide shot of the crowded hall turning toward the door.
+
+**WIDOW HALLORAN (Furious, Silken):**
+Start: (00:20.40) | End: (00:23.44)
+"You were always too soft for this family."
+
+**CAMERA:**
+Start: (00:25.00) | End: (00:30.00)
+Close-up on the Mayor's hands gripping the rail.
+
+**SELENE (Panicked, Sweet):**
+Start: (00:25.40) | End: (00:28.82)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (00:30.00) | End: (00:34.00)
+Medium two-shot of the Mayor and Tobin, the space between them charged.
+
+**WIDOW HALLORAN (Venomous, Furious):**
+Start: (00:30.40) | End: (00:33.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:37.00)
+Extreme close-up on Selene's eyes, wet with sea spray.
+
+**ACTION:**
+Start: (00:34.20) | End: (00:37.00)
+Selene kneels on the slick quay boards.
+
+**WIDOW HALLORAN (Silken, Cold):**
+Start: (00:34.40) | End: (00:36.80)
+"You were always too soft for this family."
+
+**CAMERA:**
+Start: (00:37.00) | End: (00:41.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**SELENE (Venomous, Shrill):**
+Start: (00:37.40) | End: (00:40.80)
+"Smile, sister. It is your last night of freedom."
+
+**SOUND FX:**
+Start: (00:39.50) | End: (00:41.00)
+A string sting swells to a peak.
+
+**CAMERA:**
+Start: (00:41.00) | End: (00:46.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**MARA (O.S.) (Hopeful, Furious):**
+Start: (00:41.40) | End: (00:44.06)
+"Then let them come with their torches!"
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:51.00)
+High wide shot of the crowded hall turning toward the door.
+
+**MAYOR BRISK (Cold, Pompous):**
+Start: (00:46.40) | End: (00:49.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:51.00) | End: (00:54.00)
+Extreme close-up on Mara's eyes, wet with sea spray.
+
+**MAYOR BRISK (O.S.) (Pompous, Nervous):**
+Start: (00:51.40) | End: (00:53.80)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:54.00) | End: (00:59.00)
+Low angle on Corin framed against the lighthouse beam.
+
+**TOBIN THE FERRYMAN (Gruff, Kind):**
+Start: (00:54.40) | End: (00:58.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (00:59.00) | End: (01:02.00)
+Medium two-shot of Mara and Corin, the space between them charged.
+
+**CAMERA:**
+Start: (01:02.00) | End: (01:06.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (01:02.20) | End: (01:06.00)
+Corin draws a short blade from a boot.
+
+**CAMERA:**
+Start: (01:06.00) | End: (01:12.00)
+Close-up on the Mayor's jaw tightening.
+
+**CAMERA:**
+Start: (01:12.00) | End: (01:15.00)
+Close-up on the Mayor's jaw tightening.
+
+**TOBIN THE FERRYMAN (Gruff, Afraid):**
+Start: (01:12.40) | End: (01:14.80)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (01:15.00) | End: (01:21.00)
+Over-the-shoulder shot from Mara toward Corin.
+
+**SELENE (Panicked, Cruel):**
+Start: (01:15.40) | End: (01:18.82)
+"Smile, sister. It is your last night of freedom."
+
+**SOUND FX:**
+Start: (01:19.50) | End: (01:21.00)
+A string sting swells to a peak.
+
+**CAMERA:**
+Start: (01:21.00) | End: (01:24.00)
+Slow push-in on Selene as the lamp flickers behind them.
+
+**SELENE (Panicked, Shrill):**
+Start: (01:21.40) | End: (01:23.80)
+"Search her pockets. She is a thief!"
+
+**SOUND FX:**
+Start: (01:22.50) | End: (01:24.00)
+Thunder cracks over the harbour.
+
+--- SCRIPT END ---

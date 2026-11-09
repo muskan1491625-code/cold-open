@@ -1,0 +1,49 @@
+[project]
+name = "coldopen"
+version = "0.1.0"
+description = "Finds launch-ready promo clips in microdrama screenplays."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "pydantic>=2.7",
+  "typer>=0.12",
+  "rich>=13.7",
+  "litellm>=1.50",
+  "json-repair>=0.30",
+  "tenacity>=8.2",
+  "numpy>=1.26",
+  "rapidfuzz>=3.9",
+  "pyyaml>=6.0",
+  "python-dotenv>=1.0",
+  "httpx>=0.27",
+  "fastapi>=0.111",
+  "uvicorn>=0.30",
+  "sse-starlette>=2.1",
+  "python-multipart>=0.0.9",
+  "jinja2>=3.1",
+  "pypdf>=4.2",
+  "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+docs = ["playwright>=1.44"]
+
+[dependency-groups]
+dev = ["pytest>=8.2", "pytest-asyncio>=0.23"]
+
+[project.scripts]
+coldopen = "coldopen.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["coldopen"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["pack: needs the private input pack in data/pack (skipped when absent)"]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"

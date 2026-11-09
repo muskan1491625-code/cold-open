@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cold Open: solution</title>
+<style>
+  @font-face { font-family: "Plex"; src: url("{{ fonts.plex400 }}"); font-weight: 400; }
+  @font-face { font-family: "Plex"; src: url("{{ fonts.plex600 }}"); font-weight: 600; }
+  @font-face { font-family: "Plex"; src: url("{{ fonts.plex400i }}"); font-weight: 400; font-style: italic; }
+  @font-face { font-family: "PlexCond"; src: url("{{ fonts.cond400 }}"); font-weight: 400; }
+  @font-face { font-family: "PlexCond"; src: url("{{ fonts.cond600 }}"); font-weight: 600; }
+  @font-face { font-family: "Courier Prime"; src: url("{{ fonts.courier }}"); }
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { font-family: "Plex", sans-serif; font-size: 9pt; line-height: 1.45; color: #14212A; background: #fff;
+         font-variant-numeric: tabular-nums; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { width: 210mm; height: 297mm; overflow: hidden; page-break-after: always; position: relative; }
+  .page:last-child { page-break-after: auto; }
+  .band { background: #14212A; color: #ECE6D8; padding: 8mm 14mm 5mm; }
+  .band h1 { font-size: 22pt; font-weight: 600; margin: 0; letter-spacing: -0.01em; line-height: 1.15; }
+  .band .who { font-family: "PlexCond"; font-size: 8.5pt; color: #93A4AE; margin-top: 3mm; display: flex; gap: 1.5mm 5mm; flex-wrap: wrap; }
+  .band .who b { color: #ECE6D8; font-weight: 400; }
+  .ramp { height: 4px; background: linear-gradient(90deg, #3BA6A0 0%, #F2A33A 55%, #E8494F 100%); }
+  .body { padding: 6mm 14mm 0; }
+  .p2 .body { padding-top: 10mm; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 7mm; }
+  section { margin-bottom: 4.2mm; break-inside: avoid; }
+  h2 { font-size: 11pt; font-weight: 600; margin: 0 0 1.5mm; }
+  p { margin: 0 0 1.6mm; }
+  ul { margin: 0 0 1.6mm; padding-left: 4mm; }
+  li { margin-bottom: 0.8mm; }
+  .cond { font-family: "PlexCond"; }
+  .q { font-family: "Courier Prime", monospace; font-size: 9pt; }
+  .fog { color: #546570; }
+  table { width: 100%; border-collapse: collapse; font-family: "PlexCond"; font-size: 8pt; }
+  th { text-align: left; font-weight: 600; color: #546570; border-bottom: 1px solid #D5DEE3; padding: 1mm 1.2mm; }
+  td { border-bottom: 1px solid #E6ECEF; padding: 0.9mm 1.2mm; vertical-align: top; }
+  .slate td { font-size: 7.6pt; line-height: 1.32; } .slate td.q { font-size: 8pt; }
+  td.num, th.num { text-align: right; }
+  .todo { background: #FFF4DC; border: 1px solid #F2A33A; border-left: 3px solid #F2A33A; padding: 2mm 2.5mm; border-radius: 4px; color: #6b4200; }
+  .todo b { font-family: "PlexCond"; }
+  .tag { display: inline-block; font-family: "PlexCond"; font-size: 7.5pt; padding: 0 1.4mm; border-radius: 3px; border: 1px solid; }
+  .t-code { color: #1A736F; border-color: #1A736F; } .t-llm { color: #965800; border-color: #965800; } .t-human { color: #C42C33; border-color: #C42C33; }
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2mm; margin-bottom: 2mm; }
+  .metric { border-top: 2px solid #14212A; padding-top: 1.2mm; }
+  .metric .v { font-family: "PlexCond"; font-size: 13pt; font-weight: 600; line-height: 1.1; }
+  .metric .l { font-size: 7.5pt; color: #546570; line-height: 1.25; }
+  figure { margin: 0 0 3mm; }
+  figcaption { font-size: 7.5pt; color: #546570; margin-top: 1mm; }
+  .wide { grid-column: 1 / -1; }
+  .foot { position: absolute; bottom: 7mm; left: 14mm; right: 14mm; font-family: "PlexCond"; font-size: 7pt; color: #93A4AE; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+
+<!-- ============================== PAGE 1 ============================== -->
+<div class="page p1">
+  <div class="band">
+    <h1>Cold Open: finding the 40 seconds<br>that make a stranger stay</h1>
+    <div class="who">
+      <span><b>{{ author.name }}</b></span>
+      <span>Roll number <b>{{ author.roll }}</b></span>
+      <span>Branch <b>{{ author.branch }}</b></span>
+      <span>Kuku AI Generalist, Problem 1</span>
+      <span>Demo <b>{{ author.demo }}</b></span>
+      <span>Code <b>{{ author.code }}</b></span>
+    </div>
+  </div>
+  <div class="ramp"></div>
+  <div class="body">
+    <div class="cols">
+      <div>
+        <section data-name="Why this problem">
+          <h2>Why this problem</h2>
+          {% if notes.why_this_problem %}<p>{{ notes.why_this_problem }}</p>{% else %}{{ todo("Why this problem: 3–4 sentences in your own words (why promo selection is the bottleneck for a microdrama launch, and what a bad promo costs).") }}{% endif %}
+        </section>
+
+        <section data-name="What it does">
+          <h2>What it does</h2>
+          <p>Cold Open reads a show's screenplay (timestamped episode scripts) and returns a ranked <b>launch slate</b>: a hero promo and {{ challengers }} challengers, each a 20–60 s cut that hooks in the first 3 s, ends on an unresolved beat and makes sense to a stranger. Editors review them in a web cutting room and export CMX3600 EDLs and a CSV cut list.</p>
+          <p>The rule that shapes everything: <b>AI judges meaning, code owns facts, the editor makes the final call.</b> The model only ever names line IDs; it never writes a timestamp, a duration or a rank.</p>
+        </section>
+
+        <section data-name="Assumptions">
+          <h2>Assumptions</h2>
+          <ul>
+            <li>A promo is 20–60 s (aim 30–45), built from 1–3 segments, with the hook inside the first 3.0 s.</li>
+            <li>The paywall sits at episode {{ cfg.paywall_episode }}; a promo should land a viewer with free episodes ahead.</li>
+            <li>Text screenplays only: no video, music or captions. Cuts snap to shot changes in the script.</li>
+            <li>Meta is the primary paid channel; ad-policy risk follows Meta's advertising standards.</li>
+            <li>The editor has the final say; every approve, trim and reject is logged.</li>
+          </ul>
+        </section>
+
+        <section data-name="AI vs code vs human">
+          <h2>Who does what</h2>
+          <table>
+            <tr><th style="width:18%">Who</th><th>Does</th><th style="width:30%">Why them</th></tr>
+            <tr><td><span class="tag t-llm">AI</span></td><td>Show bible and alias resolution, emotion lexicon, picks candidate moments by line ID, one repair attempt, cold-viewer test, grading, ad-policy and spoiler reading</td><td>Meaning: who is who, what a stranger gets</td></tr>
+            <tr><td><span class="tag t-code">Code</span></td><td>Parsing, tension signal, every hard rule (IDs, ≤3 s hook, 20–60 s, no mid-line cuts, verbatim quotes), snapping to shot changes, scoring, diverse selection, exports</td><td>Facts must be exact; rules are asserted</td></tr>
+            <tr><td><span class="tag t-human">Editor</span></td><td>Approves for paid or organic, trims with live re-validation, rejects with a reason</td><td>Taste and brand; every call is logged</td></tr>
+          </table>
+        </section>
+      </div>
+
+      <div>
+        <section data-name="How it works">
+          <h2>How it works</h2>
+          <figure>{{ pipeline_svg | safe }}
+            <figcaption>Nine stages. Teal is code, amber is a model call, red is the human. The validator sends a failing candidate back once with its errors, then rejects it with a reason code.</figcaption>
+          </figure>
+          <ul>
+            <li><b>Bible.</b> One call turns loglines, speaker labels and code-detected spelling drift into characters (with episode-scoped aliases), arcs, reveals and true continuity conflicts.</li>
+            <li><b>Tension EKG.</b> Per-second loudness from emotion tags, punctuation, violent verbs, sound and camera cues: cheap recall, deliberately blind to meaning.</li>
+            <li><b>Mining.</b> Per episode the miner proposes 3–6 candidates by line ID, including one quiet line away from the loud peaks; a second pass bridges moments across episodes.</li>
+            <li><b>Cold Viewer.</b> A different model sees only what a scroller sees (faces described, never named) and says whether it would stop and what it understood; a grader checks that against the bible.</li>
+            <li><b>Slate.</b> A transparent weighted score minus policy, spoiler, paywall and unexplained-name penalties; MMR picks a diverse slate so five promos are not five takes of one slap.</li>
+          </ul>
+        </section>
+
+        <section data-name="Design choices">
+          <h2>Three choices worth defending</h2>
+          <ul>
+            <li><b>IDs, not timestamps.</b> {{ llm_only_line }}</li>
+            <li><b>A cold viewer from another model family</b>, so the judge does not share the miner's blind spots or its knowledge of the plot.</li>
+            <li><b>Replayable runs.</b> Every call is cached by content hash; a run replays offline and swapping a model is one line in config.yaml.</li>
+          </ul>
+        </section>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Cold Open</span><span>Run {{ report.run_id }}, {{ report.finished_at[:10] }}</span><span>1 / 2</span></div>
+</div>
+
+<!-- ============================== PAGE 2 ============================== -->
+<div class="page p2">
+  <div class="body">
+    <section data-name="Results" class="wide">
+      <h2>Results on the full pack</h2>
+      <p>{{ counts.episodes }} episodes, {{ "{:,}".format(counts.atoms) }} timed lines. The miner proposed <b>{{ counts.raw_candidates }}</b> candidates; <b>{{ counts.repaired or 0 }}</b> were fixed by one repair round, <b>{{ counts.rejected or 0 }}</b> rejected, <b>{{ counts.duplicate or 0 }}</b> removed as near-duplicates, leaving <b>{{ counts.valid }}</b> valid promos (100% pass every hard rule, asserted in code). The slate:</p>
+      <table class="slate">
+        <tr><th>#</th><th>Cut</th><th>Hook</th><th>Last line</th><th>Engine</th><th>Why</th></tr>
+        {% for r in slate_rows %}
+        <tr>
+          <td>{{ r.rank }}</td>
+          <td class="cond" style="white-space:nowrap">{{ r.structure }}<br>{% for s in r.segments %}E{{ s.episode }} {{ s.start_tc }}–{{ s.end_tc }}<br>{% endfor %}{{ "%.0f"|format(r.duration) }} s</td>
+          <td class="q">{{ r.hook }}</td>
+          <td class="q">{{ r.cliff }}</td>
+          <td>{{ r.engine }}</td>
+          <td>{{ r.why }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+    </section>
+
+    <div class="cols">
+      <div>
+        <section data-name="How I know it's good">
+          <h2>How I know it's good</h2>
+          <div class="metrics">
+            {% for m in metrics %}<div class="metric"><div class="v">{{ m.v }}</div><div class="l">{{ m.l }}</div></div>{% endfor %}
+          </div>
+          {% if ablation_line %}<p>{{ ablation_line }}</p>{% else %}{{ todo("Run `coldopen ablate` and `coldopen eval --ablate` to fill the ablation line.") }}{% endif %}
+        </section>
+
+        <section data-name="Where it fails">
+          <h2>Where it fails</h2>
+          <ul>
+            {% for f in failures %}<li><b>{{ f.category }}</b> ({{ f.where }}): {{ f.what }}</li>{% endfor %}
+          </ul>
+          {% if notes.failures_confirmed %}{% if notes.failures_note %}<p>{{ notes.failures_note }}</p>{% endif %}{% else %}{{ todo("Confirm these three by opening them in the cut room; replace any that are not real failures.") }}{% endif %}
+        </section>
+
+        <section data-name="Scale and cost">
+          <h2>Scale and cost</h2>
+          <p>One show: <b>{{ "{:,}".format(report.llm_calls) }}</b> model calls, <b>{{ tokens_m }}</b> tokens, <b>{{ cost_text }}</b>, {{ minutes }} of wall time at {{ cfg.rpm }} requests per minute. At 150 shows a month that is about {{ monthly_tokens }} tokens and {{ monthly_cost }}; the cache makes re-runs after a fix free.</p>
+        </section>
+      </div>
+
+      <div>
+        <figure data-name="Tension map">
+          {{ map_svg | safe }}
+          <figcaption>Tension across all {{ counts.episodes }} episodes (one row each, time normalised per episode). Amber outline: hero; dark dashed: challengers.</figcaption>
+        </figure>
+
+        <section data-name="Live test">
+          <h2>How we'd know it worked live</h2>
+          <p>A/B the slate against editor-picked promos on equal spend: 3-second view rate, cost per install, day-1 paid conversion. Ship when editors accept 60%+ of slate promos without re-cutting.</p>
+        </section>
+
+        <section data-name="Tools">
+          <h2>Tools used and where they got it wrong</h2>
+          {% if notes.tools_used %}<p>{{ notes.tools_used }}</p>{% else %}{{ todo("Name the tools you used, in your own words. Suggested cases from docs/BUILD_LOG.md: " ~ build_log_hint) }}{% endif %}
+        </section>
+
+        <section data-name="Next">
+          <h2>Next</h2>
+          <p>Feed editor decisions back to the miner as examples; read the video for real shot changes; learn the score weights from install data instead of defaults.</p>
+        </section>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Cold Open</span><span>{{ report.show_title }}</span><span>2 / 2</span></div>
+</div>
+</body>
+</html>

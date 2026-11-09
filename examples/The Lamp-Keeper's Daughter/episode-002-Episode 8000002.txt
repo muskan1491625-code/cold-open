@@ -1,0 +1,217 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain.
+CONTINUITY NOTES: Episode 2 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:00.00
+Scene end: 00:52.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Slow push-in on Mara as the lamp flickers behind them.
+
+**WIDOW HALLORAN (Cold, Furious):**
+Start: (00:00.40) | End: (00:03.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:09.00)
+High wide shot of the crowded hall turning toward the door.
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:13.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**WIDOW HALLORAN (Silken, Venomous):**
+Start: (00:09.40) | End: (00:10.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (00:13.00) | End: (00:16.00)
+Low angle on the widow framed against the lighthouse beam.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (00:13.40) | End: (00:15.80)
+"Order! I will have order in my hall!"
+
+**SOUND FX:**
+Start: (00:14.50) | End: (00:16.00)
+A string sting swells to a peak.
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:22.00)
+Close-up on the widow's hands gripping the rail.
+
+**WIDOW HALLORAN (Cold, Silken):**
+Start: (00:16.40) | End: (00:19.44)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:26.00)
+Over-the-shoulder shot from the widow toward Tobin.
+
+**CAMERA:**
+Start: (00:26.00) | End: (00:32.00)
+Close-up on Corin's hands gripping the rail.
+
+**TOBIN THE FERRYMAN (Afraid, Gruff):**
+Start: (00:26.40) | End: (00:29.82)
+"I saw who slipped the ring into your shawl."
+
+**CAMERA:**
+Start: (00:32.00) | End: (00:35.00)
+Extreme close-up on Corin's eyes, wet with sea spray.
+
+**MAYOR BRISK (Pompous, Cold):**
+Start: (00:32.40) | End: (00:34.80)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (00:35.00) | End: (00:39.00)
+High wide shot of the crowded hall turning toward the door.
+
+**SELENE (O.S.) (Shrill, Cruel):**
+Start: (00:35.40) | End: (00:38.44)
+"You think a scarred stranger can save you?"
+
+**CAMERA:**
+Start: (00:39.00) | End: (00:45.00)
+Medium two-shot of Tobin and Mara, the space between them charged.
+
+**WIDOW HALLORAN (Venomous, Furious):**
+Start: (00:39.40) | End: (00:40.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (00:45.00) | End: (00:50.00)
+Extreme close-up on Selene's eyes, wet with sea spray.
+
+**MAYOR BRISK (Triumphant, Pompous):**
+Start: (00:45.40) | End: (00:47.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (00:50.00) | End: (00:52.00)
+Close-up on Tobin's hands gripping the rail.
+
+SCENE 02
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:52.00
+Scene end: 01:44.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:58.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**MARA (Broken, Hopeful):**
+Start: (00:52.40) | End: (00:55.06)
+"Then let them come with their torches!"
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:01.00)
+Medium two-shot of Selene and the widow, the space between them charged.
+
+**CORIN (Cold, Protective):**
+Start: (00:58.40) | End: (00:59.92)
+"Step away from her."
+
+**CAMERA:**
+Start: (01:01.00) | End: (01:05.00)
+Extreme close-up on Selene's eyes, wet with sea spray.
+
+**SELENE (Mocking, Cruel):**
+Start: (01:01.40) | End: (01:04.80)
+"Smile, sister. It is your last night of freedom."
+
+**CAMERA:**
+Start: (01:05.00) | End: (01:10.00)
+Over-the-shoulder shot from Mara toward Selene.
+
+**ACTION:**
+Start: (01:05.20) | End: (01:10.00)
+Selene grabs Mara by the wrist.
+
+**WIDOW HALLORAN (Furious, Venomous):**
+Start: (01:05.40) | End: (01:08.44)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:16.00)
+High wide shot of the crowded hall turning toward the door.
+
+**WIDOW HALLORAN (Silken, Venomous):**
+Start: (01:10.40) | End: (01:13.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (01:16.00) | End: (01:20.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**TOBIN THE FERRYMAN (O.S.) (Afraid, Gruff):**
+Start: (01:16.40) | End: (01:19.80)
+"They are coming up the cliff path with lanterns!"
+
+**CAMERA:**
+Start: (01:20.00) | End: (01:26.00)
+Close-up on Selene's jaw tightening.
+
+**MAYOR BRISK (Cold, Triumphant):**
+Start: (01:20.40) | End: (01:23.06)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (01:26.00) | End: (01:31.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**ACTION:**
+Start: (01:26.20) | End: (01:31.00)
+the widow kneels on the slick quay boards.
+
+**CORIN (Dry, Earnest):**
+Start: (01:26.40) | End: (01:27.92)
+"Step away from her."
+
+**CAMERA:**
+Start: (01:31.00) | End: (01:35.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (01:31.20) | End: (01:35.00)
+Corin tears the lace veil and lets it fall.
+
+**MAYOR BRISK (Triumphant, Pompous):**
+Start: (01:31.40) | End: (01:34.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (01:35.00) | End: (01:38.00)
+Extreme close-up on the widow's eyes, wet with sea spray.
+
+**WIDOW HALLORAN (Cold, Furious):**
+Start: (01:35.40) | End: (01:37.80)
+"You were always too soft for this family."
+
+**CAMERA:**
+Start: (01:38.00) | End: (01:42.00)
+Medium two-shot of Mara and the widow, the space between them charged.
+
+**CORIN (Low, Protective):**
+Start: (01:38.40) | End: (01:39.92)
+"Step away from her."
+
+**CAMERA:**
+Start: (01:42.00) | End: (01:44.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (01:42.20) | End: (01:44.00)
+Mara kneels on the slick quay boards.
+
+--- SCRIPT END ---

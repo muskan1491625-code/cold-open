@@ -1,0 +1,174 @@
+EPISODE NUMBER: Episode 9
+EPISODE LOGLINE: Widow Halloran offers Mara a deal that would save her father.
+CONTINUITY NOTES: Episode 9 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowynd Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. LAMP ROOM – DAWN
+Scene start: 00:00.00
+Scene end: 01:24.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Low angle on Corin framed against the lighthouse beam.
+
+**ACTION:**
+Start: (00:00.20) | End: (00:04.00)
+Corin steps between the widow and the crowd.
+
+**WIDOW HALLORAN (Cold, Furious):**
+Start: (00:00.40) | End: (00:01.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.00)
+Slow push-in on Mara as the lamp flickers behind them.
+
+**CAMERA:**
+Start: (00:07.00) | End: (00:13.00)
+Over-the-shoulder shot from Mara toward the widow.
+
+**CAMERA:**
+Start: (00:13.00) | End: (00:16.00)
+Extreme close-up on the widow's eyes, wet with sea spray.
+
+**ACTION:**
+Start: (00:13.20) | End: (00:16.00)
+the widow grabs Tobin by the wrist.
+
+**CORIN (Calm, Dry):**
+Start: (00:13.40) | End: (00:15.80)
+"Marry me at dawn, and no one will dare touch you."
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:19.00)
+Slow push-in on Mara as the lamp flickers behind them.
+
+**TOBIN THE FERRYMAN (Kind, Urgent):**
+Start: (00:16.40) | End: (00:18.80)
+"Your father paid me to watch over you."
+
+**CAMERA:**
+Start: (00:19.00) | End: (00:22.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**WIDOW HALLORAN (Venomous, Furious):**
+Start: (00:19.40) | End: (00:21.80)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:26.00)
+Close-up on Tobin's jaw tightening.
+
+**MARA (Pleading, Quiet):**
+Start: (00:22.40) | End: (00:25.80)
+"My father built this tower with his own hands."
+
+**CAMERA:**
+Start: (00:26.00) | End: (00:32.00)
+Low angle on Mara framed against the lighthouse beam.
+
+**TOBIN THE FERRYMAN (Urgent, Kind):**
+Start: (00:26.40) | End: (00:29.44)
+"Your father paid me to watch over you."
+
+**SOUND FX:**
+Start: (00:30.50) | End: (00:32.00)
+Glass shatters on stone.
+
+**CAMERA:**
+Start: (00:32.00) | End: (00:36.00)
+Slow push-in on Tobin as the lamp flickers behind them.
+
+**MARA (Wary, Quiet):**
+Start: (00:32.40) | End: (00:35.44)
+"Tell me the truth, or tell me nothing."
+
+**CAMERA:**
+Start: (00:36.00) | End: (00:40.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**ACTION:**
+Start: (00:36.20) | End: (00:40.00)
+the widow throws open the shutters; the storm floods in.
+
+**MAYOR BRISK (Pompous, Triumphant):**
+Start: (00:36.40) | End: (00:39.44)
+"Order! I will have order in my hall!"
+
+**CAMERA:**
+Start: (00:40.00) | End: (00:45.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**WIDOW HALLORAN (Furious, Venomous):**
+Start: (00:40.40) | End: (00:41.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (00:45.00) | End: (00:50.00)
+Close-up on Selene's hands gripping the rail.
+
+**ACTION:**
+Start: (00:45.20) | End: (00:50.00)
+Selene draws a short blade from a boot.
+
+**CAMERA:**
+Start: (00:50.00) | End: (00:54.00)
+High wide shot of the crowded hall turning toward the door.
+
+**ACTION:**
+Start: (00:50.20) | End: (00:54.00)
+the Mayor kneels on the slick quay boards.
+
+**CAMERA:**
+Start: (00:54.00) | End: (00:59.00)
+High wide shot of the crowded hall turning toward the door.
+
+**TOBIN THE FERRYMAN (Afraid, Gruff):**
+Start: (00:54.40) | End: (00:57.82)
+"I saw who slipped the ring into your shawl."
+
+**CAMERA:**
+Start: (00:59.00) | End: (01:04.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**SELENE (Mocking, Sweet):**
+Start: (00:59.40) | End: (01:02.06)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (01:04.00) | End: (01:10.00)
+Extreme close-up on Mara's eyes, wet with sea spray.
+
+**WIDOW HALLORAN (Furious, Silken):**
+Start: (01:04.40) | End: (01:07.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:15.00)
+Extreme close-up on Mara's eyes, wet with sea spray.
+
+**SELENE (Venomous, Shrill):**
+Start: (01:10.40) | End: (01:13.44)
+"He is lying. Everyone knows he is lying!"
+
+**CAMERA:**
+Start: (01:15.00) | End: (01:20.00)
+High wide shot of the crowded hall turning toward the door.
+
+**CAMERA:**
+Start: (01:20.00) | End: (01:24.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+**ACTION:**
+Start: (01:20.20) | End: (01:24.00)
+the Mayor slaps the cup from Selene's hand and it shatters.
+
+**SELENE (Shrill, Panicked):**
+Start: (01:20.40) | End: (01:23.80)
+"Smile, sister. It is your last night of freedom."
+
+--- SCRIPT END ---

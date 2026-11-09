@@ -1,0 +1,217 @@
+EPISODE NUMBER: Episode 14
+EPISODE LOGLINE: The truth about the night Corin drowned comes out on the quay.
+CONTINUITY NOTES: Episode 14 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MARROWIND HALL – NIGHT
+Scene start: 00:00.00
+Scene end: 00:48.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Slow push-in on Tobin as the lamp flickers behind them.
+
+**MAYOR BRISK (Cold, Nervous):**
+Start: (00:00.40) | End: (00:03.44)
+"Take the girl to the cells until morning."
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**MARA (Furious, Tender):**
+Start: (00:04.40) | End: (00:06.80)
+"You will not take the lamp from me."
+
+**CAMERA:**
+Start: (00:07.00) | End: (00:10.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**TOBIN THE FERRYMAN (Afraid, Kind):**
+Start: (00:07.40) | End: (00:09.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (00:10.00) | End: (00:14.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**ACTION:**
+Start: (00:10.20) | End: (00:14.00)
+Mara draws a short blade from a boot.
+
+**MAYOR BRISK (Nervous, Cold):**
+Start: (00:10.40) | End: (00:13.44)
+"Take the girl to the cells until morning."
+
+**SOUND FX:**
+Start: (00:12.50) | End: (00:14.00)
+The crowd gasps.
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:19.00)
+Close-up on the Mayor's jaw tightening.
+
+**CORIN (Calm, Dangerous):**
+Start: (00:14.40) | End: (00:17.82)
+"The tide remembers every lie told on this quay."
+
+**CAMERA:**
+Start: (00:19.00) | End: (00:22.00)
+Medium two-shot of Selene and Tobin, the space between them charged.
+
+**WIDOW HALLORAN (Cold, Venomous):**
+Start: (00:19.40) | End: (00:21.80)
+"Expose me and her father hangs beside me."
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:28.00)
+High wide shot of the crowded hall turning toward the door.
+
+**SELENE (Sweet, Venomous):**
+Start: (00:22.40) | End: (00:25.44)
+"You think a scarred stranger can save you?"
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:31.00)
+Close-up on the widow's hands gripping the rail.
+
+**SELENE (Venomous, Mocking):**
+Start: (00:28.40) | End: (00:30.80)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:34.00)
+Close-up on the widow's hands gripping the rail.
+
+**ACTION:**
+Start: (00:31.20) | End: (00:34.00)
+the widow draws a short blade from a boot.
+
+**CORIN (Cold, Dry):**
+Start: (00:31.40) | End: (00:33.80)
+"Say her name again and you will regret it."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:38.00)
+Low angle on the widow framed against the lighthouse beam.
+
+**MAYOR BRISK (Nervous, Cold):**
+Start: (00:34.40) | End: (00:37.06)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (00:38.00) | End: (00:41.00)
+Close-up on Mara's hands gripping the rail.
+
+**CAMERA:**
+Start: (00:41.00) | End: (00:46.00)
+Close-up on Corin's jaw tightening.
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:48.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+SCENE 02
+Scene heading: EXT. HARBOUR QUAY – NIGHT
+Scene start: 00:48.00
+Scene end: 01:36.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:48.00) | End: (00:53.00)
+Medium two-shot of Corin and Selene, the space between them charged.
+
+**MAYOR BRISK (Cold, Triumphant):**
+Start: (00:48.40) | End: (00:51.06)
+"The council has already decided her fate."
+
+**CAMERA:**
+Start: (00:53.00) | End: (00:58.00)
+Over-the-shoulder shot from Selene toward Corin.
+
+**ACTION:**
+Start: (00:53.20) | End: (00:58.00)
+Corin grabs Selene by the wrist.
+
+**CORIN (Dry, Protective):**
+Start: (00:53.40) | End: (00:57.58)
+"Marry me at dawn, and no one will dare touch you."
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:02.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**MARA (Defiant, Broken):**
+Start: (00:58.40) | End: (01:01.44)
+"Is this mercy, or is it another trap?"
+
+**CAMERA:**
+Start: (01:02.00) | End: (01:07.00)
+Close-up on Tobin's hands gripping the rail.
+
+**ACTION:**
+Start: (01:02.20) | End: (01:07.00)
+Tobin grabs Mara by the wrist.
+
+**SELENE (Sweet, Cruel):**
+Start: (01:02.40) | End: (01:05.06)
+"Search her pockets. She is a thief!"
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:13.00)
+Low angle on Mara framed against the lighthouse beam.
+
+**MAYOR BRISK (Pompous, Nervous):**
+Start: (01:07.40) | End: (01:09.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (01:13.00) | End: (01:16.00)
+High wide shot of the crowded hall turning toward the door.
+
+**TOBIN THE FERRYMAN (Gruff, Afraid):**
+Start: (01:13.40) | End: (01:15.80)
+"The boat leaves at the turn of the tide. Be on it."
+
+**CAMERA:**
+Start: (01:16.00) | End: (01:19.00)
+Extreme close-up on Mara's eyes, wet with sea spray.
+
+**CORIN (Protective, Low):**
+Start: (01:16.40) | End: (01:18.80)
+"Marry me at dawn, and no one will dare touch you."
+
+**CAMERA:**
+Start: (01:19.00) | End: (01:24.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+**CAMERA:**
+Start: (01:24.00) | End: (01:28.00)
+Over-the-shoulder shot from Mara toward Tobin.
+
+**SELENE (Shrill, Mocking):**
+Start: (01:24.40) | End: (01:27.44)
+"A lamp-keeper's girl in my mother's lace? Never!"
+
+**CAMERA:**
+Start: (01:28.00) | End: (01:33.00)
+Low angle on Selene framed against the lighthouse beam.
+
+**WIDOW HALLORAN (Cold, Furious):**
+Start: (01:28.40) | End: (01:31.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (01:33.00) | End: (01:36.00)
+Low angle on the Mayor framed against the lighthouse beam.
+
+**CORIN (Low, Earnest):**
+Start: (01:33.40) | End: (01:35.80)
+"I came back for one reason, and she is standing here."
+
+--- SCRIPT END ---

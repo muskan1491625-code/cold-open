@@ -1,0 +1,225 @@
+EPISODE NUMBER: Episode 4
+EPISODE LOGLINE: Selene spreads a rumour that Mara lit a false light to wreck a ship.
+CONTINUITY NOTES: Episode 4 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. LAMP ROOM – DAWN
+Scene start: 00:00.00
+Scene end: 00:52.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**MARA (O.S.) (Quiet, Hopeful):**
+Start: (00:00.40) | End: (00:03.82)
+"My father built this tower with his own hands."
+
+**CAMERA:**
+Start: (00:05.00) | End: (00:11.00)
+Slow push-in on Mara as the lamp flickers behind them.
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:14.00)
+Medium two-shot of Tobin and Selene, the space between them charged.
+
+**MARA (Wary, Tender):**
+Start: (00:11.40) | End: (00:13.80)
+"If I say yes, the harbour keeps its tongue."
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:18.00)
+Slow push-in on Corin as the lamp flickers behind them.
+
+**CAMERA:**
+Start: (00:18.00) | End: (00:24.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**SOUND FX:**
+Start: (00:22.50) | End: (00:24.00)
+Glass shatters on stone.
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:28.00)
+Slow push-in on the Mayor as the lamp flickers behind them.
+
+**ACTION:**
+Start: (00:24.20) | End: (00:28.00)
+the Mayor draws a short blade from a boot.
+
+**MARA (Defiant, Broken):**
+Start: (00:24.40) | End: (00:27.44)
+"I kept that light burning for eleven winters."
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:33.00)
+Close-up on Tobin's hands gripping the rail.
+
+**CORIN (Calm, Dry):**
+Start: (00:28.40) | End: (00:31.44)
+"Nobody leaves this hall until I say so."
+
+**CAMERA:**
+Start: (00:33.00) | End: (00:38.00)
+Extreme close-up on Selene's eyes, wet with sea spray.
+
+**ACTION:**
+Start: (00:33.20) | End: (00:38.00)
+Selene grabs the Mayor by the wrist.
+
+**SELENE (Shrill, Sweet):**
+Start: (00:33.40) | End: (00:36.44)
+"He is lying. Everyone knows he is lying!"
+
+**CAMERA:**
+Start: (00:38.00) | End: (00:43.00)
+Close-up on Selene's hands gripping the rail.
+
+**ACTION:**
+Start: (00:38.20) | End: (00:43.00)
+Selene throws open the shutters; the storm floods in.
+
+**WIDOW HALLORAN (Silken, Furious):**
+Start: (00:38.40) | End: (00:41.44)
+"You were always too soft for this family."
+
+**CAMERA:**
+Start: (00:43.00) | End: (00:46.00)
+Slow push-in on Tobin as the lamp flickers behind them.
+
+**MARA (Hopeful, Broken):**
+Start: (00:43.40) | End: (00:45.80)
+"My father built this tower with his own hands."
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:51.00)
+Close-up on Mara's jaw tightening.
+
+**WIDOW HALLORAN (Cold, Furious):**
+Start: (00:46.40) | End: (00:47.92)
+"Drink deep, little lamp-keeper."
+
+**CAMERA:**
+Start: (00:51.00) | End: (00:52.00)
+Close-up on Mara's jaw tightening.
+
+SCENE 02
+Scene heading: INT. MARROWIND HALL – NIGHT
+Scene start: 00:52.00
+Scene end: 01:44.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:55.00)
+Tight shot on a silver ring glinting in candlelight.
+
+**MAYOR BRISK (Triumphant, Cold):**
+Start: (00:52.40) | End: (00:54.30)
+"Lord Ashvale? That is impossible."
+
+**CAMERA:**
+Start: (00:55.00) | End: (00:58.00)
+Extreme close-up on Tobin's eyes, wet with sea spray.
+
+**SELENE (Cruel, Sweet):**
+Start: (00:55.40) | End: (00:57.80)
+"He is lying. Everyone knows he is lying!"
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:02.00)
+Close-up on Corin's hands gripping the rail.
+
+**WIDOW HALLORAN (Silken, Furious):**
+Start: (00:58.40) | End: (01:01.44)
+"Every wedding needs a widow. Why not two?"
+
+**CAMERA:**
+Start: (01:02.00) | End: (01:07.00)
+Slow push-in on the widow as the lamp flickers behind them.
+
+**ACTION:**
+Start: (01:02.20) | End: (01:07.00)
+the widow throws open the shutters; the storm floods in.
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:11.00)
+Medium two-shot of Corin and Tobin, the space between them charged.
+
+**CAMERA:**
+Start: (01:11.00) | End: (01:14.00)
+Over-the-shoulder shot from Tobin toward Selene.
+
+**TOBIN THE FERRYMAN (Kind, Afraid):**
+Start: (01:11.40) | End: (01:13.80)
+"They are coming up the cliff path with lanterns!"
+
+**CAMERA:**
+Start: (01:14.00) | End: (01:18.00)
+Slow push-in on Selene as the lamp flickers behind them.
+
+**CORIN (Protective, Calm):**
+Start: (01:14.40) | End: (01:17.44)
+"I was drowned once. It did not take."
+
+**CAMERA:**
+Start: (01:18.00) | End: (01:21.00)
+Slow push-in on Mara as the lamp flickers behind them.
+
+**SOUND FX:**
+Start: (01:19.50) | End: (01:21.00)
+The crowd gasps.
+
+**CAMERA:**
+Start: (01:21.00) | End: (01:25.00)
+Slow push-in on Mara as the lamp flickers behind them.
+
+**CORIN (Dry, Cold):**
+Start: (01:21.40) | End: (01:24.80)
+"The tide remembers every lie told on this quay."
+
+**CAMERA:**
+Start: (01:25.00) | End: (01:30.00)
+Close-up on Tobin's hands gripping the rail.
+
+**SELENE (Shrill, Cruel):**
+Start: (01:25.40) | End: (01:28.06)
+"Search her pockets. She is a thief!"
+
+**SOUND FX:**
+Start: (01:28.50) | End: (01:30.00)
+The crowd gasps.
+
+**CAMERA:**
+Start: (01:30.00) | End: (01:33.00)
+Wide shot of the storm-lashed harbour, lanterns swinging on the quay.
+
+**SELENE (Sweet, Cruel):**
+Start: (01:30.40) | End: (01:32.80)
+"Search her pockets. She is a thief!"
+
+**SOUND FX:**
+Start: (01:31.50) | End: (01:33.00)
+A heartbeat pulse rises toward the cliffhanger.
+
+**CAMERA:**
+Start: (01:33.00) | End: (01:39.00)
+Close-up on Mara's hands gripping the rail.
+
+**CORIN (Protective, Dangerous):**
+Start: (01:33.40) | End: (01:36.82)
+"The tide remembers every lie told on this quay."
+
+**CAMERA:**
+Start: (01:39.00) | End: (01:44.00)
+Medium two-shot of Tobin and Selene, the space between them charged.
+
+**WIDOW HALLORAN (O.S.) (Furious, Silken):**
+Start: (01:39.40) | End: (01:42.44)
+"Every wedding needs a widow. Why not two?"
+
+--- SCRIPT END ---
