@@ -1,0 +1,31 @@
+models:
+  miner: gemini/gemini-3.6-flash
+  judge: groq/openai/gpt-oss-120b
+  classifier: gemini/gemini-3.5-flash-lite
+temperature:
+  miner: 0.4
+  judge: 0.7
+  classifier: 0.0
+concurrency: 2
+rpm: 10
+rpm_by_provider: {}
+paywall_episode: 10
+fps: 30
+weights:
+  hook: 0.25
+  cliff: 0.2
+  viewer: 0.25
+  tension: 0.15
+  quality: 0.15
+penalties:
+  review: 0.05
+  organic_only: 0.15
+  spoiler: 0.1
+  paywall: 0.1
+  referent: 0.03
+  referent_cap: 0.09
+mmr_lambda: 0.7
+slate:
+  challengers: 4
+  bench: 10
+judge_limit: null

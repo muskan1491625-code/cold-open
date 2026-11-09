@@ -1,0 +1,25 @@
+{
+  "key": "e510940363e25044e4325ebd6313b87ea001681eee8ee5b31ab5803f273d52e0",
+  "role": "judge",
+  "prompt_name": "viewer_full",
+  "model": "groq/TODO-llama-model",
+  "temperature": 0.7,
+  "schema": "FullReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You have never heard of this show. You just watched this whole clip (descriptions in brackets are what is on screen; speakers are described by how they look):\n[On screen: Slow push-in on the the figure in period dress as the lamp flickers behind them.]\n[Action: the the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"I kept that light burning for eleven winters.\"\n[Hard cut]\n[On screen: Close-up on the the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Then let them come with their torches!\"\n[On screen: Extreme close-up on the widow's eyes, wet with sea spray.]\n[Action: the widow grabs the man in period dress by the wrist.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress: \"You were always too soft for this family.\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\n[Action: the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"Search her pockets. She is a thief!\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"Take the girl to the cells until morning.\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\n[Action: the figure in period dress tears the lace veil and lets it fall.]\na figure in period dress (off-screen): \"Order! I will have order in my hall!\"\nAnswer as a normal viewer would, in a few words each. Return ONLY JSON:\n{\"main_character\": \"...\", \"what_they_want\": \"...\", \"conflict\": \"...\", \"left_wondering\": \"the question you are left with\", \"need_next\": 1-5, \"confusing\": [\"moments or names you did not understand\"]}\n"
+    }
+  ],
+  "response_text": "{\"main_character\": \"a figure in period dress\", \"what_they_want\": \"[mock] to be believed and get out of this moment\", \"conflict\": \"[mock] pressure from a man in period dress\", \"left_wondering\": \"[mock] what comes after: \\\"Order! I will have order in my hall!\\\"\", \"need_next\": 4, \"confusing\": [\"Order\", \"Search\", \"Take\"]}",
+  "tokens_in": 463,
+  "tokens_out": 79,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

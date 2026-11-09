@@ -1,0 +1,25 @@
+{
+  "key": "2bad35c303da74952ac1e21f4ec42d7604d36e45a1ced546aa3a24c4e8ea686b",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E06.014 | 00:27.00-00:31.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE06.015 | 00:27.20-00:31.00 | ACT | Selene slaps the cup from Corin's hand and it shatters.\nE06.016 | 00:27.40-00:30.80 | DLG | TOBIN THE FERRYMAN (O.S., gruff, urgent) | \"The boat leaves at the turn of the tide. Be on it.\"\nE06.017 | 00:31.00-00:36.00 | CAM | Close-up on Corin's hands gripping the rail.\nE06.018 | 00:31.40-00:34.44 | DLG | TOBIN THE FERRYMAN (gruff, afraid) | \"Your father paid me to watch over you.\"\nE06.019 | 00:36.00-00:39.00 | CAM | Over-the-shoulder shot from Mara toward Tobin.\nE06.020 | 00:36.40-00:38.80 | DLG | TOBIN THE FERRYMAN (urgent, kind) | \"I saw who slipped the ring into your shawl.\"\nE06.021 | 00:39.00-00:44.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE06.022 | 00:39.40-00:42.82 | DLG | SELENE (sweet, panicked) | \"Smile, sister. It is your last night of freedom.\"\nE06.023 | 00:44.00-00:47.00 | CAM | Medium two-shot of the Mayor and Mara, the space between them charged.\nE06.024 | 00:44.40-00:46.80 | DLG | MAYOR BRISK (cold, nervous) | \"Order! I will have order in my hall!\"\nE06.025 | 00:47.00-00:52.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE06.026 | 00:47.40-00:50.44 | DLG | MARA (furious, broken) | \"I kept that light burning for eleven winters.\"\nE06.027 | 00:52.00-00:56.00 | CAM | Low angle on the Mayor framed against the lighthouse beam.\nE06.028 | 00:52.40-00:55.44 | DLG | WIDOW HALLORAN (cold, venomous) | \"Expose me and her father hangs beside me.\"\nE06.029 | 00:56.00-00:59.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE06.030 | 00:56.40-00:58.80 | DLG | MARA (furious, hopeful) | \"Tell me the truth, or tell me nothing.\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\", \"graphic_violence\"], \"evidence_ids\": [\"E06.015\", \"E06.028\"], \"reveals_disclosed\": []}",
+  "tokens_in": 747,
+  "tokens_out": 34,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

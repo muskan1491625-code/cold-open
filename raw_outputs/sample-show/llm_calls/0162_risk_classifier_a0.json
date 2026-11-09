@@ -1,0 +1,25 @@
+{
+  "key": "e2f0d970d41c2df6c2e5d73613eb5448606a5cc3c99f2f6d90e30e44d68bad92",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E12.005 | 00:09.00-00:14.00 | CAM | Low angle on the Mayor framed against the lighthouse beam.\nE12.006 | 00:09.40-00:12.44 | DLG | WIDOW HALLORAN (O.S., cold, venomous) | \"Every wedding needs a widow. Why not two?\"\n[Hard cut]\nE11.005 | 00:09.00-00:14.00 | CAM | Close-up on the Mayor's jaw tightening.\nE11.006 | 00:09.40-00:12.06 | DLG | MAYOR BRISK (cold, pompous) | \"The council has already decided her fate.\"\nE11.007 | 00:14.00-00:19.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE11.008 | 00:14.40-00:17.44 | DLG | SELENE (panicked, shrill) | \"A lamp-keeper's girl in my mother's lace? Never!\"\nE11.009 | 00:19.00-00:23.00 | CAM | Close-up on Selene's hands gripping the rail.\nE11.010 | 00:19.20-00:23.00 | ACT | Selene kneels on the slick quay boards.\nE11.011 | 00:19.40-00:22.06 | DLG | SELENE (shrill, cruel) | \"Search her pockets. She is a thief!\"\nE11.012 | 00:23.00-00:29.00 | CAM | Medium two-shot of Selene and Tobin, the space between them charged.\nE11.013 | 00:23.40-00:26.82 | DLG | TOBIN THE FERRYMAN (O.S., urgent, gruff) | \"I saw who slipped the ring into your shawl.\"\nE11.014 | 00:29.00-00:34.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE11.015 | 00:29.40-00:32.06 | DLG | SELENE (shrill, mocking) | \"Mother will see you hang for this.\"\nE11.016 | 00:34.00-00:38.00 | CAM | Medium two-shot of Tobin and Mara, the space between them charged.\nE11.017 | 00:34.20-00:38.00 | ACT | Tobin slaps the cup from Mara's hand and it shatters.\nE11.018 | 00:34.40-00:37.06 | DLG | SELENE (panicked, shrill) | \"Search her pockets. She is a thief!\"\nE11.019 | 00:38.00-00:42.00 | CAM | Close-up on Corin's jaw tightening.\nE11.020 | 00:38.40-00:40.30 | DLG | MAYOR BRISK (pompous, triumphant) | \"Lord Ashvale? That is impossible.\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\", \"graphic_violence\"], \"evidence_ids\": [\"E11.015\", \"E11.017\"], \"reveals_disclosed\": []}",
+  "tokens_in": 750,
+  "tokens_out": 34,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

@@ -1,0 +1,25 @@
+{
+  "key": "fe962eec25403dd36df65730e89c3d3c962eab62514c50ed03565afc50d4fd87",
+  "role": "judge",
+  "prompt_name": "viewer_hook",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "HookReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You are scrolling a short-video feed late at night. You have never heard of this show. This is everything you see and hear in the first 3 seconds of a clip:\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\n[Action: the figure in period dress steps between the widow and the crowd.]\na figure in period dress: \"Drink deep, little lamp-keeper.\"\nWould you stop scrolling? Return ONLY JSON: {\"stop\": 1-5, \"reason\": \"<= 15 words\"}\n1 = keep scrolling, 5 = I have to see this.\n"
+    }
+  ],
+  "response_text": "{\"stop\": 2, \"reason\": \"[mock] slow, establishing opening\"}",
+  "tokens_in": 127,
+  "tokens_out": 14,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

@@ -1,0 +1,25 @@
+{
+  "key": "c4de8ae45f8a618b8fa237f88a3f2badad340cdc27f96aeb85c034195221a827",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E07.020 | 00:45.00-00:51.00 | CAM | Medium two-shot of Selene and the Mayor, the space between them charged.\nE07.021 | 00:45.40-00:48.44 | DLG | CORIN (O.S., protective, low) | \"The ring smells of your rose oil, Selene.\"\nE07.022 | 00:51.00-00:56.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE07.023 | 00:54.50-00:56.00 | SFX | A heartbeat pulse rises toward the cliffhanger.\nE07.024 | 00:56.00-00:59.00 | CAM | Low angle on Selene framed against the lighthouse beam.\nE07.025 | 00:56.40-00:58.80 | DLG | WIDOW HALLORAN (cold, silken) | \"Expose me and her father hangs beside me.\"\nE07.026 | 00:59.00-01:04.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE07.027 | 00:59.40-01:02.82 | DLG | SELENE (cruel, mocking) | \"Smile, sister. It is your last night of freedom.\"\nE07.028 | 01:04.00-01:09.00 | CAM | Over-the-shoulder shot from Selene toward Corin.\nE07.029 | 01:04.20-01:09.00 | ACT | Corin steps between Selene and the crowd.\nE07.030 | 01:04.40-01:07.82 | DLG | MARA (pleading, quiet) | \"My father built this tower with his own hands.\"\nE07.031 | 01:09.00-01:12.00 | CAM | Slow push-in on Mara as the lamp flickers behind them.\nE07.032 | 01:09.40-01:11.80 | DLG | TOBIN THE FERRYMAN (afraid, urgent) | \"The boat leaves at the turn of the tide. Be on it.\"\nE07.033 | 01:12.00-01:15.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE07.034 | 01:12.40-01:14.80 | DLG | TOBIN THE FERRYMAN (gruff, kind) | \"I saw who slipped the ring into your shawl.\"\nE07.035 | 01:15.00-01:18.00 | CAM | Over-the-shoulder shot from Corin toward Selene.\nE07.036 | 01:15.40-01:17.80 | DLG | SELENE (panicked, shrill) | \"Search her pockets. She is a thief!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E07.023\", \"E07.025\"], \"reveals_disclosed\": []}",
+  "tokens_in": 725,
+  "tokens_out": 29,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

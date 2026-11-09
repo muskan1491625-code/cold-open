@@ -1,0 +1,25 @@
+{
+  "key": "2c3e4d2283677907a1ab34acf98d8029a16b74e9c08a49929227609c7d4f17ad",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E02.029 | 01:05.00-01:10.00 | CAM | Over-the-shoulder shot from Mara toward Selene.\nE02.030 | 01:05.20-01:10.00 | ACT | Selene grabs Mara by the wrist.\nE02.031 | 01:05.40-01:08.44 | DLG | WIDOW HALLORAN (furious, venomous) | \"Expose me and her father hangs beside me.\"\nE02.032 | 01:10.00-01:16.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE02.033 | 01:10.40-01:13.44 | DLG | WIDOW HALLORAN (silken, venomous) | \"Every wedding needs a widow. Why not two?\"\nE02.034 | 01:16.00-01:20.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE02.035 | 01:16.40-01:19.80 | DLG | TOBIN THE FERRYMAN (O.S., afraid, gruff) | \"They are coming up the cliff path with lanterns!\"\nE02.036 | 01:20.00-01:26.00 | CAM | Close-up on Selene's jaw tightening.\nE02.037 | 01:20.40-01:23.06 | DLG | MAYOR BRISK (cold, triumphant) | \"The council has already decided her fate.\"\nE02.038 | 01:26.00-01:31.00 | CAM | Slow push-in on the widow as the lamp flickers behind them.\nE02.039 | 01:26.20-01:31.00 | ACT | the widow kneels on the slick quay boards.\nE02.040 | 01:26.40-01:27.92 | DLG | CORIN (dry, earnest) | \"Step away from her.\"\nE02.041 | 01:31.00-01:35.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE02.042 | 01:31.20-01:35.00 | ACT | Corin tears the lace veil and lets it fall.\nE02.043 | 01:31.40-01:34.44 | DLG | MAYOR BRISK (triumphant, pompous) | \"Order! I will have order in my hall!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E02.030\", \"E02.031\"], \"reveals_disclosed\": []}",
+  "tokens_in": 668,
+  "tokens_out": 29,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

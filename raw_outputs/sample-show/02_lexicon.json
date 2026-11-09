@@ -1,0 +1,156 @@
+{
+ "stats": {
+  "tags": 29,
+  "reused": 0,
+  "asked": 29,
+  "missing": 0,
+  "missing_tags": []
+ },
+ "tags": {
+  "afraid": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "broken": {
+   "arousal": 0.6,
+   "valence": -0.6,
+   "is_emotion": true
+  },
+  "calm": {
+   "arousal": 0.2,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "cold": {
+   "arousal": 0.6,
+   "valence": -0.6,
+   "is_emotion": true
+  },
+  "cruel": {
+   "arousal": 0.6,
+   "valence": -0.6,
+   "is_emotion": true
+  },
+  "dangerous": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "defiant": {
+   "arousal": 0.6,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "dry": {
+   "arousal": 0.2,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "earnest": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "furious": {
+   "arousal": 0.85,
+   "valence": -0.6,
+   "is_emotion": true
+  },
+  "gruff": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "hopeful": {
+   "arousal": 0.4,
+   "valence": 0.6,
+   "is_emotion": true
+  },
+  "kind": {
+   "arousal": 0.4,
+   "valence": 0.6,
+   "is_emotion": true
+  },
+  "low": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": false
+  },
+  "mocking": {
+   "arousal": 0.6,
+   "valence": -0.6,
+   "is_emotion": true
+  },
+  "nervous": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "panicked": {
+   "arousal": 0.85,
+   "valence": -0.6,
+   "is_emotion": true
+  },
+  "pleading": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "pompous": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "protective": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "quiet": {
+   "arousal": 0.2,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "shrill": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "silken": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "sweet": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "tender": {
+   "arousal": 0.2,
+   "valence": 0.6,
+   "is_emotion": true
+  },
+  "triumphant": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "urgent": {
+   "arousal": 0.6,
+   "valence": 0.0,
+   "is_emotion": true
+  },
+  "venomous": {
+   "arousal": 0.85,
+   "valence": -0.6,
+   "is_emotion": true
+  },
+  "wary": {
+   "arousal": 0.4,
+   "valence": 0.0,
+   "is_emotion": true
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "labels": [
+  {
+   "label": "MAYOR BRISK",
+   "first_ep": 1,
+   "last_ep": 14,
+   "lines": 53
+  },
+  {
+   "label": "SELENE",
+   "first_ep": 1,
+   "last_ep": 14,
+   "lines": 46
+  },
+  {
+   "label": "WIDOW HALLORAN",
+   "first_ep": 1,
+   "last_ep": 14,
+   "lines": 45
+  },
+  {
+   "label": "TOBIN THE FERRYMAN",
+   "first_ep": 1,
+   "last_ep": 14,
+   "lines": 40
+  },
+  {
+   "label": "CORIN",
+   "first_ep": 1,
+   "last_ep": 14,
+   "lines": 37
+  },
+  {
+   "label": "MARA",
+   "first_ep": 1,
+   "last_ep": 14,
+   "lines": 28
+  }
+ ],
+ "conflict_candidates": [
+  {
+   "variants": [
+    {
+     "spelling": "Marrowind",
+     "episodes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      14
+     ]
+    },
+    {
+     "spelling": "Marrowynd",
+     "episodes": [
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "spelling": "Marrowinde",
+     "episodes": [
+      10,
+      11,
+      12,
+      13,
+      14
+     ]
+    }
+   ]
+  }
+ ],
+ "speaker_resolution": {
+  "resolved": 249
+ }
+}

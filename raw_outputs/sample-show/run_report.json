@@ -1,0 +1,50 @@
+{
+  "run_id": "demo-lamp",
+  "show_title": "The Lamp-Keeper's Daughter",
+  "started_at": "2026-11-09T05:51:53+00:00",
+  "finished_at": "2026-11-09T05:51:53+00:00",
+  "models": {
+    "miner": "gemini/gemini-3.6-flash",
+    "judge": "groq/openai/gpt-oss-120b",
+    "classifier": "gemini/gemini-3.5-flash-lite",
+    "provider": "mock"
+  },
+  "llm_calls": 173,
+  "tokens_in": 133734,
+  "tokens_out": 14297,
+  "cost_usd": 0.0,
+  "stage_seconds": {
+    "parse": 0.01,
+    "bible": 0.01,
+    "lexicon": 0.0,
+    "ekg": 0.31,
+    "mine": 0.03,
+    "snap": 0.04,
+    "viewer": 0.05,
+    "risk": 0.02,
+    "slate": 0.02
+  },
+  "counts": {
+    "episodes": 14,
+    "atoms": 640,
+    "raw_candidates": 62,
+    "arc_bridge_raw": 4,
+    "valid": 38,
+    "repaired": 4,
+    "repair_attempts": 4,
+    "duplicate": 24,
+    "slate": 5,
+    "bench": 10
+  },
+  "constraint_pass": {
+    "valid_timestamps": 1.0,
+    "duration": 1.0,
+    "hook_within_3s": 1.0,
+    "no_midline_cuts": 1.0,
+    "cliffhanger_included": 1.0,
+    "text_match": 1.0
+  },
+  "notes": [
+    "Mock provider: LLM answers are heuristic stand-ins, not model judgements."
+  ]
+}

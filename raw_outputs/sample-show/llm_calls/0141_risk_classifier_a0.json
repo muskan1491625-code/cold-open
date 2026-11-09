@@ -1,0 +1,25 @@
+{
+  "key": "ade07dc7264a0aa81a62bb7d923f801506f8c2de077979d07b090efb713e40d0",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E03.026 | 00:52.00-00:58.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE03.027 | 00:52.40-00:55.82 | DLG | MARA (tender, quiet) | \"My father built this tower with his own hands.\"\nE03.028 | 00:58.00-01:03.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE03.029 | 00:58.20-01:03.00 | ACT | the Mayor throws open the shutters; the storm floods in.\nE03.030 | 00:58.40-01:01.44 | DLG | SELENE (cruel, venomous) | \"You think a scarred stranger can save you?\"\nE03.031 | 01:03.00-01:09.00 | CAM | Close-up on the widow's hands gripping the rail.\nE03.032 | 01:03.20-01:09.00 | ACT | the widow slaps the cup from the Mayor's hand and it shatters.\nE03.033 | 01:03.40-01:06.44 | DLG | WIDOW HALLORAN (silken, furious) | \"You were always too soft for this family.\"\nE03.034 | 01:09.00-01:15.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE03.035 | 01:09.40-01:12.82 | DLG | SELENE (shrill, cruel) | \"Smile, sister. It is your last night of freedom.\"\nE03.036 | 01:15.00-01:19.00 | CAM | Medium two-shot of Mara and the Mayor, the space between them charged.\nE03.037 | 01:15.40-01:17.30 | DLG | MAYOR BRISK (nervous, pompous) | \"Lord Ashvale? That is impossible.\"\nE03.038 | 01:19.00-01:24.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE03.039 | 01:24.00-01:29.00 | CAM | Medium two-shot of Corin and the Mayor, the space between them charged.\nE03.040 | 01:24.40-01:27.44 | DLG | SELENE (mocking, shrill) | \"A lamp-keeper's girl in my mother's lace? Never!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"graphic_violence\"], \"evidence_ids\": [\"E03.032\"], \"reveals_disclosed\": []}",
+  "tokens_in": 688,
+  "tokens_out": 28,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

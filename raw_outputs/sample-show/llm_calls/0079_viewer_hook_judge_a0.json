@@ -1,0 +1,25 @@
+{
+  "key": "6f6daa7f2ac0b779464501fda0a503109084a8637ed2f835c5e8b95933940963",
+  "role": "judge",
+  "prompt_name": "viewer_hook",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "HookReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You are scrolling a short-video feed late at night. You have never heard of this show. This is everything you see and hear in the first 3 seconds of a clip:\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[Hard cut]\n[On screen: Close-up on the widow's jaw tightening.]\na figure in period dress: \"Why does the sea give back only what it wants?\"\nWould you stop scrolling? Return ONLY JSON: {\"stop\": 1-5, \"reason\": \"<= 15 words\"}\n1 = keep scrolling, 5 = I have to see this.\n"
+    }
+  ],
+  "response_text": "{\"stop\": 3, \"reason\": \"[mock] slow, establishing opening\"}",
+  "tokens_in": 144,
+  "tokens_out": 14,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

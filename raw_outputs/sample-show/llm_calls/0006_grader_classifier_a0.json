@@ -1,0 +1,25 @@
+{
+  "key": "a8aa7bce99690934912bf8b445c824b488cec0c193a1980b82f9e4006bd31914",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E1, E2): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nCorin (a figure in period dress): [mock] speaks 37 lines between E1 and E14\nMara (a figure in period dress): [mock] speaks 28 lines between E1 and E14\nArc [mock] Part 1: Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nE1: Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nE2: The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain.\nCLIP: [On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[Hard cut]\n[On screen: Over-the-shoulder shot from the figure in period dress toward the widow.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Take the girl to the cells until morning.\"\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Mother will see you hang for this.\"\n[Sound: Glass shatters on stone.]\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"\n[On screen: Over-the-shoulder shot from the man in period dress toward the figure in period dress.]\na figure in period dress: \"If I say yes, the harbour keeps its tongue.\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\n[Action: the figure in period dress grabs the the figure in period dress by the wrist.]\na figure in period dress: \"Say her name again and you will regret it.\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"I came back for one reason, and she is standing here.\"\n[On screen: Slow push-in on the man in period dress as the lamp flickers behind them.]\n[Action: the man in period dress slaps the cup from the the figure in period dress's hand and it shatters.]\n[On screen: Extreme close-up on the the figure in period dress's eyes, wet with sea spray.]\na figure in period dress: \"Lord Ashvale? That is impossible.\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress\",\"left_wondering\":\"[mock] what comes after: \\\"Lord Ashvale? That is impossible.\\\"\",\"need_next\":4,\"confusing\":[\"Ashvale\",\"Every\",\"Lord\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 850,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

@@ -1,0 +1,86 @@
+{"candidate_id": "C01-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C01-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C01-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C01-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C02-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C02-02", "source": "episode", "status": "repaired", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": true, "first_reasons": ["duration_out_of_range"]}
+{"candidate_id": "C02-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C02-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C02-05", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C03-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C03-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C03-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C03-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C03-05", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C04-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C04-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C04-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C04-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C05-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C05-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C05-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C05-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C06-01", "source": "episode", "status": "repaired", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": true, "first_reasons": ["duration_out_of_range"]}
+{"candidate_id": "C06-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C06-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C06-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C06-05", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C07-01", "source": "episode", "status": "repaired", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": true, "first_reasons": ["duration_out_of_range"]}
+{"candidate_id": "C07-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C07-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C07-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C08-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C08-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C08-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C08-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C09-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C09-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C09-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C09-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C10-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C10-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C10-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": false}
+{"candidate_id": "C10-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C11-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C11-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C11-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C11-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C12-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C12-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C12-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C13-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C13-02", "source": "episode", "status": "repaired", "reasons": [], "repairs": ["end on the shot change right after the cliffhanger"], "llm_repair": true, "first_reasons": ["duration_out_of_range"]}
+{"candidate_id": "C13-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C13-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C14-01", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C14-02", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C14-03", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "C14-04", "source": "episode", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "AB-01", "source": "arc_bridge", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "AB-02", "source": "arc_bridge", "status": "valid", "reasons": [], "repairs": ["end at cliffhanger + 0.3 s"], "llm_repair": false}
+{"candidate_id": "AB-03", "source": "arc_bridge", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "AB-04", "source": "arc_bridge", "status": "valid", "reasons": [], "repairs": ["end extended to the cliffhanger's shot change"], "llm_repair": false}
+{"candidate_id": "C05-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C05-02"}
+{"candidate_id": "C02-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C02-02"}
+{"candidate_id": "C05-01", "status": "duplicate", "reasons": ["duplicate"], "kept": "C05-02"}
+{"candidate_id": "C02-05", "status": "duplicate", "reasons": ["duplicate"], "kept": "C02-02"}
+{"candidate_id": "C05-04", "status": "duplicate", "reasons": ["duplicate"], "kept": "C05-02"}
+{"candidate_id": "C09-04", "status": "duplicate", "reasons": ["duplicate"], "kept": "C09-02"}
+{"candidate_id": "C12-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C12-01"}
+{"candidate_id": "C01-01", "status": "duplicate", "reasons": ["duplicate"], "kept": "C01-04"}
+{"candidate_id": "C03-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C03-01"}
+{"candidate_id": "C04-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C04-04"}
+{"candidate_id": "C07-02", "status": "duplicate", "reasons": ["duplicate"], "kept": "AB-04"}
+{"candidate_id": "C09-01", "status": "duplicate", "reasons": ["duplicate"], "kept": "C09-02"}
+{"candidate_id": "C10-02", "status": "duplicate", "reasons": ["duplicate"], "kept": "C10-04"}
+{"candidate_id": "C11-02", "status": "duplicate", "reasons": ["duplicate"], "kept": "C11-01"}
+{"candidate_id": "C11-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C11-04"}
+{"candidate_id": "C14-04", "status": "duplicate", "reasons": ["duplicate"], "kept": "C14-02"}
+{"candidate_id": "C01-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C01-02"}
+{"candidate_id": "C02-04", "status": "duplicate", "reasons": ["duplicate"], "kept": "C02-02"}
+{"candidate_id": "C03-02", "status": "duplicate", "reasons": ["duplicate"], "kept": "C03-04"}
+{"candidate_id": "C04-02", "status": "duplicate", "reasons": ["duplicate"], "kept": "C04-04"}
+{"candidate_id": "C06-03", "status": "duplicate", "reasons": ["duplicate"], "kept": "C06-02"}
+{"candidate_id": "C08-02", "status": "duplicate", "reasons": ["duplicate"], "kept": "C08-04"}
+{"candidate_id": "C13-01", "status": "duplicate", "reasons": ["duplicate"], "kept": "C13-04"}
+{"candidate_id": "C14-01", "status": "duplicate", "reasons": ["duplicate"], "kept": "C14-03"}

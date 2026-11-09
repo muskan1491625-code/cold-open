@@ -1,0 +1,25 @@
+{
+  "key": "73d10bcf8ec3b591122a8c238542d5c13cbb68770c470af86430ac711b695ff1",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E11.009 | 00:19.00-00:23.00 | CAM | Close-up on Selene's hands gripping the rail.\nE11.010 | 00:19.20-00:23.00 | ACT | Selene kneels on the slick quay boards.\nE11.011 | 00:19.40-00:22.06 | DLG | SELENE (shrill, cruel) | \"Search her pockets. She is a thief!\"\nE11.012 | 00:23.00-00:29.00 | CAM | Medium two-shot of Selene and Tobin, the space between them charged.\nE11.013 | 00:23.40-00:26.82 | DLG | TOBIN THE FERRYMAN (O.S., urgent, gruff) | \"I saw who slipped the ring into your shawl.\"\nE11.014 | 00:29.00-00:34.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE11.015 | 00:29.40-00:32.06 | DLG | SELENE (shrill, mocking) | \"Mother will see you hang for this.\"\nE11.016 | 00:34.00-00:38.00 | CAM | Medium two-shot of Tobin and Mara, the space between them charged.\nE11.017 | 00:34.20-00:38.00 | ACT | Tobin slaps the cup from Mara's hand and it shatters.\nE11.018 | 00:34.40-00:37.06 | DLG | SELENE (panicked, shrill) | \"Search her pockets. She is a thief!\"\nE11.019 | 00:38.00-00:42.00 | CAM | Close-up on Corin's jaw tightening.\nE11.020 | 00:38.40-00:40.30 | DLG | MAYOR BRISK (pompous, triumphant) | \"Lord Ashvale? That is impossible.\"\nE11.021 | 00:42.00-00:47.00 | CAM | Close-up on the widow's jaw tightening.\nE11.022 | 00:47.00-00:50.00 | CAM | Low angle on Selene framed against the lighthouse beam.\nE11.023 | 00:47.40-00:49.80 | DLG | TOBIN THE FERRYMAN (kind, afraid) | \"Your father paid me to watch over you.\"\nE11.024 | 00:50.00-00:56.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE11.025 | 00:50.40-00:53.44 | DLG | TOBIN THE FERRYMAN (gruff, urgent) | \"Your father paid me to watch over you.\"\nE11.026 | 00:56.00-01:00.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE11.027 | 00:56.40-00:59.44 | DLG | WIDOW HALLORAN (silken, cold) | \"Every wedding needs a widow. Why not two?\"\nE11.028 | 01:00.00-01:04.00 | CAM | Slow push-in on the widow as the lamp flickers behind them.\nE11.029 | 01:00.40-01:03.44 | DLG | SELENE (shrill, mocking) | \"He is lying. Everyone knows he is lying!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\", \"graphic_violence\"], \"evidence_ids\": [\"E11.015\", \"E11.017\"], \"reveals_disclosed\": []}",
+  "tokens_in": 819,
+  "tokens_out": 34,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

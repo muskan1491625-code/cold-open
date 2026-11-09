@@ -1,0 +1,186 @@
+{
+  "premise": "[mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.",
+  "characters": [
+    {
+      "canonical": "Mayor Brisk",
+      "aliases": [
+        {
+          "label": "MAYOR BRISK",
+          "first_ep": 1,
+          "last_ep": 14
+        }
+      ],
+      "role": "[mock] speaks 53 lines between E1 and E14",
+      "visual_descriptor": "a figure in period dress"
+    },
+    {
+      "canonical": "Selene",
+      "aliases": [
+        {
+          "label": "SELENE",
+          "first_ep": 1,
+          "last_ep": 14
+        }
+      ],
+      "role": "[mock] speaks 46 lines between E1 and E14",
+      "visual_descriptor": "a figure in period dress"
+    },
+    {
+      "canonical": "Widow Halloran",
+      "aliases": [
+        {
+          "label": "WIDOW HALLORAN",
+          "first_ep": 1,
+          "last_ep": 14
+        }
+      ],
+      "role": "[mock] speaks 45 lines between E1 and E14",
+      "visual_descriptor": "a figure in period dress"
+    },
+    {
+      "canonical": "Tobin The Ferryman",
+      "aliases": [
+        {
+          "label": "TOBIN THE FERRYMAN",
+          "first_ep": 1,
+          "last_ep": 14
+        }
+      ],
+      "role": "[mock] speaks 40 lines between E1 and E14",
+      "visual_descriptor": "a man in period dress"
+    },
+    {
+      "canonical": "Corin",
+      "aliases": [
+        {
+          "label": "CORIN",
+          "first_ep": 1,
+          "last_ep": 14
+        }
+      ],
+      "role": "[mock] speaks 37 lines between E1 and E14",
+      "visual_descriptor": "a figure in period dress"
+    },
+    {
+      "canonical": "Mara",
+      "aliases": [
+        {
+          "label": "MARA",
+          "first_ep": 1,
+          "last_ep": 14
+        }
+      ],
+      "role": "[mock] speaks 28 lines between E1 and E14",
+      "visual_descriptor": "a figure in period dress"
+    }
+  ],
+  "arcs": [
+    {
+      "name": "[mock] Part 1",
+      "first_ep": 1,
+      "last_ep": 3,
+      "summary": "Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her."
+    },
+    {
+      "name": "[mock] Part 2",
+      "first_ep": 4,
+      "last_ep": 6,
+      "summary": "Selene spreads a rumour that Mara lit a false light to wreck a ship."
+    },
+    {
+      "name": "[mock] Part 3",
+      "first_ep": 7,
+      "last_ep": 9,
+      "summary": "Corin's past returns on a ship flying a black pennant."
+    },
+    {
+      "name": "[mock] Part 4",
+      "first_ep": 10,
+      "last_ep": 14,
+      "summary": "A storm traps the whole family in the lighthouse overnight."
+    }
+  ],
+  "key_reveals": [
+    {
+      "id": "R01",
+      "description": "[mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her",
+      "episode": 1
+    },
+    {
+      "id": "R02",
+      "description": "[mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain",
+      "episode": 2
+    },
+    {
+      "id": "R03",
+      "description": "[mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family",
+      "episode": 3
+    },
+    {
+      "id": "R04",
+      "description": "[mock] Selene spreads a rumour that Mara lit a false light to wreck a ship",
+      "episode": 4
+    },
+    {
+      "id": "R05",
+      "description": "[mock] Tobin the ferryman reveals what he saw on the night of the feast",
+      "episode": 5
+    },
+    {
+      "id": "R06",
+      "description": "[mock] The council votes to take the lighthouse from Mara",
+      "episode": 6
+    },
+    {
+      "id": "R07",
+      "description": "[mock] Corin's past returns on a ship flying a black pennant",
+      "episode": 7
+    },
+    {
+      "id": "R08",
+      "description": "[mock] Mara discovers her father's logbook hidden in the lamp room",
+      "episode": 8
+    }
+  ],
+  "continuity_conflicts": [
+    {
+      "entity": "Marrowind",
+      "variants": [
+        {
+          "spelling": "Marrowind",
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            14
+          ]
+        },
+        {
+          "spelling": "Marrowynd",
+          "episodes": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "spelling": "Marrowinde",
+          "episodes": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "note": "[mock] code-detected; not judged"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "key": "b947abd830d4f5eae3912197b3ab78b67493bd3bd00a2a9a3e2787f65241f236",
+  "role": "judge",
+  "prompt_name": "viewer_full",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "FullReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You have never heard of this show. You just watched this whole clip (descriptions in brackets are what is on screen; speakers are described by how they look):\n[On screen: Medium two-shot of the figure in period dress and the the figure in period dress, the space between them char…]\na figure in period dress (off-screen): \"The ring smells of your rose oil, Selene.\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\n[Sound: A heartbeat pulse rises toward the cliffhanger.]\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na figure in period dress: \"Expose me and her father hangs beside me.\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"Smile, sister. It is your last night of freedom.\"\n[On screen: Over-the-shoulder shot from the figure in period dress toward the figure in period dress.]\n[Action: the figure in period dress steps between the figure in period dress and the crowd.]\na figure in period dress: \"My father built this tower with his own hands.\"\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na man in period dress: \"I saw who slipped the ring into your shawl.\"\n[On screen: Over-the-shoulder shot from the figure in period dress toward the figure in period dress.]\na figure in period dress: \"Search her pockets. She is a thief!\"\nAnswer as a normal viewer would, in a few words each. Return ONLY JSON:\n{\"main_character\": \"...\", \"what_they_want\": \"...\", \"conflict\": \"...\", \"left_wondering\": \"the question you are left with\", \"need_next\": 1-5, \"confusing\": [\"moments or names you did not understand\"]}\n"
+    }
+  ],
+  "response_text": "{\"main_character\": \"a figure in period dress\", \"what_they_want\": \"[mock] to be believed and get out of this moment\", \"conflict\": \"[mock] pressure from a man in period dress\", \"left_wondering\": \"[mock] what comes after: \\\"Search her pockets. She is a thief!\\\"\", \"need_next\": 4, \"confusing\": [\"Expose\", \"Search\", \"Selene\"]}",
+  "tokens_in": 450,
+  "tokens_out": 80,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

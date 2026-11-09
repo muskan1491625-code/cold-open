@@ -1,0 +1,25 @@
+{
+  "key": "d843e03b4b4e1ba51e8d12a4499268cabf5edc00532a435d74b9a0e79b4859b4",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E8, E9): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nMara (a figure in period dress): [mock] speaks 28 lines between E1 and E14\nArc [mock] Part 3: Corin's past returns on a ship flying a black pennant.\nE8: Mara discovers her father's logbook hidden in the lamp room.\nE9: Widow Halloran offers Mara a deal that would save her father.\nCLIP: [On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[Hard cut]\n[On screen: Close-up on the widow's jaw tightening.]\na figure in period dress: \"Why does the sea give back only what it wants?\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na man in period dress: \"Your father paid me to watch over you.\"\n[Sound: The crowd gasps.]\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[On screen: Medium two-shot of the figure in period dress and the man in period dress, the space between them charged.]\n[Action: the figure in period dress throws open the shutters; the storm floods in.]\na figure in period dress: \"Expose me and her father hangs beside me.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress kneels on the slick quay boards.]\n[On screen: Close-up on the widow's hands gripping the rail.]\na figure in period dress: \"Smile, sister. It is your last night of freedom.\"\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na man in period dress: \"I saw who slipped the ring into your shawl.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na man in period dress: \"Your father paid me to watch over you.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\n[On screen: Over-the-shoulder shot from the man in period dress toward the figure in period dress.]\na figure in period dress: \"The council has already decided her fate.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the the figure in period dress tears the lace veil and lets it fall.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress\",\"left_wondering\":\"[mock] what comes after: \\\"Every wedding needs a widow. Why not two?\\\"\",\"need_next\":4,\"confusing\":[\"Every\",\"Expose\",\"Smile\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 819,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

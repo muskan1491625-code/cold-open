@@ -1,0 +1,25 @@
+{
+  "key": "374c61f92797cfc062897bbeb9e8047392b94b7d98c9caf5b1814af820926f83",
+  "role": "judge",
+  "prompt_name": "viewer_full",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "FullReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You have never heard of this show. You just watched this whole clip (descriptions in brackets are what is on screen; speakers are described by how they look):\n[On screen: Close-up on the the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Smile, sister. It is your last night of freedom.\"\n[On screen: Medium two-shot of the the figure in period dress and the man in period dress, the space between them charged.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"You were always too soft for this family.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress: \"Smile, sister. It is your last night of freedom.\"\n[Sound: A string sting swells to a peak.]\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress (off-screen): \"Then let them come with their torches!\"\n[On screen: High wide shot of the crowded hall turning toward the door.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na figure in period dress (off-screen): \"Take the girl to the cells until morning.\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"\nAnswer as a normal viewer would, in a few words each. Return ONLY JSON:\n{\"main_character\": \"...\", \"what_they_want\": \"...\", \"conflict\": \"...\", \"left_wondering\": \"the question you are left with\", \"need_next\": 1-5, \"confusing\": [\"moments or names you did not understand\"]}\n"
+    }
+  ],
+  "response_text": "{\"main_character\": \"a figure in period dress\", \"what_they_want\": \"[mock] to be believed and get out of this moment\", \"conflict\": \"[mock] pressure from a figure in period dress (off-screen)\", \"left_wondering\": \"[mock] what comes after: \\\"The boat leaves at the turn of the tide. Be on it.\\\"\", \"need_next\": 3, \"confusing\": [\"Every\", \"Order\", \"Smile\"]}",
+  "tokens_in": 462,
+  "tokens_out": 87,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

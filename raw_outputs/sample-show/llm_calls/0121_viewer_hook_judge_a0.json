@@ -1,0 +1,25 @@
+{
+  "key": "e3b30f398ce8b6531b049b9a075f51d35075996f851d96e251a4dab705faedd8",
+  "role": "judge",
+  "prompt_name": "viewer_hook",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "HookReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You are scrolling a short-video feed late at night. You have never heard of this show. This is everything you see and hear in the first 3 seconds of a clip:\n[On screen: Close-up on the widow's hands gripping the rail.]\n[Action: the widow draws a short blade from a boot.]\na figure in period dress: \"Say her name again and you will regret it.\"\nWould you stop scrolling? Return ONLY JSON: {\"stop\": 1-5, \"reason\": \"<= 15 words\"}\n1 = keep scrolling, 5 = I have to see this.\n"
+    }
+  ],
+  "response_text": "{\"stop\": 2, \"reason\": \"[mock] slow, establishing opening\"}",
+  "tokens_in": 117,
+  "tokens_out": 14,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

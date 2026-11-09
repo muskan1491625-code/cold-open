@@ -1,0 +1,25 @@
+{
+  "key": "896809a0c484f0d5ab9b1c281d2e5f6f54d1acd0185531f02021b580ac6b9d09",
+  "role": "judge",
+  "prompt_name": "viewer_full",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "FullReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You have never heard of this show. You just watched this whole clip (descriptions in brackets are what is on screen; speakers are described by how they look):\n[On screen: Close-up on the man in period dress's hands gripping the rail.]\n[Action: the man in period dress grabs the figure in period dress by the wrist.]\na figure in period dress: \"Search her pockets. She is a thief!\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na figure in period dress: \"Lord Ashvale? That is impossible.\"\n[On screen: High wide shot of the crowded hall turning toward the door.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na figure in period dress: \"Marry me at dawn, and no one will dare touch you.\"\n[On screen: Low angle on the the figure in period dress framed against the lighthouse beam.]\n[On screen: Over-the-shoulder shot from the figure in period dress toward the man in period dress.]\na figure in period dress: \"A lamp-keeper's girl in my mother's lace? Never!\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\nAnswer as a normal viewer would, in a few words each. Return ONLY JSON:\n{\"main_character\": \"...\", \"what_they_want\": \"...\", \"conflict\": \"...\", \"left_wondering\": \"the question you are left with\", \"need_next\": 1-5, \"confusing\": [\"moments or names you did not understand\"]}\n"
+    }
+  ],
+  "response_text": "{\"main_character\": \"a figure in period dress\", \"what_they_want\": \"[mock] to be believed and get out of this moment\", \"conflict\": \"[mock] pressure from a man in period dress\", \"left_wondering\": \"[mock] what comes after: \\\"Every wedding needs a widow. Why not two?\\\"\", \"need_next\": 5, \"confusing\": [\"Ashvale\", \"Every\", \"Lord\"]}",
+  "tokens_in": 386,
+  "tokens_out": 81,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

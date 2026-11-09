@@ -1,0 +1,25 @@
+{
+  "key": "171a953da198396b9bc295b6359f6b1dece8e46fdf631349e18fe5ebd6604b5a",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E13, E14): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nCorin (a figure in period dress): [mock] speaks 37 lines between E1 and E14\nArc [mock] Part 4: A storm traps the whole family in the lighthouse overnight.\nE13: Mara must light the lamp to guide in the ship carrying Corin's accusers.\nE14: The truth about the night Corin drowned comes out on the quay.\nCLIP: [On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"Take the girl to the cells until morning.\"\n[Sound: The crowd gasps.]\n[Hard cut]\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"You were always too soft for this family.\"\n[Sound: The crowd gasps.]\n[On screen: Over-the-shoulder shot from the widow toward the figure in period dress.]\na figure in period dress: \"Say her name again and you will regret it.\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\n[On screen: High wide shot of the crowded hall turning toward the door.]\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na figure in period dress (off-screen): \"Take the girl to the cells until morning.\"\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Sound: Thunder cracks over the harbour.]\n[On screen: Over-the-shoulder shot from the the figure in period dress toward the figure in period dress.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Expose me and her father hangs beside me.\"\n[On screen: Close-up on the the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Marry me at dawn, and no one will dare touch you.\"\n[On screen: Low angle on the widow framed against the lighthouse beam.]\na figure in period dress: \"A lamp-keeper's girl in my mother's lace? Never!\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a figure in period dress (off-screen)\",\"left_wondering\":\"[mock] what comes after: \\\"A lamp-keeper's girl in my mother's lace? Never!\\\"\",\"need_next\":5,\"confusing\":[\"Expose\",\"Marry\",\"Never\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 778,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

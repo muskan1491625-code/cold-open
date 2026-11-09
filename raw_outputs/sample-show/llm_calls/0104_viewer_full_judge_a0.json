@@ -1,0 +1,25 @@
+{
+  "key": "a28de7bd3773b993ca0932a014de574e16386520ececc33533c050619dbfe4a8",
+  "role": "judge",
+  "prompt_name": "viewer_full",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "FullReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You have never heard of this show. You just watched this whole clip (descriptions in brackets are what is on screen; speakers are described by how they look):\n[On screen: Low angle on the the figure in period dress framed against the lighthouse beam.]\na figure in period dress (off-screen): \"Every wedding needs a widow. Why not two?\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"Smile, sister. It is your last night of freedom.\"\n[On screen: Close-up on the the figure in period dress's hands gripping the rail.]\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the man in period dress draws a short blade from a boot.]\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na figure in period dress (off-screen): \"Lord Ashvale? That is impossible.\"\n[On screen: Medium two-shot of the man in period dress and the figure in period dress, the space between them charged.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Extreme close-up on the the figure in period dress's eyes, wet with sea spray.]\n[On screen: Close-up on the figure in period dress's jaw tightening.]\na figure in period dress: \"Lord Ashvale? That is impossible.\"\nAnswer as a normal viewer would, in a few words each. Return ONLY JSON:\n{\"main_character\": \"...\", \"what_they_want\": \"...\", \"conflict\": \"...\", \"left_wondering\": \"the question you are left with\", \"need_next\": 1-5, \"confusing\": [\"moments or names you did not understand\"]}\n"
+    }
+  ],
+  "response_text": "{\"main_character\": \"a figure in period dress\", \"what_they_want\": \"[mock] to be believed and get out of this moment\", \"conflict\": \"[mock] pressure from a figure in period dress (off-screen)\", \"left_wondering\": \"[mock] what comes after: \\\"Lord Ashvale? That is impossible.\\\"\", \"need_next\": 4, \"confusing\": [\"Ashvale\", \"Every\", \"Lord\"]}",
+  "tokens_in": 387,
+  "tokens_out": 83,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

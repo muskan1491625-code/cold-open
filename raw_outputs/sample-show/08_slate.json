@@ -1,0 +1,38 @@
+{
+  "hero": "P025",
+  "challengers": [
+    "P021",
+    "P005",
+    "P002",
+    "P017"
+  ],
+  "bench": [
+    "P026",
+    "P009",
+    "P014",
+    "P018",
+    "P032",
+    "P033",
+    "P037",
+    "P004",
+    "P012",
+    "P020"
+  ],
+  "rationale": {
+    "P025": "Hero: highest total score (0.80); family-betrayal engine; top 3% for hook; lands on E10–11; paid-safe.",
+    "P021": "Challenger 1: forbidden-scandal engine, new to the slate; top 7% for cliffhanger; E9; paid-safe.",
+    "P005": "Challenger 2: framed-and-condemned engine, new to the slate; top 12% for tension; E3; needs policy review.",
+    "P002": "Challenger 3: humiliation-reversal engine, new to the slate; top 43% for stranger comprehension; E1–2; needs policy review.",
+    "P017": "Challenger 4: other engine, new to the slate; top 43% for stranger comprehension; E7–8; needs policy review.",
+    "P026": "Bench 1: total 0.72; framed-and-condemned; E11.",
+    "P009": "Bench 2: total 0.69; family-betrayal; E4–5.",
+    "P014": "Bench 3: total 0.68; family-betrayal; E6–7.",
+    "P018": "Bench 4: total 0.65; forbidden-scandal; E8.",
+    "P032": "Bench 5: total 0.65; family-betrayal; E13–14.",
+    "P033": "Bench 6: total 0.65; forbidden-scandal; E14.",
+    "P037": "Bench 7: total 0.62; framed-and-condemned; E1 + E5.",
+    "P004": "Bench 8: total 0.60; family-betrayal; E2.",
+    "P012": "Bench 9: total 0.58; framed-and-condemned; E6.",
+    "P020": "Bench 10: total 0.57; family-betrayal; E8–9."
+  }
+}

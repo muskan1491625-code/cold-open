@@ -1,0 +1,4449 @@
+{
+ "P001": {
+  "id": "P001",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 1,
+    "start": 54.0,
+    "end": 87.0,
+    "start_tc": "00:54.00",
+    "end_tc": "01:27.00",
+    "atom_ids": [
+     "E01.029",
+     "E01.030",
+     "E01.031",
+     "E01.032",
+     "E01.033",
+     "E01.034",
+     "E01.035",
+     "E01.036",
+     "E01.037",
+     "E01.038",
+     "E01.039",
+     "E01.040",
+     "E01.041",
+     "E01.042",
+     "E01.043",
+     "E01.044",
+     "E01.045"
+    ]
+   }
+  ],
+  "duration": 33.0,
+  "hook_text": "\"Drink deep, little lamp-keeper.\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"The council has already decided her fate.\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"The council has already decided her fate.\"",
+    "need_next": 3,
+    "confusing": [
+     "Drink",
+     "Search",
+     "Selene"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the figure in period dress's jaw tightening.]\n[Action: the figure in period dress grabs the figure in period dress by the wrist.]\na figure in period dress (off-screen): \"Drink deep, little lamp-keeper.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.7559,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.4909
+  },
+  "validation": {
+   "candidate_id": "C01-02",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E01.031",
+   "cliffhanger_id": "E01.045",
+   "evidence_ids": [
+    "E01.030",
+    "E01.042"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P002": {
+  "id": "P002",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 2,
+    "start": 0.4,
+    "end": 3.44,
+    "start_tc": "00:00.40",
+    "end_tc": "00:03.44",
+    "atom_ids": [
+     "E02.001",
+     "E02.002"
+    ]
+   },
+   {
+    "episode": 1,
+    "start": 10.0,
+    "end": 51.0,
+    "start_tc": "00:10.00",
+    "end_tc": "00:51.00",
+    "atom_ids": [
+     "E01.006",
+     "E01.007",
+     "E01.008",
+     "E01.009",
+     "E01.010",
+     "E01.011",
+     "E01.012",
+     "E01.013",
+     "E01.014",
+     "E01.015",
+     "E01.016",
+     "E01.017",
+     "E01.018",
+     "E01.019",
+     "E01.020",
+     "E01.021",
+     "E01.022",
+     "E01.023",
+     "E01.024",
+     "E01.025",
+     "E01.026"
+    ]
+   }
+  ],
+  "duration": 44.04,
+  "hook_text": "\"Every wedding needs a widow. Why not two?\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "humiliation_reversal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Every",
+     "Lord"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.865,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.5772
+  },
+  "validation": {
+   "candidate_id": "C01-04",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E02.002",
+   "cliffhanger_id": "E01.026",
+   "evidence_ids": [
+    "E01.012",
+    "E01.019",
+    "E01.024"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P003": {
+  "id": "P003",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 2,
+    "start": 65.0,
+    "end": 95.0,
+    "start_tc": "01:05.00",
+    "end_tc": "01:35.00",
+    "atom_ids": [
+     "E02.029",
+     "E02.030",
+     "E02.031",
+     "E02.032",
+     "E02.033",
+     "E02.034",
+     "E02.035",
+     "E02.036",
+     "E02.037",
+     "E02.038",
+     "E02.039",
+     "E02.040",
+     "E02.041",
+     "E02.042",
+     "E02.043"
+    ]
+   }
+  ],
+  "duration": 30.0,
+  "hook_text": "\"Expose me and her father hangs beside me.\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Order! I will have order in my hall!\"",
+  "engine": "humiliation_reversal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 2,
+  "free_runway": 9,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Order! I will have order in my hall!\"",
+    "need_next": 4,
+    "confusing": [
+     "Every",
+     "Expose",
+     "Order"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Over-the-shoulder shot from the figure in period dress toward the figure in period dress.]\n[Action: the figure in period dress grabs the figure in period dress by the wrist.]\na figure in period dress: \"Expose me and her father hangs beside me.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.9862,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5754
+  },
+  "validation": {
+   "candidate_id": "C02-01",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E02.031",
+   "cliffhanger_id": "E02.043",
+   "evidence_ids": [
+    "E02.030",
+    "E02.031"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P004": {
+  "id": "P004",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 2,
+    "start": 13.0,
+    "end": 47.6,
+    "start_tc": "00:13.00",
+    "end_tc": "00:47.60",
+    "atom_ids": [
+     "E02.006",
+     "E02.007",
+     "E02.008",
+     "E02.009",
+     "E02.010",
+     "E02.011",
+     "E02.012",
+     "E02.013",
+     "E02.014",
+     "E02.015",
+     "E02.016",
+     "E02.017",
+     "E02.018",
+     "E02.019",
+     "E02.020",
+     "E02.021"
+    ]
+   }
+  ],
+  "duration": 34.6,
+  "hook_text": "\"Order! I will have order in my hall!\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 2,
+  "free_runway": 9,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 4,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Drink",
+     "Expose"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Low angle on the widow framed against the lighthouse beam.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[Sound: A string sting swells to a peak.]",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.75,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.6681,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.6002
+  },
+  "validation": {
+   "candidate_id": "C02-02",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E02.007",
+   "cliffhanger_id": "E02.021",
+   "evidence_ids": [
+    "E02.010"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P005": {
+  "id": "P005",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 3,
+    "start": 27.0,
+    "end": 77.6,
+    "start_tc": "00:27.00",
+    "end_tc": "01:17.60",
+    "atom_ids": [
+     "E03.013",
+     "E03.014",
+     "E03.015",
+     "E03.016",
+     "E03.017",
+     "E03.018",
+     "E03.019",
+     "E03.020",
+     "E03.021",
+     "E03.022",
+     "E03.023",
+     "E03.024",
+     "E03.025",
+     "E03.026",
+     "E03.027",
+     "E03.028",
+     "E03.029",
+     "E03.030",
+     "E03.031",
+     "E03.032",
+     "E03.033",
+     "E03.034",
+     "E03.035",
+     "E03.036",
+     "E03.037"
+    ]
+   }
+  ],
+  "duration": 50.6,
+  "hook_text": "\"Search her pockets. She is a thief!\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 3,
+  "free_runway": 8,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 4,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Lord",
+     "Order"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the figure in period dress's hands gripping the rail.]\n[Action: the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"Search her pockets. She is a thief!\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.75,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 1.0,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.65
+  },
+  "validation": {
+   "candidate_id": "C03-01",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E03.015",
+   "cliffhanger_id": "E03.037",
+   "evidence_ids": [
+    "E03.022",
+    "E03.032"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P006": {
+  "id": "P006",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 3,
+    "start": 52.0,
+    "end": 87.74,
+    "start_tc": "00:52.00",
+    "end_tc": "01:27.74",
+    "atom_ids": [
+     "E03.026",
+     "E03.027",
+     "E03.028",
+     "E03.029",
+     "E03.030",
+     "E03.031",
+     "E03.032",
+     "E03.033",
+     "E03.034",
+     "E03.035",
+     "E03.036",
+     "E03.037",
+     "E03.038",
+     "E03.039",
+     "E03.040"
+    ]
+   }
+  ],
+  "duration": 35.74,
+  "hook_text": "\"My father built this tower with his own hands.\"",
+  "hook_speaker": "Mara",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"A lamp-keeper's girl in my mother's lace? Never!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 3,
+  "free_runway": 8,
+  "policy": "review",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] unclear",
+    "left_wondering": "[mock] what comes after: \"A lamp-keeper's girl in my mother's lace? Never!\"",
+    "need_next": 5,
+    "confusing": [
+     "Ashvale",
+     "Lord",
+     "Never"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.0,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: High wide shot of the crowded hall turning toward the door.]\na figure in period dress: \"My father built this tower with his own hands.\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 1.0,
+    "viewer": 0.375
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 1.0,
+   "viewer": 0.375,
+   "tension": 1.0,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.5437
+  },
+  "validation": {
+   "candidate_id": "C03-04",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": true,
+   "miner_hook": 3,
+   "miner_cliff": 4,
+   "hook_id": "E03.027",
+   "cliffhanger_id": "E03.040",
+   "evidence_ids": [
+    "E03.032"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P007": {
+  "id": "P007",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 4,
+    "start": 24.4,
+    "end": 27.44,
+    "start_tc": "00:24.40",
+    "end_tc": "00:27.44",
+    "atom_ids": [
+     "E04.009",
+     "E04.010",
+     "E04.011"
+    ]
+   },
+   {
+    "episode": 3,
+    "start": 6.0,
+    "end": 39.74,
+    "start_tc": "00:06.00",
+    "end_tc": "00:39.74",
+    "atom_ids": [
+     "E03.005",
+     "E03.006",
+     "E03.007",
+     "E03.008",
+     "E03.009",
+     "E03.010",
+     "E03.011",
+     "E03.012",
+     "E03.013",
+     "E03.014",
+     "E03.015",
+     "E03.016",
+     "E03.017",
+     "E03.018",
+     "E03.019",
+     "E03.020"
+    ]
+   }
+  ],
+  "duration": 36.78,
+  "hook_text": "\"I kept that light burning for eleven winters.\"",
+  "hook_speaker": "Mara",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"Order! I will have order in my hall!\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 3,
+  "free_runway": 8,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Order! I will have order in my hall!\"",
+    "need_next": 4,
+    "confusing": [
+     "Order",
+     "Search",
+     "Take"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the the figure in period dress as the lamp flickers behind them.]\n[Action: the the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"I kept that light burning for eleven winters.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.9829,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5624
+  },
+  "validation": {
+   "candidate_id": "C03-05",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E04.011",
+   "cliffhanger_id": "E03.020",
+   "evidence_ids": [
+    "E03.008"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P008": {
+  "id": "P008",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 4,
+    "start": 33.0,
+    "end": 88.36,
+    "start_tc": "00:33.00",
+    "end_tc": "01:28.36",
+    "atom_ids": [
+     "E04.014",
+     "E04.015",
+     "E04.016",
+     "E04.017",
+     "E04.018",
+     "E04.019",
+     "E04.020",
+     "E04.021",
+     "E04.022",
+     "E04.023",
+     "E04.024",
+     "E04.025",
+     "E04.026",
+     "E04.027",
+     "E04.028",
+     "E04.029",
+     "E04.030",
+     "E04.031",
+     "E04.032",
+     "E04.033",
+     "E04.034",
+     "E04.035",
+     "E04.036",
+     "E04.037",
+     "E04.038",
+     "E04.039",
+     "E04.040",
+     "E04.041",
+     "E04.042",
+     "E04.043"
+    ]
+   }
+  ],
+  "duration": 55.36,
+  "hook_text": "\"He is lying. Everyone knows he is lying!\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Search her pockets. She is a thief!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 4,
+  "free_runway": 7,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Search her pockets. She is a thief!\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Drink",
+     "Every"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\n[Action: the figure in period dress grabs the the figure in period dress by the wrist.]\na figure in period dress: \"He is lying. Everyone knows he is lying!\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.803,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.5579
+  },
+  "validation": {
+   "candidate_id": "C04-01",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E04.016",
+   "cliffhanger_id": "E04.043",
+   "evidence_ids": [
+    "E04.015"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P009": {
+  "id": "P009",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 5,
+    "start": 6.4,
+    "end": 9.44,
+    "start_tc": "00:06.40",
+    "end_tc": "00:09.44",
+    "atom_ids": [
+     "E05.003",
+     "E05.004",
+     "E05.005"
+    ]
+   },
+   {
+    "episode": 4,
+    "start": 24.0,
+    "end": 58.0,
+    "start_tc": "00:24.00",
+    "end_tc": "00:58.00",
+    "atom_ids": [
+     "E04.009",
+     "E04.010",
+     "E04.011",
+     "E04.012",
+     "E04.013",
+     "E04.014",
+     "E04.015",
+     "E04.016",
+     "E04.017",
+     "E04.018",
+     "E04.019",
+     "E04.020",
+     "E04.021",
+     "E04.022",
+     "E04.023",
+     "E04.024",
+     "E04.025",
+     "E04.026",
+     "E04.027",
+     "E04.028"
+    ]
+   }
+  ],
+  "duration": 37.04,
+  "hook_text": "\"Order! I will have order in my hall!\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"He is lying. Everyone knows he is lying!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 4,
+  "free_runway": 7,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 5,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] unclear",
+    "left_wondering": "[mock] what comes after: \"He is lying. Everyone knows he is lying!\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Drink",
+     "Everyone"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.0,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress slaps the cup from the man in period dress's hand and it shatters.]\na figure in period dress: \"Order! I will have order in my hall!\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 1.0,
+    "cliff": 0.75,
+    "viewer": 0.375
+   }
+  },
+  "scores": {
+   "hook": 1.0,
+   "cliff": 0.75,
+   "viewer": 0.375,
+   "tension": 1.0,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.6912
+  },
+  "validation": {
+   "candidate_id": "C04-04",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E05.005",
+   "cliffhanger_id": "E04.028",
+   "evidence_ids": [
+    "E05.004",
+    "E04.015"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P010": {
+  "id": "P010",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 5,
+    "start": 22.0,
+    "end": 66.0,
+    "start_tc": "00:22.00",
+    "end_tc": "01:06.00",
+    "atom_ids": [
+     "E05.012",
+     "E05.013",
+     "E05.014",
+     "E05.015",
+     "E05.016",
+     "E05.017",
+     "E05.018",
+     "E05.019",
+     "E05.020",
+     "E05.021",
+     "E05.022",
+     "E05.023",
+     "E05.024",
+     "E05.025",
+     "E05.026",
+     "E05.027",
+     "E05.028",
+     "E05.029",
+     "E05.030",
+     "E05.031",
+     "E05.032",
+     "E05.033",
+     "E05.034",
+     "E05.035"
+    ]
+   }
+  ],
+  "duration": 44.0,
+  "hook_text": "\"A lamp-keeper's girl in my mother's lace? Never!\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 5,
+  "free_runway": 6,
+  "policy": "review",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 4,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] unclear",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Drink",
+     "Every"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.0,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"A lamp-keeper's girl in my mother's lace? Never!\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.75,
+    "cliff": 0.75,
+    "viewer": 0.375
+   }
+  },
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.75,
+   "viewer": 0.375,
+   "tension": 1.0,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.6412
+  },
+  "validation": {
+   "candidate_id": "C05-02",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 5,
+   "miner_cliff": 4,
+   "hook_id": "E05.014",
+   "cliffhanger_id": "E05.035",
+   "evidence_ids": [
+    "E05.020"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P011": {
+  "id": "P011",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 6,
+    "start": 27.0,
+    "end": 59.0,
+    "start_tc": "00:27.00",
+    "end_tc": "00:59.00",
+    "atom_ids": [
+     "E06.014",
+     "E06.015",
+     "E06.016",
+     "E06.017",
+     "E06.018",
+     "E06.019",
+     "E06.020",
+     "E06.021",
+     "E06.022",
+     "E06.023",
+     "E06.024",
+     "E06.025",
+     "E06.026",
+     "E06.027",
+     "E06.028",
+     "E06.029",
+     "E06.030"
+    ]
+   }
+  ],
+  "duration": 32.0,
+  "hook_text": "\"The boat leaves at the turn of the tide. Be on it.\"",
+  "hook_speaker": "Tobin The Ferryman",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Tell me the truth, or tell me nothing.\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Tell me the truth, or tell me nothing.\"",
+    "need_next": 3,
+    "confusing": [
+     "Expose",
+     "Order",
+     "Smile"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress slaps the cup from the figure in period dress's hand and it shatters.]\na man in period dress (off-screen): \"The boat leaves at the turn of the tide. Be on it.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.9567,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5835
+  },
+  "validation": {
+   "candidate_id": "C06-01",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E06.016",
+   "cliffhanger_id": "E06.030",
+   "evidence_ids": [
+    "E06.015",
+    "E06.028"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E6), Marrowynd (E6)"
+  ]
+ },
+ "P012": {
+  "id": "P012",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 6,
+    "start": 82.0,
+    "end": 118.0,
+    "start_tc": "01:22.00",
+    "end_tc": "01:58.00",
+    "atom_ids": [
+     "E06.040",
+     "E06.041",
+     "E06.042",
+     "E06.043",
+     "E06.044",
+     "E06.045",
+     "E06.046",
+     "E06.047",
+     "E06.048",
+     "E06.049",
+     "E06.050",
+     "E06.051",
+     "E06.052",
+     "E06.053",
+     "E06.054",
+     "E06.055",
+     "E06.056",
+     "E06.057"
+    ]
+   }
+  ],
+  "duration": 36.0,
+  "hook_text": "\"If I say yes, the harbour keeps its tongue.\"",
+  "hook_speaker": "Mara",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"They are coming up the cliff path with lanterns!\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"They are coming up the cliff path with lanterns!\"",
+    "need_next": 4,
+    "confusing": [
+     "Drink",
+     "Nobody",
+     "Order"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Medium two-shot of the figure in period dress and the man in period dress, the space between them charged.]\na figure in period dress: \"If I say yes, the harbour keeps its tongue.\"\n[Sound: A heartbeat pulse rises toward the cliffhanger.]",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 1.0,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5775
+  },
+  "validation": {
+   "candidate_id": "C06-02",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E06.041",
+   "cliffhanger_id": "E06.057",
+   "evidence_ids": [
+    "E06.042"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E6), Marrowynd (E6)"
+  ]
+ },
+ "P013": {
+  "id": "P013",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 6,
+    "start": 36.0,
+    "end": 73.0,
+    "start_tc": "00:36.00",
+    "end_tc": "01:13.00",
+    "atom_ids": [
+     "E06.019",
+     "E06.020",
+     "E06.021",
+     "E06.022",
+     "E06.023",
+     "E06.024",
+     "E06.025",
+     "E06.026",
+     "E06.027",
+     "E06.028",
+     "E06.029",
+     "E06.030",
+     "E06.031",
+     "E06.032",
+     "E06.033",
+     "E06.034",
+     "E06.035"
+    ]
+   }
+  ],
+  "duration": 37.0,
+  "hook_text": "\"I saw who slipped the ring into your shawl.\"",
+  "hook_speaker": "Tobin The Ferryman",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Marry me at dawn, and no one will dare touch you.\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Marry me at dawn, and no one will dare touch you.\"",
+    "need_next": 3,
+    "confusing": [
+     "Expose",
+     "Marry",
+     "Order"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Over-the-shoulder shot from the figure in period dress toward the man in period dress.]\na man in period dress: \"I saw who slipped the ring into your shawl.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.7337,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.4876
+  },
+  "validation": {
+   "candidate_id": "C06-04",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": true,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E06.020",
+   "cliffhanger_id": "E06.035",
+   "evidence_ids": [
+    "E06.028",
+    "E06.032"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E6), Marrowynd (E6)"
+  ]
+ },
+ "P014": {
+  "id": "P014",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 7,
+    "start": 30.4,
+    "end": 33.44,
+    "start_tc": "00:30.40",
+    "end_tc": "00:33.44",
+    "atom_ids": [
+     "E07.015",
+     "E07.016"
+    ]
+   },
+   {
+    "episode": 6,
+    "start": 7.0,
+    "end": 47.0,
+    "start_tc": "00:07.00",
+    "end_tc": "00:47.00",
+    "atom_ids": [
+     "E06.006",
+     "E06.007",
+     "E06.008",
+     "E06.009",
+     "E06.010",
+     "E06.011",
+     "E06.012",
+     "E06.013",
+     "E06.014",
+     "E06.015",
+     "E06.016",
+     "E06.017",
+     "E06.018",
+     "E06.019",
+     "E06.020",
+     "E06.021",
+     "E06.022",
+     "E06.023",
+     "E06.024"
+    ]
+   }
+  ],
+  "duration": 43.04,
+  "hook_text": "\"Order! I will have order in my hall!\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"Order! I will have order in my hall!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy": "review",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 4,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Order! I will have order in my hall!\"",
+    "need_next": 4,
+    "confusing": [
+     "Order",
+     "Search",
+     "Smile"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"Order! I will have order in my hall!\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.75,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.9171,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.6776
+  },
+  "validation": {
+   "candidate_id": "C06-05",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E07.016",
+   "cliffhanger_id": "E06.024",
+   "evidence_ids": [
+    "E06.015"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E6/E7), Marrowynd (E6/E7)"
+  ]
+ },
+ "P015": {
+  "id": "P015",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 7,
+    "start": 30.0,
+    "end": 64.0,
+    "start_tc": "00:30.00",
+    "end_tc": "01:04.00",
+    "atom_ids": [
+     "E07.015",
+     "E07.016",
+     "E07.017",
+     "E07.018",
+     "E07.019",
+     "E07.020",
+     "E07.021",
+     "E07.022",
+     "E07.023",
+     "E07.024",
+     "E07.025",
+     "E07.026",
+     "E07.027"
+    ]
+   }
+  ],
+  "duration": 34.0,
+  "hook_text": "\"Order! I will have order in my hall!\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Smile, sister. It is your last night of freedom.\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 7,
+  "free_runway": 4,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 4,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Smile, sister. It is your last night of freedom.\"",
+    "need_next": 3,
+    "confusing": [
+     "Expose",
+     "Order",
+     "Selene"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"Order! I will have order in my hall!\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.75,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.6584,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.6013
+  },
+  "validation": {
+   "candidate_id": "C07-01",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E07.016",
+   "cliffhanger_id": "E07.027",
+   "evidence_ids": [
+    "E07.023",
+    "E07.025"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E7), Marrowynd (E7)"
+  ]
+ },
+ "P016": {
+  "id": "P016",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 7,
+    "start": 45.0,
+    "end": 78.0,
+    "start_tc": "00:45.00",
+    "end_tc": "01:18.00",
+    "atom_ids": [
+     "E07.020",
+     "E07.021",
+     "E07.022",
+     "E07.023",
+     "E07.024",
+     "E07.025",
+     "E07.026",
+     "E07.027",
+     "E07.028",
+     "E07.029",
+     "E07.030",
+     "E07.031",
+     "E07.032",
+     "E07.033",
+     "E07.034",
+     "E07.035",
+     "E07.036"
+    ]
+   }
+  ],
+  "duration": 33.0,
+  "hook_text": "\"The ring smells of your rose oil, Selene.\"",
+  "hook_speaker": "Corin",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Search her pockets. She is a thief!\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 7,
+  "free_runway": 4,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Search her pockets. She is a thief!\"",
+    "need_next": 4,
+    "confusing": [
+     "Expose",
+     "Search",
+     "Selene"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Medium two-shot of the figure in period dress and the the figure in period dress, the space between them char…]\na figure in period dress (off-screen): \"The ring smells of your rose oil, Selene.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.6697,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.528
+  },
+  "validation": {
+   "candidate_id": "C07-03",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": true,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E07.021",
+   "cliffhanger_id": "E07.036",
+   "evidence_ids": [
+    "E07.023",
+    "E07.025"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E7), Marrowynd (E7)"
+  ]
+ },
+ "P017": {
+  "id": "P017",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 8,
+    "start": 17.4,
+    "end": 20.44,
+    "start_tc": "00:17.40",
+    "end_tc": "00:20.44",
+    "atom_ids": [
+     "E08.008",
+     "E08.009",
+     "E08.010"
+    ]
+   },
+   {
+    "episode": 7,
+    "start": 10.0,
+    "end": 48.74,
+    "start_tc": "00:10.00",
+    "end_tc": "00:48.74",
+    "atom_ids": [
+     "E07.006",
+     "E07.007",
+     "E07.008",
+     "E07.009",
+     "E07.010",
+     "E07.011",
+     "E07.012",
+     "E07.013",
+     "E07.014",
+     "E07.015",
+     "E07.016",
+     "E07.017",
+     "E07.018",
+     "E07.019",
+     "E07.020",
+     "E07.021"
+    ]
+   }
+  ],
+  "duration": 41.78,
+  "hook_text": "\"Your father paid me to watch over you.\"",
+  "hook_speaker": "Tobin The Ferryman",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"The ring smells of your rose oil, Selene.\"",
+  "engine": "other",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 7,
+  "free_runway": 4,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"The ring smells of your rose oil, Selene.\"",
+    "need_next": 3,
+    "confusing": [
+     "Everyone",
+     "Order",
+     "Selene"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Tight shot on a silver ring glinting in candlelight.]\na man in period dress: \"Your father paid me to watch over you.\"\n[Sound: The crowd gasps.]",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.6951,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5318
+  },
+  "validation": {
+   "candidate_id": "C07-04",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E08.009",
+   "cliffhanger_id": "E07.021",
+   "evidence_ids": [
+    "E07.011"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E7/E8), Marrowynd (E7/E8)"
+  ]
+ },
+ "P018": {
+  "id": "P018",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 8,
+    "start": 66.0,
+    "end": 96.0,
+    "start_tc": "01:06.00",
+    "end_tc": "01:36.00",
+    "atom_ids": [
+     "E08.034",
+     "E08.035",
+     "E08.036",
+     "E08.037",
+     "E08.038",
+     "E08.039",
+     "E08.040",
+     "E08.041",
+     "E08.042",
+     "E08.043",
+     "E08.044",
+     "E08.045",
+     "E08.046",
+     "E08.047",
+     "E08.048",
+     "E08.049"
+    ]
+   }
+  ],
+  "duration": 30.0,
+  "hook_text": "\"Order! I will have order in my hall!\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Your father paid me to watch over you.\"",
+  "engine": "forbidden_scandal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 8,
+  "free_runway": 3,
+  "policy": "review",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 4,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Your father paid me to watch over you.\"",
+    "need_next": 3,
+    "confusing": [
+     "Every",
+     "Everyone",
+     "Marry"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Over-the-shoulder shot from the figure in period dress toward the figure in period dress.]\na figure in period dress (off-screen): \"Order! I will have order in my hall!\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.75,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 1.0,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.6525
+  },
+  "validation": {
+   "candidate_id": "C08-01",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E08.035",
+   "cliffhanger_id": "E08.049",
+   "evidence_ids": [
+    "E08.043"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E8), Marrowynd (E8)"
+  ]
+ },
+ "P019": {
+  "id": "P019",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 8,
+    "start": 43.0,
+    "end": 75.0,
+    "start_tc": "00:43.00",
+    "end_tc": "01:15.00",
+    "atom_ids": [
+     "E08.021",
+     "E08.022",
+     "E08.023",
+     "E08.024",
+     "E08.025",
+     "E08.026",
+     "E08.027",
+     "E08.028",
+     "E08.029",
+     "E08.030",
+     "E08.031",
+     "E08.032",
+     "E08.033",
+     "E08.034",
+     "E08.035",
+     "E08.036",
+     "E08.037",
+     "E08.038"
+    ]
+   }
+  ],
+  "duration": 32.0,
+  "hook_text": "\"Your father paid me to watch over you.\"",
+  "hook_speaker": "Tobin The Ferryman",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"He is lying. Everyone knows he is lying!\"",
+  "engine": "forbidden_scandal",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 8,
+  "free_runway": 3,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"He is lying. Everyone knows he is lying!\"",
+    "need_next": 4,
+    "confusing": [
+     "Every",
+     "Everyone",
+     "Nobody"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na man in period dress: \"Your father paid me to watch over you.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.6862,
+   "quality": 0.9333,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5804
+  },
+  "validation": {
+   "candidate_id": "C08-03",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": true,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E08.022",
+   "cliffhanger_id": "E08.038",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E8), Marrowynd (E8)"
+  ]
+ },
+ "P020": {
+  "id": "P020",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 9,
+    "start": 19.4,
+    "end": 21.8,
+    "start_tc": "00:19.40",
+    "end_tc": "00:21.80",
+    "atom_ids": [
+     "E09.011",
+     "E09.012"
+    ]
+   },
+   {
+    "episode": 8,
+    "start": 12.0,
+    "end": 57.0,
+    "start_tc": "00:12.00",
+    "end_tc": "00:57.00",
+    "atom_ids": [
+     "E08.006",
+     "E08.007",
+     "E08.008",
+     "E08.009",
+     "E08.010",
+     "E08.011",
+     "E08.012",
+     "E08.013",
+     "E08.014",
+     "E08.015",
+     "E08.016",
+     "E08.017",
+     "E08.018",
+     "E08.019",
+     "E08.020",
+     "E08.021",
+     "E08.022",
+     "E08.023",
+     "E08.024",
+     "E08.025",
+     "E08.026",
+     "E08.027",
+     "E08.028"
+    ]
+   }
+  ],
+  "duration": 47.4,
+  "hook_text": "\"Every wedding needs a widow. Why not two?\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"Every wedding needs a widow. Why not two?\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 8,
+  "free_runway": 3,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Every wedding needs a widow. Why not two?\"",
+    "need_next": 4,
+    "confusing": [
+     "Every",
+     "Expose",
+     "Smile"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[Hard cut]\n[On screen: Close-up on the widow's jaw tightening.]\na figure in period dress: \"Why does the sea give back only what it wants?\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.6482,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5747
+  },
+  "validation": {
+   "candidate_id": "C08-04",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E09.012",
+   "cliffhanger_id": "E08.028",
+   "evidence_ids": [
+    "E08.014"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E8), Marrowynd (E8/E9)"
+  ]
+ },
+ "P021": {
+  "id": "P021",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 9,
+    "start": 19.0,
+    "end": 67.74,
+    "start_tc": "00:19.00",
+    "end_tc": "01:07.74",
+    "atom_ids": [
+     "E09.011",
+     "E09.012",
+     "E09.013",
+     "E09.014",
+     "E09.015",
+     "E09.016",
+     "E09.017",
+     "E09.018",
+     "E09.019",
+     "E09.020",
+     "E09.021",
+     "E09.022",
+     "E09.023",
+     "E09.024",
+     "E09.025",
+     "E09.026",
+     "E09.027",
+     "E09.028",
+     "E09.029",
+     "E09.030",
+     "E09.031",
+     "E09.032",
+     "E09.033",
+     "E09.034"
+    ]
+   }
+  ],
+  "duration": 48.74,
+  "hook_text": "\"Every wedding needs a widow. Why not two?\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Every wedding needs a widow. Why not two?\"",
+  "engine": "forbidden_scandal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 9,
+  "free_runway": 2,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Every wedding needs a widow. Why not two?\"",
+    "need_next": 5,
+    "confusing": [
+     "Drink",
+     "Every",
+     "Order"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 1.0,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 1.0,
+   "viewer": 0.5,
+   "tension": 0.7861,
+   "quality": 0.7833,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.6854
+  },
+  "validation": {
+   "candidate_id": "C09-02",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E09.012",
+   "cliffhanger_id": "E09.034",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P022": {
+  "id": "P022",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 9,
+    "start": 0.0,
+    "end": 40.0,
+    "start_tc": "00:00.00",
+    "end_tc": "00:40.00",
+    "atom_ids": [
+     "E09.001",
+     "E09.002",
+     "E09.003",
+     "E09.004",
+     "E09.005",
+     "E09.006",
+     "E09.007",
+     "E09.008",
+     "E09.009",
+     "E09.010",
+     "E09.011",
+     "E09.012",
+     "E09.013",
+     "E09.014",
+     "E09.015",
+     "E09.016",
+     "E09.017",
+     "E09.018",
+     "E09.019",
+     "E09.020",
+     "E09.021",
+     "E09.022"
+    ]
+   }
+  ],
+  "duration": 40.0,
+  "hook_text": "\"Drink deep, little lamp-keeper.\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Order! I will have order in my hall!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 9,
+  "free_runway": 2,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Order! I will have order in my hall!\"",
+    "need_next": 4,
+    "confusing": [
+     "Drink",
+     "Every",
+     "Marry"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\n[Action: the figure in period dress steps between the widow and the crowd.]\na figure in period dress: \"Drink deep, little lamp-keeper.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.8063,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5485
+  },
+  "validation": {
+   "candidate_id": "C09-03",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": true,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E09.003",
+   "cliffhanger_id": "E09.022",
+   "evidence_ids": [
+    "E09.007"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P023": {
+  "id": "P023",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 10,
+    "start": 34.0,
+    "end": 84.0,
+    "start_tc": "00:34.00",
+    "end_tc": "01:24.00",
+    "atom_ids": [
+     "E10.015",
+     "E10.016",
+     "E10.017",
+     "E10.018",
+     "E10.019",
+     "E10.020",
+     "E10.021",
+     "E10.022",
+     "E10.023",
+     "E10.024",
+     "E10.025",
+     "E10.026",
+     "E10.027",
+     "E10.028",
+     "E10.029",
+     "E10.030",
+     "E10.031",
+     "E10.032",
+     "E10.033",
+     "E10.034",
+     "E10.035",
+     "E10.036",
+     "E10.037",
+     "E10.038",
+     "E10.039",
+     "E10.040"
+    ]
+   }
+  ],
+  "duration": 50.0,
+  "hook_text": "\"You were always too soft for this family.\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Search her pockets. She is a thief!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 10,
+  "free_runway": 1,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Search her pockets. She is a thief!\"",
+    "need_next": 4,
+    "confusing": [
+     "Order",
+     "Search",
+     "Smile"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"You were always too soft for this family.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.9261,
+   "quality": 0.9333,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.6789
+  },
+  "validation": {
+   "candidate_id": "C10-01",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E10.017",
+   "cliffhanger_id": "E10.039",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P024": {
+  "id": "P024",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 10,
+    "start": 25.0,
+    "end": 59.0,
+    "start_tc": "00:25.00",
+    "end_tc": "00:59.00",
+    "atom_ids": [
+     "E10.011",
+     "E10.012",
+     "E10.013",
+     "E10.014",
+     "E10.015",
+     "E10.016",
+     "E10.017",
+     "E10.018",
+     "E10.019",
+     "E10.020",
+     "E10.021",
+     "E10.022",
+     "E10.023",
+     "E10.024",
+     "E10.025",
+     "E10.026",
+     "E10.027",
+     "E10.028"
+    ]
+   }
+  ],
+  "duration": 34.0,
+  "hook_text": "\"Smile, sister. It is your last night of freedom.\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"The boat leaves at the turn of the tide. Be on it.\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 10,
+  "free_runway": 1,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"The boat leaves at the turn of the tide. Be on it.\"",
+    "need_next": 3,
+    "confusing": [
+     "Every",
+     "Order",
+     "Smile"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Smile, sister. It is your last night of freedom.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.9512,
+   "quality": 0.9333,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5702
+  },
+  "validation": {
+   "candidate_id": "C10-03",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": true,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E10.012",
+   "cliffhanger_id": "E10.028",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P025": {
+  "id": "P025",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 11,
+    "start": 19.4,
+    "end": 22.06,
+    "start_tc": "00:19.40",
+    "end_tc": "00:22.06",
+    "atom_ids": [
+     "E11.009",
+     "E11.010",
+     "E11.011"
+    ]
+   },
+   {
+    "episode": 10,
+    "start": 9.0,
+    "end": 49.74,
+    "start_tc": "00:09.00",
+    "end_tc": "00:49.74",
+    "atom_ids": [
+     "E10.005",
+     "E10.006",
+     "E10.007",
+     "E10.008",
+     "E10.009",
+     "E10.010",
+     "E10.011",
+     "E10.012",
+     "E10.013",
+     "E10.014",
+     "E10.015",
+     "E10.016",
+     "E10.017",
+     "E10.018",
+     "E10.019",
+     "E10.020",
+     "E10.021",
+     "E10.022",
+     "E10.023",
+     "E10.024"
+    ]
+   }
+  ],
+  "duration": 43.4,
+  "hook_text": "\"Search her pockets. She is a thief!\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"Order! I will have order in my hall!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 10,
+  "free_runway": 1,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 5,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Order! I will have order in my hall!\"",
+    "need_next": 4,
+    "confusing": [
+     "Every",
+     "Order",
+     "Search"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the figure in period dress's hands gripping the rail.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Search her pockets. She is a thief!\"\n[Hard cut]\n[On screen: Over-the-shoulder shot from the man in period dress toward the the figure in period dress.]",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 1.0,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 1.0,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.9632,
+   "quality": 0.85,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.797
+  },
+  "validation": {
+   "candidate_id": "C10-04",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E11.011",
+   "cliffhanger_id": "E10.024",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P026": {
+  "id": "P026",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 11,
+    "start": 19.0,
+    "end": 64.0,
+    "start_tc": "00:19.00",
+    "end_tc": "01:04.00",
+    "atom_ids": [
+     "E11.009",
+     "E11.010",
+     "E11.011",
+     "E11.012",
+     "E11.013",
+     "E11.014",
+     "E11.015",
+     "E11.016",
+     "E11.017",
+     "E11.018",
+     "E11.019",
+     "E11.020",
+     "E11.021",
+     "E11.022",
+     "E11.023",
+     "E11.024",
+     "E11.025",
+     "E11.026",
+     "E11.027",
+     "E11.028",
+     "E11.029"
+    ]
+   }
+  ],
+  "duration": 45.0,
+  "hook_text": "\"Search her pockets. She is a thief!\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"He is lying. Everyone knows he is lying!\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 11,
+  "free_runway": 0,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 5,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"He is lying. Everyone knows he is lying!\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Every",
+     "Everyone"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the figure in period dress's hands gripping the rail.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Search her pockets. She is a thief!\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 1.0,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 1.0,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 1.0,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.01,
+   "referent_penalty": 0.03,
+   "total": 0.725
+  },
+  "validation": {
+   "candidate_id": "C11-01",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E11.011",
+   "cliffhanger_id": "E11.029",
+   "evidence_ids": [
+    "E11.015",
+    "E11.017"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P027": {
+  "id": "P027",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 12,
+    "start": 9.4,
+    "end": 12.44,
+    "start_tc": "00:09.40",
+    "end_tc": "00:12.44",
+    "atom_ids": [
+     "E12.005",
+     "E12.006"
+    ]
+   },
+   {
+    "episode": 11,
+    "start": 9.0,
+    "end": 40.6,
+    "start_tc": "00:09.00",
+    "end_tc": "00:40.60",
+    "atom_ids": [
+     "E11.005",
+     "E11.006",
+     "E11.007",
+     "E11.008",
+     "E11.009",
+     "E11.010",
+     "E11.011",
+     "E11.012",
+     "E11.013",
+     "E11.014",
+     "E11.015",
+     "E11.016",
+     "E11.017",
+     "E11.018",
+     "E11.019",
+     "E11.020"
+    ]
+   }
+  ],
+  "duration": 34.64,
+  "hook_text": "\"Every wedding needs a widow. Why not two?\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 11,
+  "free_runway": 0,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 5,
+    "confusing": [
+     "Ashvale",
+     "Every",
+     "Lord"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Low angle on the the figure in period dress framed against the lighthouse beam.]\na figure in period dress (off-screen): \"Every wedding needs a widow. Why not two?\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 1.0,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 1.0,
+   "viewer": 0.5,
+   "tension": 1.0,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.01,
+   "referent_penalty": 0.03,
+   "total": 0.6375
+  },
+  "validation": {
+   "candidate_id": "C11-04",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E12.006",
+   "cliffhanger_id": "E11.020",
+   "evidence_ids": [
+    "E11.015",
+    "E11.017"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P028": {
+  "id": "P028",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 12,
+    "start": 9.0,
+    "end": 47.0,
+    "start_tc": "00:09.00",
+    "end_tc": "00:47.00",
+    "atom_ids": [
+     "E12.005",
+     "E12.006",
+     "E12.007",
+     "E12.008",
+     "E12.009",
+     "E12.010",
+     "E12.011",
+     "E12.012",
+     "E12.013",
+     "E12.014",
+     "E12.015",
+     "E12.016",
+     "E12.017",
+     "E12.018"
+    ]
+   }
+  ],
+  "duration": 38.0,
+  "hook_text": "\"Every wedding needs a widow. Why not two?\"",
+  "hook_speaker": "Widow Halloran",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "forbidden_scandal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 12,
+  "free_runway": 0,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Every",
+     "Lord"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Low angle on the the figure in period dress framed against the lighthouse beam.]\na figure in period dress (off-screen): \"Every wedding needs a widow. Why not two?\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.5547,
+   "quality": 0.9333,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.02,
+   "referent_penalty": 0.03,
+   "total": 0.5732
+  },
+  "validation": {
+   "candidate_id": "C12-01",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E12.006",
+   "cliffhanger_id": "E12.018",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P029": {
+  "id": "P029",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 12,
+    "start": 28.0,
+    "end": 55.74,
+    "start_tc": "00:28.00",
+    "end_tc": "00:55.74",
+    "atom_ids": [
+     "E12.012",
+     "E12.013",
+     "E12.014",
+     "E12.015",
+     "E12.016",
+     "E12.017",
+     "E12.018",
+     "E12.019",
+     "E12.020",
+     "E12.021",
+     "E12.022"
+    ]
+   }
+  ],
+  "duration": 27.74,
+  "hook_text": "\"Lord Ashvale? That is impossible.\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"I never stole from anyone in my life!\"",
+  "engine": "forbidden_scandal",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 12,
+  "free_runway": 0,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"I never stole from anyone in my life!\"",
+    "need_next": 3,
+    "confusing": [
+     "Ashvale",
+     "Every",
+     "Lord"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na figure in period dress (off-screen): \"Lord Ashvale? That is impossible.\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.7049,
+   "quality": 0.7833,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.02,
+   "referent_penalty": 0.03,
+   "total": 0.5232
+  },
+  "validation": {
+   "candidate_id": "C12-02",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": true,
+   "miner_hook": 4,
+   "miner_cliff": 3,
+   "hook_id": "E12.013",
+   "cliffhanger_id": "E12.022",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P030": {
+  "id": "P030",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 13,
+    "start": 0.0,
+    "end": 34.0,
+    "start_tc": "00:00.00",
+    "end_tc": "00:34.00",
+    "atom_ids": [
+     "E13.001",
+     "E13.002",
+     "E13.003",
+     "E13.004",
+     "E13.005",
+     "E13.006",
+     "E13.007",
+     "E13.008",
+     "E13.009",
+     "E13.010",
+     "E13.011",
+     "E13.012",
+     "E13.013",
+     "E13.014",
+     "E13.015"
+    ]
+   }
+  ],
+  "duration": 34.0,
+  "hook_text": "\"The boat leaves at the turn of the tide. Be on it.\"",
+  "hook_speaker": "Tobin The Ferryman",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Take the girl to the cells until morning.\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 13,
+  "free_runway": 0,
+  "policy": "paid_safe",
+  "policy_reasons": [],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Take the girl to the cells until morning.\"",
+    "need_next": 3,
+    "confusing": [
+     "Order",
+     "Smile",
+     "Take"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Extreme close-up on the man in period dress's eyes, wet with sea spray.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.5,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.5,
+   "viewer": 0.5,
+   "tension": 0.8062,
+   "quality": 0.9333,
+   "policy_penalty": 0.0,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.03,
+   "referent_penalty": 0.0,
+   "total": 0.5184
+  },
+  "validation": {
+   "candidate_id": "C13-02",
+   "source": "episode",
+   "repairs": [
+    "end on the shot change right after the cliffhanger"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E13.002",
+   "cliffhanger_id": "E13.015",
+   "evidence_ids": [],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P031": {
+  "id": "P031",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 13,
+    "start": 31.0,
+    "end": 62.0,
+    "start_tc": "00:31.00",
+    "end_tc": "01:02.00",
+    "atom_ids": [
+     "E13.014",
+     "E13.015",
+     "E13.016",
+     "E13.017",
+     "E13.018",
+     "E13.019",
+     "E13.020",
+     "E13.021",
+     "E13.022",
+     "E13.023",
+     "E13.024",
+     "E13.025",
+     "E13.026",
+     "E13.027"
+    ]
+   }
+  ],
+  "duration": 31.0,
+  "hook_text": "\"Take the girl to the cells until morning.\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Search her pockets. She is a thief!\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Quiet line away from the peaks; cuts before the answer.",
+  "landing_episode": 13,
+  "free_runway": 0,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"Search her pockets. She is a thief!\"",
+    "need_next": 4,
+    "confusing": [
+     "Expose",
+     "Marry",
+     "Never"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na figure in period dress (off-screen): \"Take the girl to the cells until morning.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.8382,
+   "quality": 0.9333,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.03,
+   "referent_penalty": 0.0,
+   "total": 0.5232
+  },
+  "validation": {
+   "candidate_id": "C13-03",
+   "source": "episode",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": true,
+   "quiet_power": true,
+   "miner_hook": 3,
+   "miner_cliff": 3,
+   "hook_id": "E13.015",
+   "cliffhanger_id": "E13.027",
+   "evidence_ids": [
+    "E13.020"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P032": {
+  "id": "P032",
+  "structure": "flash_forward",
+  "segments": [
+   {
+    "episode": 14,
+    "start": 10.4,
+    "end": 13.44,
+    "start_tc": "00:10.40",
+    "end_tc": "00:13.44",
+    "atom_ids": [
+     "E14.007",
+     "E14.008",
+     "E14.009",
+     "E14.010"
+    ]
+   },
+   {
+    "episode": 13,
+    "start": 8.0,
+    "end": 50.74,
+    "start_tc": "00:08.00",
+    "end_tc": "00:50.74",
+    "atom_ids": [
+     "E13.005",
+     "E13.006",
+     "E13.007",
+     "E13.008",
+     "E13.009",
+     "E13.010",
+     "E13.011",
+     "E13.012",
+     "E13.013",
+     "E13.014",
+     "E13.015",
+     "E13.016",
+     "E13.017",
+     "E13.018",
+     "E13.019",
+     "E13.020",
+     "E13.021",
+     "E13.022",
+     "E13.023",
+     "E13.024"
+    ]
+   }
+  ],
+  "duration": 45.78,
+  "hook_text": "\"Take the girl to the cells until morning.\"",
+  "hook_speaker": "Mayor Brisk",
+  "hook_at": 0.0,
+  "cliffhanger_text": "\"A lamp-keeper's girl in my mother's lace? Never!\"",
+  "engine": "family_betrayal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 13,
+  "free_runway": 0,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a figure in period dress (off-screen)",
+    "left_wondering": "[mock] what comes after: \"A lamp-keeper's girl in my mother's lace? Never!\"",
+    "need_next": 5,
+    "confusing": [
+     "Expose",
+     "Marry",
+     "Never"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"Take the girl to the cells until morning.\"\n[Sound: The crowd gasps.]",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 1.0,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 1.0,
+   "viewer": 0.5,
+   "tension": 0.9873,
+   "quality": 0.85,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.03,
+   "referent_penalty": 0.0,
+   "total": 0.6456
+  },
+  "validation": {
+   "candidate_id": "C13-04",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 4,
+   "hook_id": "E14.009",
+   "cliffhanger_id": "E13.024",
+   "evidence_ids": [
+    "E13.020"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E14), Marrowinde (E13/E14)"
+  ]
+ },
+ "P033": {
+  "id": "P033",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 14,
+    "start": 62.0,
+    "end": 91.74,
+    "start_tc": "01:02.00",
+    "end_tc": "01:31.74",
+    "atom_ids": [
+     "E14.034",
+     "E14.035",
+     "E14.036",
+     "E14.037",
+     "E14.038",
+     "E14.039",
+     "E14.040",
+     "E14.041",
+     "E14.042",
+     "E14.043",
+     "E14.044",
+     "E14.045",
+     "E14.046",
+     "E14.047"
+    ]
+   }
+  ],
+  "duration": 29.74,
+  "hook_text": "\"Search her pockets. She is a thief!\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Every wedding needs a widow. Why not two?\"",
+  "engine": "forbidden_scandal",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 14,
+  "free_runway": 0,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 4,
+    "reason": "[mock] a charged line right away"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Every wedding needs a widow. Why not two?\"",
+    "need_next": 5,
+    "confusing": [
+     "Ashvale",
+     "Every",
+     "Lord"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the man in period dress's hands gripping the rail.]\n[Action: the man in period dress grabs the figure in period dress by the wrist.]\na figure in period dress: \"Search her pockets. She is a thief!\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.75,
+    "cliff": 1.0,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.75,
+   "cliff": 1.0,
+   "viewer": 0.5,
+   "tension": 0.9025,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.04,
+   "referent_penalty": 0.03,
+   "total": 0.6454
+  },
+  "validation": {
+   "candidate_id": "C14-02",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E14.036",
+   "cliffhanger_id": "E14.047",
+   "evidence_ids": [
+    "E14.035"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E14), Marrowinde (E14)"
+  ]
+ },
+ "P034": {
+  "id": "P034",
+  "structure": "straight",
+  "segments": [
+   {
+    "episode": 14,
+    "start": 31.0,
+    "end": 69.6,
+    "start_tc": "00:31.00",
+    "end_tc": "01:09.60",
+    "atom_ids": [
+     "E14.019",
+     "E14.020",
+     "E14.021",
+     "E14.022",
+     "E14.023",
+     "E14.024",
+     "E14.025",
+     "E14.026",
+     "E14.027",
+     "E14.028",
+     "E14.029",
+     "E14.030",
+     "E14.031",
+     "E14.032",
+     "E14.033",
+     "E14.034",
+     "E14.035",
+     "E14.036",
+     "E14.037",
+     "E14.038"
+    ]
+   }
+  ],
+  "duration": 38.6,
+  "hook_text": "\"Say her name again and you will regret it.\"",
+  "hook_speaker": "Corin",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Opens on a charged line at a tension peak and cuts before the reply.",
+  "landing_episode": 14,
+  "free_runway": 0,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 2,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] unclear",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 5,
+    "confusing": [
+     "Ashvale",
+     "Lord",
+     "Marry"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.0,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Close-up on the widow's hands gripping the rail.]\n[Action: the widow draws a short blade from a boot.]\na figure in period dress: \"Say her name again and you will regret it.\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.25,
+    "cliff": 1.0,
+    "viewer": 0.375
+   }
+  },
+  "scores": {
+   "hook": 0.25,
+   "cliff": 1.0,
+   "viewer": 0.375,
+   "tension": 0.9018,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.04,
+   "referent_penalty": 0.03,
+   "total": 0.489
+  },
+  "validation": {
+   "candidate_id": "C14-03",
+   "source": "episode",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 3,
+   "miner_cliff": 4,
+   "hook_id": "E14.021",
+   "cliffhanger_id": "E14.038",
+   "evidence_ids": [
+    "E14.030",
+    "E14.035"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E14), Marrowinde (E14)"
+  ]
+ },
+ "P035": {
+  "id": "P035",
+  "structure": "arc_bridge",
+  "segments": [
+   {
+    "episode": 1,
+    "start": 18.0,
+    "end": 27.96,
+    "start_tc": "00:18.00",
+    "end_tc": "00:27.96",
+    "atom_ids": [
+     "E01.010",
+     "E01.011",
+     "E01.012",
+     "E01.013",
+     "E01.014",
+     "E01.015"
+    ]
+   },
+   {
+    "episode": 3,
+    "start": 58.0,
+    "end": 77.6,
+    "start_tc": "00:58.00",
+    "end_tc": "01:17.60",
+    "atom_ids": [
+     "E03.028",
+     "E03.029",
+     "E03.030",
+     "E03.031",
+     "E03.032",
+     "E03.033",
+     "E03.034",
+     "E03.035",
+     "E03.036",
+     "E03.037"
+    ]
+   }
+  ],
+  "duration": 29.56,
+  "hook_text": "\"Mother will see you hang for this.\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Lord Ashvale? That is impossible.\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Compresses E1 into E3 on one framed_condemned promise.",
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [
+   "Ashvale"
+  ],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Lord Ashvale? That is impossible.\"",
+    "need_next": 4,
+    "confusing": [
+     "Ashvale",
+     "Lord",
+     "Mother"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Mother will see you hang for this.\"",
+   "ungrounded_refs": [
+    "Ashvale"
+   ],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 1.0,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.03,
+   "total": 0.5875
+  },
+  "validation": {
+   "candidate_id": "AB-01",
+   "source": "arc_bridge",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E01.012",
+   "cliffhanger_id": "E03.037",
+   "evidence_ids": [
+    "E01.012",
+    "E03.032"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P036": {
+  "id": "P036",
+  "structure": "arc_bridge",
+  "segments": [
+   {
+    "episode": 1,
+    "start": 18.0,
+    "end": 27.96,
+    "start_tc": "00:18.00",
+    "end_tc": "00:27.96",
+    "atom_ids": [
+     "E01.010",
+     "E01.011",
+     "E01.012",
+     "E01.013",
+     "E01.014",
+     "E01.015"
+    ]
+   },
+   {
+    "episode": 3,
+    "start": 42.0,
+    "end": 61.74,
+    "start_tc": "00:42.00",
+    "end_tc": "01:01.74",
+    "atom_ids": [
+     "E03.021",
+     "E03.022",
+     "E03.023",
+     "E03.024",
+     "E03.025",
+     "E03.026",
+     "E03.027",
+     "E03.028",
+     "E03.029",
+     "E03.030"
+    ]
+   }
+  ],
+  "duration": 29.7,
+  "hook_text": "\"Mother will see you hang for this.\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"You think a scarred stranger can save you?\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Compresses E1 into E3 on one framed_condemned promise.",
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"You think a scarred stranger can save you?\"",
+    "need_next": 4,
+    "confusing": [
+     "Mother"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Mother will see you hang for this.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.8762,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5989
+  },
+  "validation": {
+   "candidate_id": "AB-02",
+   "source": "arc_bridge",
+   "repairs": [
+    "end at cliffhanger + 0.3 s"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E01.012",
+   "cliffhanger_id": "E03.030",
+   "evidence_ids": [
+    "E01.012",
+    "E03.022"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P037": {
+  "id": "P037",
+  "structure": "arc_bridge",
+  "segments": [
+   {
+    "episode": 1,
+    "start": 18.0,
+    "end": 27.96,
+    "start_tc": "00:18.00",
+    "end_tc": "00:27.96",
+    "atom_ids": [
+     "E01.010",
+     "E01.011",
+     "E01.012",
+     "E01.013",
+     "E01.014",
+     "E01.015"
+    ]
+   },
+   {
+    "episode": 5,
+    "start": 28.0,
+    "end": 52.0,
+    "start_tc": "00:28.00",
+    "end_tc": "00:52.00",
+    "atom_ids": [
+     "E05.015",
+     "E05.016",
+     "E05.017",
+     "E05.018",
+     "E05.019",
+     "E05.020",
+     "E05.021",
+     "E05.022",
+     "E05.023",
+     "E05.024",
+     "E05.025",
+     "E05.026",
+     "E05.027",
+     "E05.028"
+    ]
+   }
+  ],
+  "duration": 33.96,
+  "hook_text": "\"Mother will see you hang for this.\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"Every wedding needs a widow. Why not two?\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Compresses E1 into E6 on one framed_condemned promise.",
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"Every wedding needs a widow. Why not two?\"",
+    "need_next": 4,
+    "confusing": [
+     "Every",
+     "Mother",
+     "Never"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Mother will see you hang for this.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 1.0,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.6175
+  },
+  "validation": {
+   "candidate_id": "AB-03",
+   "source": "arc_bridge",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E01.012",
+   "cliffhanger_id": "E05.028",
+   "evidence_ids": [
+    "E01.012",
+    "E05.020"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": []
+ },
+ "P038": {
+  "id": "P038",
+  "structure": "arc_bridge",
+  "segments": [
+   {
+    "episode": 1,
+    "start": 18.0,
+    "end": 27.96,
+    "start_tc": "00:18.00",
+    "end_tc": "00:27.96",
+    "atom_ids": [
+     "E01.010",
+     "E01.011",
+     "E01.012",
+     "E01.013",
+     "E01.014",
+     "E01.015"
+    ]
+   },
+   {
+    "episode": 7,
+    "start": 85.0,
+    "end": 107.0,
+    "start_tc": "01:25.00",
+    "end_tc": "01:47.00",
+    "atom_ids": [
+     "E07.043",
+     "E07.044",
+     "E07.045",
+     "E07.046",
+     "E07.047",
+     "E07.048",
+     "E07.049",
+     "E07.050",
+     "E07.051",
+     "E07.052",
+     "E07.053"
+    ]
+   }
+  ],
+  "duration": 31.96,
+  "hook_text": "\"Mother will see you hang for this.\"",
+  "hook_speaker": "Selene",
+  "hook_at": 0.4,
+  "cliffhanger_text": "\"They are coming up the cliff path with lanterns!\"",
+  "engine": "framed_condemned",
+  "why": "[mock] Compresses E1 into E7 on one framed_condemned promise.",
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy": "review",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "reveals_disclosed": [],
+  "ungrounded_refs": [],
+  "viewer": {
+   "stage_a": {
+    "stop": 3,
+    "reason": "[mock] slow, establishing opening"
+   },
+   "stage_b": {
+    "main_character": "a figure in period dress",
+    "what_they_want": "[mock] to be believed and get out of this moment",
+    "conflict": "[mock] pressure from a man in period dress",
+    "left_wondering": "[mock] what comes after: \"They are coming up the cliff path with lanterns!\"",
+    "need_next": 4,
+    "confusing": [
+     "Expose",
+     "Mother",
+     "Order"
+    ]
+   },
+   "grader": {
+    "who": 0.0,
+    "want": 0.5,
+    "conflict": 0.5,
+    "open_question": 1.0,
+    "notes": "[mock] keyword overlap only"
+   },
+   "first_three_seconds": "[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Mother will see you hang for this.\"",
+   "ungrounded_refs": [],
+   "scores": {
+    "hook": 0.5,
+    "cliff": 0.75,
+    "viewer": 0.5
+   }
+  },
+  "scores": {
+   "hook": 0.5,
+   "cliff": 0.75,
+   "viewer": 0.5,
+   "tension": 0.8604,
+   "quality": 0.7833,
+   "policy_penalty": 0.05,
+   "spoiler_penalty": 0.0,
+   "paywall_penalty": 0.0,
+   "referent_penalty": 0.0,
+   "total": 0.5966
+  },
+  "validation": {
+   "candidate_id": "AB-04",
+   "source": "arc_bridge",
+   "repairs": [
+    "end extended to the cliffhanger's shot change"
+   ],
+   "warnings": [],
+   "on_camera_cuts": false,
+   "quiet_power": false,
+   "miner_hook": 4,
+   "miner_cliff": 4,
+   "hook_id": "E01.012",
+   "cliffhanger_id": "E07.053",
+   "evidence_ids": [
+    "E01.012",
+    "E07.044"
+   ],
+   "spoilers": []
+  },
+  "continuity_warnings": [
+   "Marrowind: spelled differently across this promo's episodes: Marrowind (E1/E7), Marrowynd (E7)"
+  ]
+ }
+}

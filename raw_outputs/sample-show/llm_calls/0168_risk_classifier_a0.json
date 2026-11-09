@@ -1,0 +1,25 @@
+{
+  "key": "d328f22911d68c60bb7bc2b71ec09d1594d232ccdf9a6766a7bc53290d18ca74",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E14.034 | 01:02.00-01:07.00 | CAM | Close-up on Tobin's hands gripping the rail.\nE14.035 | 01:02.20-01:07.00 | ACT | Tobin grabs Mara by the wrist.\nE14.036 | 01:02.40-01:05.06 | DLG | SELENE (sweet, cruel) | \"Search her pockets. She is a thief!\"\nE14.037 | 01:07.00-01:13.00 | CAM | Low angle on Mara framed against the lighthouse beam.\nE14.038 | 01:07.40-01:09.30 | DLG | MAYOR BRISK (pompous, nervous) | \"Lord Ashvale? That is impossible.\"\nE14.039 | 01:13.00-01:16.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE14.040 | 01:13.40-01:15.80 | DLG | TOBIN THE FERRYMAN (gruff, afraid) | \"The boat leaves at the turn of the tide. Be on it.\"\nE14.041 | 01:16.00-01:19.00 | CAM | Extreme close-up on Mara's eyes, wet with sea spray.\nE14.042 | 01:16.40-01:18.80 | DLG | CORIN (protective, low) | \"Marry me at dawn, and no one will dare touch you.\"\nE14.043 | 01:19.00-01:24.00 | CAM | Low angle on the Mayor framed against the lighthouse beam.\nE14.044 | 01:24.00-01:28.00 | CAM | Over-the-shoulder shot from Mara toward Tobin.\nE14.045 | 01:24.40-01:27.44 | DLG | SELENE (shrill, mocking) | \"A lamp-keeper's girl in my mother's lace? Never!\"\nE14.046 | 01:28.00-01:33.00 | CAM | Low angle on Selene framed against the lighthouse beam.\nE14.047 | 01:28.40-01:31.44 | DLG | WIDOW HALLORAN (cold, furious) | \"Every wedding needs a widow. Why not two?\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E14.035\"], \"reveals_disclosed\": []}",
+  "tokens_in": 644,
+  "tokens_out": 26,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

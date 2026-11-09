@@ -1,0 +1,25 @@
+{
+  "key": "c4e41bd8cce2cb145f153a339bea9d2ca646c63ec4c9bd4aac992561474a01d3",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E08.034 | 01:06.00-01:11.00 | CAM | Over-the-shoulder shot from Corin toward Selene.\nE08.035 | 01:06.40-01:09.44 | DLG | MAYOR BRISK (O.S., cold, nervous) | \"Order! I will have order in my hall!\"\nE08.036 | 01:11.00-01:15.00 | CAM | Over-the-shoulder shot from the Mayor toward the widow.\nE08.037 | 01:11.20-01:15.00 | ACT | the widow tears the lace veil and lets it fall.\nE08.038 | 01:11.40-01:14.44 | DLG | SELENE (cruel, mocking) | \"He is lying. Everyone knows he is lying!\"\nE08.039 | 01:15.00-01:20.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE08.040 | 01:20.00-01:23.00 | CAM | Low angle on the Mayor framed against the lighthouse beam.\nE08.041 | 01:20.40-01:22.80 | DLG | WIDOW HALLORAN (silken, furious) | \"Every wedding needs a widow. Why not two?\"\nE08.042 | 01:23.00-01:27.00 | CAM | Extreme close-up on Selene's eyes, wet with sea spray.\nE08.043 | 01:23.20-01:27.00 | ACT | Selene slaps the cup from the widow's hand and it shatters.\nE08.044 | 01:23.40-01:26.80 | DLG | CORIN (dangerous, cold) | \"Marry me at dawn, and no one will dare touch you.\"\nE08.045 | 01:27.00-01:33.00 | CAM | Slow push-in on Selene as the lamp flickers behind them.\nE08.046 | 01:27.20-01:33.00 | ACT | Selene steps between Corin and the crowd.\nE08.047 | 01:27.40-01:30.82 | DLG | CORIN (dangerous, calm) | \"Say her name again and you will regret it.\"\nE08.048 | 01:33.00-01:36.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE08.049 | 01:33.40-01:35.80 | DLG | TOBIN THE FERRYMAN (gruff, afraid) | \"Your father paid me to watch over you.\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"graphic_violence\"], \"evidence_ids\": [\"E08.043\"], \"reveals_disclosed\": []}",
+  "tokens_in": 699,
+  "tokens_out": 28,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

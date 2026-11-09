@@ -1,0 +1,25 @@
+{
+  "key": "a956058a60d059a90f6969c063d3aa479a7adc794ca22580ae6393166510d5fc",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E4, E5): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nCorin (a figure in period dress): [mock] speaks 37 lines between E1 and E14\nMara (a figure in period dress): [mock] speaks 28 lines between E1 and E14\nArc [mock] Part 2: Selene spreads a rumour that Mara lit a false light to wreck a ship.\nE4: Selene spreads a rumour that Mara lit a false light to wreck a ship.\nE5: Tobin the ferryman reveals what he saw on the night of the feast.\nCLIP: [On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress slaps the cup from the man in period dress's hand and it shatters.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[Hard cut]\n[On screen: Slow push-in on the the figure in period dress as the lamp flickers behind them.]\n[Action: the the figure in period dress draws a short blade from a boot.]\na figure in period dress: \"I kept that light burning for eleven winters.\"\n[On screen: Close-up on the man in period dress's hands gripping the rail.]\na figure in period dress: \"Nobody leaves this hall until I say so.\"\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\n[Action: the figure in period dress grabs the the figure in period dress by the wrist.]\na figure in period dress: \"He is lying. Everyone knows he is lying!\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\n[Action: the figure in period dress throws open the shutters; the storm floods in.]\na figure in period dress: \"You were always too soft for this family.\"\n[On screen: Slow push-in on the man in period dress as the lamp flickers behind them.]\na figure in period dress: \"My father built this tower with his own hands.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\na figure in period dress: \"Drink deep, little lamp-keeper.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"Lord Ashvale? That is impossible.\"\n[On screen: Extreme close-up on the man in period dress's eyes, wet with sea spray.]\na figure in period dress: \"He is lying. Everyone knows he is lying!\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] unclear\",\"left_wondering\":\"[mock] what comes after: \\\"He is lying. Everyone knows he is lying!\\\"\",\"need_next\":4,\"confusing\":[\"Ashvale\",\"Drink\",\"Everyone\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 790,
+  "tokens_out": 24,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

@@ -1,0 +1,25 @@
+{
+  "key": "06d80ea5334838447ea3c0967cc12f9588802b0a7d14c62948b62dcbdbbf5d17",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E08.021 | 00:43.00-00:46.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE08.022 | 00:43.40-00:45.80 | DLG | TOBIN THE FERRYMAN (gruff, afraid) | \"Your father paid me to watch over you.\"\nE08.023 | 00:46.00-00:48.00 | CAM | Close-up on Selene's jaw tightening.\nE08.024 | 00:48.00-00:54.00 | CAM | Over-the-shoulder shot from Tobin toward Selene.\nE08.025 | 00:48.40-00:51.06 | DLG | MAYOR BRISK (triumphant, pompous) | \"The council has already decided her fate.\"\nE08.026 | 00:54.00-00:57.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE08.027 | 00:54.20-00:57.00 | ACT | the Mayor tears the lace veil and lets it fall.\nE08.028 | 00:54.40-00:56.80 | DLG | WIDOW HALLORAN (silken, furious) | \"Every wedding needs a widow. Why not two?\"\nE08.029 | 00:57.00-01:03.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE08.030 | 00:57.40-01:00.44 | DLG | CORIN (calm, protective) | \"Nobody leaves this hall until I say so.\"\nE08.031 | 01:03.00-01:06.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE08.032 | 01:03.40-01:05.80 | DLG | CORIN (earnest, low) | \"Say her name again and you will regret it.\"\nE08.033 | 01:04.50-01:06.00 | SFX | Glass shatters on stone.\nE08.034 | 01:06.00-01:11.00 | CAM | Over-the-shoulder shot from Corin toward Selene.\nE08.035 | 01:06.40-01:09.44 | DLG | MAYOR BRISK (O.S., cold, nervous) | \"Order! I will have order in my hall!\"\nE08.036 | 01:11.00-01:15.00 | CAM | Over-the-shoulder shot from the Mayor toward the widow.\nE08.037 | 01:11.20-01:15.00 | ACT | the widow tears the lace veil and lets it fall.\nE08.038 | 01:11.40-01:14.44 | DLG | SELENE (cruel, mocking) | \"He is lying. Everyone knows he is lying!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"none\", \"categories\": [], \"evidence_ids\": [], \"reveals_disclosed\": []}",
+  "tokens_in": 736,
+  "tokens_out": 21,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

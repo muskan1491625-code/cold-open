@@ -1,0 +1,25 @@
+{
+  "key": "ff353ac1399f76e25f552af5665765164869dbebe554e415a24a7b9ae01f5e91",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E04.014 | 00:33.00-00:38.00 | CAM | Extreme close-up on Selene's eyes, wet with sea spray.\nE04.015 | 00:33.20-00:38.00 | ACT | Selene grabs the Mayor by the wrist.\nE04.016 | 00:33.40-00:36.44 | DLG | SELENE (shrill, sweet) | \"He is lying. Everyone knows he is lying!\"\nE04.017 | 00:38.00-00:43.00 | CAM | Close-up on Selene's hands gripping the rail.\nE04.018 | 00:38.20-00:43.00 | ACT | Selene throws open the shutters; the storm floods in.\nE04.019 | 00:38.40-00:41.44 | DLG | WIDOW HALLORAN (silken, furious) | \"You were always too soft for this family.\"\nE04.020 | 00:43.00-00:46.00 | CAM | Slow push-in on Tobin as the lamp flickers behind them.\nE04.021 | 00:43.40-00:45.80 | DLG | MARA (hopeful, broken) | \"My father built this tower with his own hands.\"\nE04.022 | 00:46.00-00:51.00 | CAM | Close-up on Mara's jaw tightening.\nE04.023 | 00:46.40-00:47.92 | DLG | WIDOW HALLORAN (cold, furious) | \"Drink deep, little lamp-keeper.\"\nE04.024 | 00:51.00-00:52.00 | CAM | Close-up on Mara's jaw tightening.\nE04.025 | 00:52.00-00:55.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE04.026 | 00:52.40-00:54.30 | DLG | MAYOR BRISK (triumphant, cold) | \"Lord Ashvale? That is impossible.\"\nE04.027 | 00:55.00-00:58.00 | CAM | Extreme close-up on Tobin's eyes, wet with sea spray.\nE04.028 | 00:55.40-00:57.80 | DLG | SELENE (cruel, sweet) | \"He is lying. Everyone knows he is lying!\"\nE04.029 | 00:58.00-01:02.00 | CAM | Close-up on Corin's hands gripping the rail.\nE04.030 | 00:58.40-01:01.44 | DLG | WIDOW HALLORAN (silken, furious) | \"Every wedding needs a widow. Why not two?\"\nE04.031 | 01:02.00-01:07.00 | CAM | Slow push-in on the widow as the lamp flickers behind them.\nE04.032 | 01:02.20-01:07.00 | ACT | the widow throws open the shutters; the storm floods in.\nE04.033 | 01:07.00-01:11.00 | CAM | Medium two-shot of Corin and Tobin, the space between them charged.\nE04.034 | 01:11.00-01:14.00 | CAM | Over-the-shoulder shot from Tobin toward Selene.\nE04.035 | 01:11.40-01:13.80 | DLG | TOBIN THE FERRYMAN (kind, afraid) | \"They are coming up the cliff path with lanterns!\"\nE04.036 | 01:14.00-01:18.00 | CAM | Slow push-in on Selene as the lamp flickers behind them.\nE04.037 | 01:14.40-01:17.44 | DLG | CORIN (protective, calm) | \"I was drowned once. It did not take.\"\nE04.038 | 01:18.00-01:21.00 | CAM | Slow push-in on Mara as the lamp flickers behind them.\nE04.039 | 01:19.50-01:21.00 | SFX | The crowd gasps.\nE04.040 | 01:21.00-01:25.00 | CAM | Slow push-in on Mara as the lamp flickers behind them.\nE04.041 | 01:21.40-01:24.80 | DLG | CORIN (dry, cold) | \"The tide remembers every lie told on this quay.\"\nE04.042 | 01:25.00-01:30.00 | CAM | Close-up on Tobin's hands gripping the rail.\nE04.043 | 01:25.40-01:28.06 | DLG | SELENE (shrill, cruel) | \"Search her pockets. She is a thief!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E04.015\"], \"reveals_disclosed\": []}",
+  "tokens_in": 1004,
+  "tokens_out": 26,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

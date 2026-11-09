@@ -1,0 +1,25 @@
+{
+  "key": "77967052afec5f23d82031e1158497c8d7de5052924a66e098643f351e30112d",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E4): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nCorin (a figure in period dress): [mock] speaks 37 lines between E1 and E14\nMara (a figure in period dress): [mock] speaks 28 lines between E1 and E14\nArc [mock] Part 2: Selene spreads a rumour that Mara lit a false light to wreck a ship.\nE4: Selene spreads a rumour that Mara lit a false light to wreck a ship.\nCLIP: [On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\n[Action: the figure in period dress grabs the the figure in period dress by the wrist.]\na figure in period dress: \"He is lying. Everyone knows he is lying!\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\n[Action: the figure in period dress throws open the shutters; the storm floods in.]\na figure in period dress: \"You were always too soft for this family.\"\n[On screen: Slow push-in on the man in period dress as the lamp flickers behind them.]\na figure in period dress: \"My father built this tower with his own hands.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\na figure in period dress: \"Drink deep, little lamp-keeper.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"Lord Ashvale? That is impossible.\"\n[On screen: Extreme close-up on the man in period dress's eyes, wet with sea spray.]\na figure in period dress: \"He is lying. Everyone knows he is lying!\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Slow push-in on the widow as the lamp flickers behind them.]\n[Action: the widow throws open the shutters; the storm floods in.]\n[On screen: Medium two-shot of the figure in period dress and the man in period dress, the space between them charged.]\n[On screen: Over-the-shoulder shot from the man in period dress toward the figure in period dress.]\na man in period dress: \"They are coming up the cliff path with lanterns!\"\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"I was drowned once. It did not take.\"\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Sound: The crowd gasps.]\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"The tide remembers every lie told on this quay.\"\n[On screen: Close-up on the man in period dress's hands gripping the rail.]\na figure in period dress: \"Search her pockets. She is a thief!\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress\",\"left_wondering\":\"[mock] what comes after: \\\"Search her pockets. She is a thief!\\\"\",\"need_next\":4,\"confusing\":[\"Ashvale\",\"Drink\",\"Every\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 925,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

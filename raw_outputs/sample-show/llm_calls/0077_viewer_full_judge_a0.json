@@ -1,0 +1,25 @@
+{
+  "key": "9328cdf33634024ab98a6cd503d615cba07f87528e46749875ca5923b0450ade",
+  "role": "judge",
+  "prompt_name": "viewer_full",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "FullReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You have never heard of this show. You just watched this whole clip (descriptions in brackets are what is on screen; speakers are described by how they look):\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na man in period dress: \"Your father paid me to watch over you.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\n[On screen: Over-the-shoulder shot from the man in period dress toward the figure in period dress.]\na figure in period dress: \"The council has already decided her fate.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the the figure in period dress tears the lace veil and lets it fall.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"Nobody leaves this hall until I say so.\"\n[On screen: High wide shot of the crowded hall turning toward the door.]\na figure in period dress: \"Say her name again and you will regret it.\"\n[Sound: Glass shatters on stone.]\n[On screen: Over-the-shoulder shot from the figure in period dress toward the figure in period dress.]\na figure in period dress (off-screen): \"Order! I will have order in my hall!\"\n[On screen: Over-the-shoulder shot from the the figure in period dress toward the widow.]\n[Action: the widow tears the lace veil and lets it fall.]\na figure in period dress: \"He is lying. Everyone knows he is lying!\"\nAnswer as a normal viewer would, in a few words each. Return ONLY JSON:\n{\"main_character\": \"...\", \"what_they_want\": \"...\", \"conflict\": \"...\", \"left_wondering\": \"the question you are left with\", \"need_next\": 1-5, \"confusing\": [\"moments or names you did not understand\"]}\n"
+    }
+  ],
+  "response_text": "{\"main_character\": \"a figure in period dress\", \"what_they_want\": \"[mock] to be believed and get out of this moment\", \"conflict\": \"[mock] pressure from a man in period dress\", \"left_wondering\": \"[mock] what comes after: \\\"He is lying. Everyone knows he is lying!\\\"\", \"need_next\": 4, \"confusing\": [\"Every\", \"Everyone\", \"Nobody\"]}",
+  "tokens_in": 439,
+  "tokens_out": 81,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

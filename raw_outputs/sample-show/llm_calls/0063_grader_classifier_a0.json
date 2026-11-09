@@ -1,0 +1,25 @@
+{
+  "key": "5b96e146d2f0bb0bb01001acc76cf2ccad42f007db03199f24fdb16ec56ab2c9",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E6, E7): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nArc [mock] Part 2: Selene spreads a rumour that Mara lit a false light to wreck a ship.\nArc [mock] Part 3: Corin's past returns on a ship flying a black pennant.\nE6: The council votes to take the lighthouse from Mara.\nE7: Corin's past returns on a ship flying a black pennant.\nCLIP: [On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[Hard cut]\n[On screen: Close-up on the man in period dress's hands gripping the rail.]\na man in period dress: \"They are coming up the cliff path with lanterns!\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Search her pockets. She is a thief!\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\na man in period dress: \"Your father paid me to watch over you.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\na figure in period dress (off-screen): \"Order! I will have order in my hall!\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress slaps the cup from the figure in period dress's hand and it shatters.]\na man in period dress (off-screen): \"The boat leaves at the turn of the tide. Be on it.\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na man in period dress: \"Your father paid me to watch over you.\"\n[On screen: Over-the-shoulder shot from the figure in period dress toward the man in period dress.]\na man in period dress: \"I saw who slipped the ring into your shawl.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na figure in period dress: \"Smile, sister. It is your last night of freedom.\"\n[On screen: Medium two-shot of the the figure in period dress and the figure in period dress, the space between them char…]\na figure in period dress: \"Order! I will have order in my hall!\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress\",\"left_wondering\":\"[mock] what comes after: \\\"Order! I will have order in my hall!\\\"\",\"need_next\":4,\"confusing\":[\"Order\",\"Search\",\"Smile\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 751,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

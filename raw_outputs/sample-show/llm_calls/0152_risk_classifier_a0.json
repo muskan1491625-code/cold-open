@@ -1,0 +1,25 @@
+{
+  "key": "29f07d8fc1d555614b7128da7408be503c0ae4c46519fd62dc0fb9033c919b27",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E08.008 | 00:17.00-00:21.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE08.009 | 00:17.40-00:20.44 | DLG | TOBIN THE FERRYMAN (gruff, afraid) | \"Your father paid me to watch over you.\"\nE08.010 | 00:19.50-00:21.00 | SFX | The crowd gasps.\n[Hard cut]\nE07.006 | 00:10.00-00:16.00 | CAM | Medium two-shot of Tobin and Selene, the space between them charged.\nE07.007 | 00:10.40-00:13.82 | DLG | TOBIN THE FERRYMAN (urgent, gruff) | \"They are coming up the cliff path with lanterns!\"\nE07.008 | 00:16.00-00:22.00 | CAM | Close-up on the Mayor's hands gripping the rail.\nE07.009 | 00:16.40-00:19.44 | DLG | SELENE (shrill, venomous) | \"He is lying. Everyone knows he is lying!\"\nE07.010 | 00:22.00-00:26.00 | CAM | Close-up on Selene's jaw tightening.\nE07.011 | 00:22.20-00:26.00 | ACT | the widow grabs Selene by the wrist.\nE07.012 | 00:22.40-00:25.80 | DLG | MARA (quiet, tender) | \"If I say yes, the harbour keeps its tongue.\"\nE07.013 | 00:26.00-00:30.00 | CAM | Low angle on Corin framed against the lighthouse beam.\nE07.014 | 00:26.40-00:29.06 | DLG | MAYOR BRISK (pompous, nervous) | \"The council has already decided her fate.\"\nE07.015 | 00:30.00-00:35.00 | CAM | Slow push-in on Corin as the lamp flickers behind them.\nE07.016 | 00:30.40-00:33.44 | DLG | MAYOR BRISK (pompous, cold) | \"Order! I will have order in my hall!\"\nE07.017 | 00:35.00-00:41.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE07.018 | 00:41.00-00:45.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE07.019 | 00:41.40-00:44.44 | DLG | CORIN (earnest, protective) | \"The ring smells of your rose oil, Selene.\"\nE07.020 | 00:45.00-00:51.00 | CAM | Medium two-shot of Selene and the Mayor, the space between them charged.\nE07.021 | 00:45.40-00:48.44 | DLG | CORIN (O.S., protective, low) | \"The ring smells of your rose oil, Selene.\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E07.011\"], \"reveals_disclosed\": []}",
+  "tokens_in": 772,
+  "tokens_out": 26,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

@@ -1,0 +1,25 @@
+{
+  "key": "f8cc0d20c354c332122665725bfb1997dab7a84136748540c00dbbb9cc8060d9",
+  "role": "judge",
+  "prompt_name": "viewer_full",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "FullReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You have never heard of this show. You just watched this whole clip (descriptions in brackets are what is on screen; speakers are described by how they look):\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[Hard cut]\n[On screen: Over-the-shoulder shot from the figure in period dress toward the widow.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na figure in period dress: \"Take the girl to the cells until morning.\"\n[On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Mother will see you hang for this.\"\n[Sound: Glass shatters on stone.]\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"\n[On screen: Over-the-shoulder shot from the man in period dress toward the figure in period dress.]\na figure in period dress: \"If I say yes, the harbour keeps its tongue.\"\n[On screen: Low angle on the figure in period dress framed against the lighthouse beam.]\n[Action: the figure in period dress grabs the the figure in period dress by the wrist.]\na figure in period dress: \"Say her name again and you will regret it.\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"I came back for one reason, and she is standing here.\"\n[On screen: Slow push-in on the man in period dress as the lamp flickers behind them.]\n[Action: the man in period dress slaps the cup from the the figure in period dress's hand and it shatters.]\n[On screen: Extreme close-up on the the figure in period dress's eyes, wet with sea spray.]\na figure in period dress: \"Lord Ashvale? That is impossible.\"\nAnswer as a normal viewer would, in a few words each. Return ONLY JSON:\n{\"main_character\": \"...\", \"what_they_want\": \"...\", \"conflict\": \"...\", \"left_wondering\": \"the question you are left with\", \"need_next\": 1-5, \"confusing\": [\"moments or names you did not understand\"]}\n"
+    }
+  ],
+  "response_text": "{\"main_character\": \"a figure in period dress\", \"what_they_want\": \"[mock] to be believed and get out of this moment\", \"conflict\": \"[mock] pressure from a man in period dress\", \"left_wondering\": \"[mock] what comes after: \\\"Lord Ashvale? That is impossible.\\\"\", \"need_next\": 4, \"confusing\": [\"Ashvale\", \"Every\", \"Lord\"]}",
+  "tokens_in": 560,
+  "tokens_out": 79,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

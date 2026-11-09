@@ -1,0 +1,25 @@
+{
+  "key": "38d85bf592987902910277c684bf5e7d231664418d14dbd6fef5a4524fd2484f",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E01.010 | 00:18.00-00:23.00 | CAM | Slow push-in on Corin as the lamp flickers behind them.\nE01.011 | 00:18.20-00:23.00 | ACT | Corin kneels on the slick quay boards.\nE01.012 | 00:18.40-00:21.06 | DLG | SELENE (panicked, cruel) | \"Mother will see you hang for this.\"\nE01.013 | 00:21.50-00:23.00 | SFX | Glass shatters on stone.\nE01.014 | 00:23.00-00:29.00 | CAM | Extreme close-up on Corin's eyes, wet with sea spray.\nE01.015 | 00:23.40-00:27.96 | DLG | TOBIN THE FERRYMAN (urgent, kind) | \"The boat leaves at the turn of the tide. Be on it.\"\n[Hard cut]\nE03.021 | 00:42.00-00:47.00 | CAM | Medium two-shot of Selene and Mara, the space between them charged.\nE03.022 | 00:45.50-00:47.00 | SFX | A heartbeat pulse rises toward the cliffhanger.\nE03.023 | 00:47.00-00:52.00 | CAM | Close-up on Mara's hands gripping the rail.\nE03.024 | 00:47.20-00:52.00 | ACT | Mara steps between Selene and the crowd.\nE03.025 | 00:47.40-00:50.44 | DLG | CORIN (dry, earnest) | \"I was drowned once. It did not take.\"\nE03.026 | 00:52.00-00:58.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE03.027 | 00:52.40-00:55.82 | DLG | MARA (tender, quiet) | \"My father built this tower with his own hands.\"\nE03.028 | 00:58.00-01:03.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE03.029 | 00:58.20-01:03.00 | ACT | the Mayor throws open the shutters; the storm floods in.\nE03.030 | 00:58.40-01:01.44 | DLG | SELENE (cruel, venomous) | \"You think a scarred stranger can save you?\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E01.012\", \"E03.022\"], \"reveals_disclosed\": []}",
+  "tokens_in": 678,
+  "tokens_out": 29,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

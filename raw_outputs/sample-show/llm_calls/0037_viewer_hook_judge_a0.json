@@ -1,0 +1,25 @@
+{
+  "key": "93797954d42da733120943c734e3b4d0b4995601f629b78d4b8eff390c873b4e",
+  "role": "judge",
+  "prompt_name": "viewer_hook",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "HookReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You are scrolling a short-video feed late at night. You have never heard of this show. This is everything you see and hear in the first 3 seconds of a clip:\n[On screen: High wide shot of the crowded hall turning toward the door.]\na figure in period dress: \"My father built this tower with his own hands.\"\nWould you stop scrolling? Return ONLY JSON: {\"stop\": 1-5, \"reason\": \"<= 15 words\"}\n1 = keep scrolling, 5 = I have to see this.\n"
+    }
+  ],
+  "response_text": "{\"stop\": 2, \"reason\": \"[mock] slow, establishing opening\"}",
+  "tokens_in": 108,
+  "tokens_out": 14,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

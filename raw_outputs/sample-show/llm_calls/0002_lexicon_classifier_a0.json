@@ -1,0 +1,25 @@
+{
+  "key": "dfff64e4730f28cbda8691969965c901bd2b3dae000d254d684cd3acd0eceaf5",
+  "role": "classifier",
+  "prompt_name": "lexicon",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "LexiconChunk",
+  "messages": [
+    {
+      "role": "user",
+      "content": "These are delivery notes from screenplay dialogue headers. For each, estimate:\n- arousal: 0 (calm) to 1 (extremely heightened)\n- valence: -1 (hostile/painful) to 1 (warm/joyful)\n- is_emotion: false if it only describes technique or volume without emotion (e.g. \"o.s.\", \"v.o.\", \"off-screen\")\nReturn ONLY JSON: {\"tags\": {\"<tag>\": {\"arousal\": x, \"valence\": y, \"is_emotion\": bool}, ...}}\nTAGS:\nafraid\nbroken\ncalm\ncold\ncruel\ndangerous\ndefiant\ndry\nearnest\nfurious\ngruff\nhopeful\nkind\nlow\nmocking\nnervous\npanicked\npleading\npompous\nprotective\nquiet\nshrill\nsilken\nsweet\ntender\ntriumphant\nurgent\nvenomous\nwary\n"
+    }
+  ],
+  "response_text": "{\"tags\": {\"afraid\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"broken\": {\"arousal\": 0.6, \"valence\": -0.6, \"is_emotion\": true}, \"calm\": {\"arousal\": 0.2, \"valence\": 0.0, \"is_emotion\": true}, \"cold\": {\"arousal\": 0.6, \"valence\": -0.6, \"is_emotion\": true}, \"cruel\": {\"arousal\": 0.6, \"valence\": -0.6, \"is_emotion\": true}, \"dangerous\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"defiant\": {\"arousal\": 0.6, \"valence\": 0.0, \"is_emotion\": true}, \"dry\": {\"arousal\": 0.2, \"valence\": 0.0, \"is_emotion\": true}, \"earnest\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"furious\": {\"arousal\": 0.85, \"valence\": -0.6, \"is_emotion\": true}, \"gruff\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"hopeful\": {\"arousal\": 0.4, \"valence\": 0.6, \"is_emotion\": true}, \"kind\": {\"arousal\": 0.4, \"valence\": 0.6, \"is_emotion\": true}, \"low\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": false}, \"mocking\": {\"arousal\": 0.6, \"valence\": -0.6, \"is_emotion\": true}, \"nervous\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"panicked\": {\"arousal\": 0.85, \"valence\": -0.6, \"is_emotion\": true}, \"pleading\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"pompous\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"protective\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"quiet\": {\"arousal\": 0.2, \"valence\": 0.0, \"is_emotion\": true}, \"shrill\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"silken\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"sweet\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"tender\": {\"arousal\": 0.2, \"valence\": 0.6, \"is_emotion\": true}, \"triumphant\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}, \"urgent\": {\"arousal\": 0.6, \"valence\": 0.0, \"is_emotion\": true}, \"venomous\": {\"arousal\": 0.85, \"valence\": -0.6, \"is_emotion\": true}, \"wary\": {\"arousal\": 0.4, \"valence\": 0.0, \"is_emotion\": true}}}",
+  "tokens_in": 149,
+  "tokens_out": 470,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

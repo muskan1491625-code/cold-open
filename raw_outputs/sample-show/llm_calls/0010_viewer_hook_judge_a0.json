@@ -1,0 +1,25 @@
+{
+  "key": "4fe0fda4f5a0db2590933a83ebb5b31dbf5ccfb0ebad2c16677f76078f4c5c5c",
+  "role": "judge",
+  "prompt_name": "viewer_hook",
+  "model": "groq/TODO-llama-model",
+  "temperature": 0.7,
+  "schema": "HookReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You are scrolling a short-video feed late at night. You have never heard of this show. This is everything you see and hear in the first 3 seconds of a clip:\n[On screen: Low angle on the widow framed against the lighthouse beam.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[Sound: A string sting swells to a peak.]\nWould you stop scrolling? Return ONLY JSON: {\"stop\": 1-5, \"reason\": \"<= 15 words\"}\n1 = keep scrolling, 5 = I have to see this.\n"
+    }
+  ],
+  "response_text": "{\"stop\": 4, \"reason\": \"[mock] a charged line right away\"}",
+  "tokens_in": 115,
+  "tokens_out": 14,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

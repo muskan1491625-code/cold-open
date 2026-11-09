@@ -1,0 +1,25 @@
+{
+  "key": "99c5d210f0b4d5941890e80de357f2b4fdb82decf17c562a665a39f289812365",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E09.001 | 00:00.00-00:04.00 | CAM | Low angle on Corin framed against the lighthouse beam.\nE09.002 | 00:00.20-00:04.00 | ACT | Corin steps between the widow and the crowd.\nE09.003 | 00:00.40-00:01.92 | DLG | WIDOW HALLORAN (cold, furious) | \"Drink deep, little lamp-keeper.\"\nE09.004 | 00:04.00-00:07.00 | CAM | Slow push-in on Mara as the lamp flickers behind them.\nE09.005 | 00:07.00-00:13.00 | CAM | Over-the-shoulder shot from Mara toward the widow.\nE09.006 | 00:13.00-00:16.00 | CAM | Extreme close-up on the widow's eyes, wet with sea spray.\nE09.007 | 00:13.20-00:16.00 | ACT | the widow grabs Tobin by the wrist.\nE09.008 | 00:13.40-00:15.80 | DLG | CORIN (calm, dry) | \"Marry me at dawn, and no one will dare touch you.\"\nE09.009 | 00:16.00-00:19.00 | CAM | Slow push-in on Mara as the lamp flickers behind them.\nE09.010 | 00:16.40-00:18.80 | DLG | TOBIN THE FERRYMAN (kind, urgent) | \"Your father paid me to watch over you.\"\nE09.011 | 00:19.00-00:22.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE09.012 | 00:19.40-00:21.80 | DLG | WIDOW HALLORAN (venomous, furious) | \"Every wedding needs a widow. Why not two?\"\nE09.013 | 00:22.00-00:26.00 | CAM | Close-up on Tobin's jaw tightening.\nE09.014 | 00:22.40-00:25.80 | DLG | MARA (pleading, quiet) | \"My father built this tower with his own hands.\"\nE09.015 | 00:26.00-00:32.00 | CAM | Low angle on Mara framed against the lighthouse beam.\nE09.016 | 00:26.40-00:29.44 | DLG | TOBIN THE FERRYMAN (urgent, kind) | \"Your father paid me to watch over you.\"\nE09.017 | 00:30.50-00:32.00 | SFX | Glass shatters on stone.\nE09.018 | 00:32.00-00:36.00 | CAM | Slow push-in on Tobin as the lamp flickers behind them.\nE09.019 | 00:32.40-00:35.44 | DLG | MARA (wary, quiet) | \"Tell me the truth, or tell me nothing.\"\nE09.020 | 00:36.00-00:40.00 | CAM | Slow push-in on the widow as the lamp flickers behind them.\nE09.021 | 00:36.20-00:40.00 | ACT | the widow throws open the shutters; the storm floods in.\nE09.022 | 00:36.40-00:39.44 | DLG | MAYOR BRISK (pompous, triumphant) | \"Order! I will have order in my hall!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E09.007\"], \"reveals_disclosed\": []}",
+  "tokens_in": 826,
+  "tokens_out": 26,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

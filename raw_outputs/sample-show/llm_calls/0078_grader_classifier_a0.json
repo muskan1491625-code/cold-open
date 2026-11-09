@@ -1,0 +1,25 @@
+{
+  "key": "315520a47941fd7e434bf868c55ff3d526ac4e01535302707b670d485b80f211",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E8): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nCorin (a figure in period dress): [mock] speaks 37 lines between E1 and E14\nArc [mock] Part 3: Corin's past returns on a ship flying a black pennant.\nE8: Mara discovers her father's logbook hidden in the lamp room.\nCLIP: [On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na man in period dress: \"Your father paid me to watch over you.\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\n[On screen: Over-the-shoulder shot from the man in period dress toward the figure in period dress.]\na figure in period dress: \"The council has already decided her fate.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the the figure in period dress tears the lace veil and lets it fall.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Tight shot on a silver ring glinting in candlelight.]\na figure in period dress: \"Nobody leaves this hall until I say so.\"\n[On screen: High wide shot of the crowded hall turning toward the door.]\na figure in period dress: \"Say her name again and you will regret it.\"\n[Sound: Glass shatters on stone.]\n[On screen: Over-the-shoulder shot from the figure in period dress toward the figure in period dress.]\na figure in period dress (off-screen): \"Order! I will have order in my hall!\"\n[On screen: Over-the-shoulder shot from the the figure in period dress toward the widow.]\n[Action: the widow tears the lace veil and lets it fall.]\na figure in period dress: \"He is lying. Everyone knows he is lying!\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress\",\"left_wondering\":\"[mock] what comes after: \\\"He is lying. Everyone knows he is lying!\\\"\",\"need_next\":4,\"confusing\":[\"Every\",\"Everyone\",\"Nobody\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 665,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

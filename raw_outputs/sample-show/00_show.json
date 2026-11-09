@@ -1,0 +1,269 @@
+{
+ "title": "The Lamp-Keeper's Daughter",
+ "stats": {
+  "episodes": 14,
+  "blocks": 640,
+  "camera": 304,
+  "dialogue": 249,
+  "action": 62,
+  "sfx": 25,
+  "emotion_tags": 29,
+  "end_before_start": 0,
+  "minutes": 22.1,
+  "min_duration": 72.0,
+  "max_duration": 118.0,
+  "episodes_without_dialogue_first_3s": 0
+ },
+ "episodes": [
+  {
+   "number": 1,
+   "logline": "Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.",
+   "continuity_notes": "Episode 1 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.",
+   "duration": 96.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 0.0,
+     "end": 48.0
+    },
+    {
+     "number": 2,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 48.0,
+     "end": 96.0
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "logline": "The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain.",
+   "continuity_notes": "Episode 2 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.",
+   "duration": 104.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 0.0,
+     "end": 52.0
+    },
+    {
+     "number": 2,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 52.0,
+     "end": 104.0
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "logline": "On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family.",
+   "continuity_notes": "Episode 3 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.",
+   "duration": 104.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "INT. HARBOUR CHAPEL – DAY",
+     "start": 0.0,
+     "end": 52.0
+    },
+    {
+     "number": 2,
+     "heading": "INT. LAMP ROOM – DAWN",
+     "start": 52.0,
+     "end": 104.0
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "logline": "Selene spreads a rumour that Mara lit a false light to wreck a ship.",
+   "continuity_notes": "Episode 4 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.",
+   "duration": 104.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "INT. LAMP ROOM – DAWN",
+     "start": 0.0,
+     "end": 52.0
+    },
+    {
+     "number": 2,
+     "heading": "INT. MARROWIND HALL – NIGHT",
+     "start": 52.0,
+     "end": 104.0
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "logline": "Tobin the ferryman reveals what he saw on the night of the feast.",
+   "continuity_notes": "Episode 5 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowind Hall here.",
+   "duration": 96.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 0.0,
+     "end": 48.0
+    },
+    {
+     "number": 2,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 48.0,
+     "end": 96.0
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "logline": "The council votes to take the lighthouse from Mara.",
+   "continuity_notes": "Episode 6 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowynd Hall here.",
+   "duration": 118.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 0.0,
+     "end": 59.0
+    },
+    {
+     "number": 2,
+     "heading": "INT. MARROWIND HALL – NIGHT",
+     "start": 59.0,
+     "end": 118.0
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "logline": "Corin's past returns on a ship flying a black pennant.",
+   "continuity_notes": "Episode 7 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowynd Hall here.",
+   "duration": 118.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 0.0,
+     "end": 59.0
+    },
+    {
+     "number": 2,
+     "heading": "INT. MARROWIND HALL – NIGHT",
+     "start": 59.0,
+     "end": 118.0
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "logline": "Mara discovers her father's logbook hidden in the lamp room.",
+   "continuity_notes": "Episode 8 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowynd Hall here.",
+   "duration": 96.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "INT. MARROWIND HALL – NIGHT",
+     "start": 0.0,
+     "end": 48.0
+    },
+    {
+     "number": 2,
+     "heading": "INT. MARROWIND HALL – NIGHT",
+     "start": 48.0,
+     "end": 96.0
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "logline": "Widow Halloran offers Mara a deal that would save her father.",
+   "continuity_notes": "Episode 9 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowynd Hall here.",
+   "duration": 84.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "INT. LAMP ROOM – DAWN",
+     "start": 0.0,
+     "end": 84.0
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "logline": "A storm traps the whole family in the lighthouse overnight.",
+   "continuity_notes": "Episode 10 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.",
+   "duration": 84.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "INT. HARBOUR CHAPEL – DAY",
+     "start": 0.0,
+     "end": 84.0
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "logline": "Selene's betrothed confesses that he planted the ring.",
+   "continuity_notes": "Episode 11 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.",
+   "duration": 84.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 0.0,
+     "end": 84.0
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "logline": "Corin is arrested for a murder from before his drowning.",
+   "continuity_notes": "Episode 12 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.",
+   "duration": 72.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "INT. HARBOUR CHAPEL – DAY",
+     "start": 0.0,
+     "end": 72.0
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "logline": "Mara must light the lamp to guide in the ship carrying Corin's accusers.",
+   "continuity_notes": "Episode 13 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.",
+   "duration": 72.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 0.0,
+     "end": 72.0
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "logline": "The truth about the night Corin drowned comes out on the quay.",
+   "continuity_notes": "Episode 14 of the demo show. Mara wears a grey wool shawl. The hall is called Marrowinde Hall here.",
+   "duration": 96.0,
+   "scenes": [
+    {
+     "number": 1,
+     "heading": "INT. MARROWIND HALL – NIGHT",
+     "start": 0.0,
+     "end": 48.0
+    },
+    {
+     "number": 2,
+     "heading": "EXT. HARBOUR QUAY – NIGHT",
+     "start": 48.0,
+     "end": 96.0
+    }
+   ]
+  }
+ ]
+}

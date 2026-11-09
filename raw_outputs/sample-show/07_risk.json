@@ -1,0 +1,641 @@
+{
+ "P001": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E01.030",
+   "E01.042"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P002": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E01.012",
+   "E01.019",
+   "E01.024"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P003": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E02.030",
+   "E02.031"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 2,
+  "free_runway": 9,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P004": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E02.010"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 2,
+  "free_runway": 9,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P005": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E03.022",
+   "E03.032"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 3,
+  "free_runway": 8,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P006": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E03.032"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 3,
+  "free_runway": 8,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P007": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E03.008"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 3,
+  "free_runway": 8,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P008": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E04.015"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 4,
+  "free_runway": 7,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P009": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E05.004",
+   "E04.015"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 4,
+  "free_runway": 7,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P010": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E05.020"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 5,
+  "free_runway": 6,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P011": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E06.015",
+   "E06.028"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P012": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E06.042"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P013": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E06.028",
+   "E06.032"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P014": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E06.015"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 6,
+  "free_runway": 5,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P015": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E07.023",
+   "E07.025"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 7,
+  "free_runway": 4,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P016": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E07.023",
+   "E07.025"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 7,
+  "free_runway": 4,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P017": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E07.011"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 7,
+  "free_runway": 4,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P018": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E08.043"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 8,
+  "free_runway": 3,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P019": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 8,
+  "free_runway": 3,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P020": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E08.014"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 8,
+  "free_runway": 3,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P021": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 9,
+  "free_runway": 2,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P022": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E09.007"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 9,
+  "free_runway": 2,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P023": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 10,
+  "free_runway": 1,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P024": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 10,
+  "free_runway": 1,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P025": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 10,
+  "free_runway": 1,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P026": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E11.015",
+   "E11.017"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 11,
+  "free_runway": 0,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.01
+ },
+ "P027": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E11.015",
+   "E11.017"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 11,
+  "free_runway": 0,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.01
+ },
+ "P028": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 12,
+  "free_runway": 0,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.02
+ },
+ "P029": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 12,
+  "free_runway": 0,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.02
+ },
+ "P030": {
+  "policy": "paid_safe",
+  "policy_level": "none",
+  "policy_reasons": [],
+  "evidence_ids": [],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 13,
+  "free_runway": 0,
+  "policy_penalty": 0.0,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.03
+ },
+ "P031": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E13.020"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 13,
+  "free_runway": 0,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.03
+ },
+ "P032": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E13.020"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 13,
+  "free_runway": 0,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.03
+ },
+ "P033": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E14.035"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 14,
+  "free_runway": 0,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.04
+ },
+ "P034": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E14.030",
+   "E14.035"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 14,
+  "free_runway": 0,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.04
+ },
+ "P035": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E01.012",
+   "E03.032"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P036": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E01.012",
+   "E03.022"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P037": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying",
+   "graphic_violence"
+  ],
+  "evidence_ids": [
+   "E01.012",
+   "E05.020"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ },
+ "P038": {
+  "policy": "review",
+  "policy_level": "low",
+  "policy_reasons": [
+   "bullying"
+  ],
+  "evidence_ids": [
+   "E01.012",
+   "E07.044"
+  ],
+  "reveals_disclosed": [],
+  "spoilers": [],
+  "landing_episode": 1,
+  "free_runway": 10,
+  "policy_penalty": 0.05,
+  "spoiler_penalty": 0.0,
+  "paywall_penalty": 0.0
+ }
+}

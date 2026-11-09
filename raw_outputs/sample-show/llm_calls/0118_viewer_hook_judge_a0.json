@@ -1,0 +1,25 @@
+{
+  "key": "34dee92d9b331f46da52d5957c7d1b9a9a1fa05b2e51be99de4768c1e1e02b3a",
+  "role": "judge",
+  "prompt_name": "viewer_hook",
+  "model": "groq/openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "schema": "HookReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "You are scrolling a short-video feed late at night. You have never heard of this show. This is everything you see and hear in the first 3 seconds of a clip:\n[On screen: Close-up on the man in period dress's hands gripping the rail.]\n[Action: the man in period dress grabs the figure in period dress by the wrist.]\na figure in period dress: \"Search her pockets. She is a thief!\"\nWould you stop scrolling? Return ONLY JSON: {\"stop\": 1-5, \"reason\": \"<= 15 words\"}\n1 = keep scrolling, 5 = I have to see this.\n"
+    }
+  ],
+  "response_text": "{\"stop\": 4, \"reason\": \"[mock] a charged line right away\"}",
+  "tokens_in": 126,
+  "tokens_out": 14,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

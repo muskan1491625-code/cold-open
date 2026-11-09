@@ -1,0 +1,25 @@
+{
+  "key": "9ba195a6313b586a8a89630fd93ff5d841464a615d76dbb433e736721677a4c7",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E02.001 | 00:00.00-00:04.00 | CAM | Slow push-in on Mara as the lamp flickers behind them.\nE02.002 | 00:00.40-00:03.44 | DLG | WIDOW HALLORAN (cold, furious) | \"Every wedding needs a widow. Why not two?\"\n[Hard cut]\nE01.006 | 00:10.00-00:13.00 | CAM | Over-the-shoulder shot from Corin toward the widow.\nE01.007 | 00:10.40-00:12.80 | DLG | WIDOW HALLORAN (silken, venomous) | \"Every wedding needs a widow. Why not two?\"\nE01.008 | 00:13.00-00:18.00 | CAM | Close-up on Mara's hands gripping the rail.\nE01.009 | 00:13.40-00:16.44 | DLG | MAYOR BRISK (nervous, cold) | \"Take the girl to the cells until morning.\"\nE01.010 | 00:18.00-00:23.00 | CAM | Slow push-in on Corin as the lamp flickers behind them.\nE01.011 | 00:18.20-00:23.00 | ACT | Corin kneels on the slick quay boards.\nE01.012 | 00:18.40-00:21.06 | DLG | SELENE (panicked, cruel) | \"Mother will see you hang for this.\"\nE01.013 | 00:21.50-00:23.00 | SFX | Glass shatters on stone.\nE01.014 | 00:23.00-00:29.00 | CAM | Extreme close-up on Corin's eyes, wet with sea spray.\nE01.015 | 00:23.40-00:27.96 | DLG | TOBIN THE FERRYMAN (urgent, kind) | \"The boat leaves at the turn of the tide. Be on it.\"\nE01.016 | 00:29.00-00:35.00 | CAM | Over-the-shoulder shot from Tobin toward Mara.\nE01.017 | 00:29.40-00:32.82 | DLG | MARA (tender, defiant) | \"If I say yes, the harbour keeps its tongue.\"\nE01.018 | 00:35.00-00:40.00 | CAM | Low angle on Mara framed against the lighthouse beam.\nE01.019 | 00:35.20-00:40.00 | ACT | Mara grabs the Mayor by the wrist.\nE01.020 | 00:35.40-00:38.82 | DLG | CORIN (dangerous, protective) | \"Say her name again and you will regret it.\"\nE01.021 | 00:40.00-00:46.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE01.022 | 00:40.40-00:44.58 | DLG | CORIN (low, cold) | \"I came back for one reason, and she is standing here.\"\nE01.023 | 00:46.00-00:48.00 | CAM | Slow push-in on Tobin as the lamp flickers behind them.\nE01.024 | 00:46.20-00:48.00 | ACT | Tobin slaps the cup from the Mayor's hand and it shatters.\nE01.025 | 00:48.00-00:51.00 | CAM | Extreme close-up on the Mayor's eyes, wet with sea spray.\nE01.026 | 00:48.40-00:50.30 | DLG | MAYOR BRISK (nervous, pompous) | \"Lord Ashvale? That is impossible.\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\", \"graphic_violence\"], \"evidence_ids\": [\"E01.012\", \"E01.019\", \"E01.024\"], \"reveals_disclosed\": []}",
+  "tokens_in": 854,
+  "tokens_out": 36,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

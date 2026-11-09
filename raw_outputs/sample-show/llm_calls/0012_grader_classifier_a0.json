@@ -1,0 +1,25 @@
+{
+  "key": "83bf30512044e7b76ec66edd812e4db241910a74c49dfd46efed52c3aba00745",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E2): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nArc [mock] Part 1: Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nE2: The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain.\nCLIP: [On screen: Low angle on the widow framed against the lighthouse beam.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[Sound: A string sting swells to a peak.]\n[On screen: Close-up on the widow's hands gripping the rail.]\na figure in period dress: \"Expose me and her father hangs beside me.\"\n[On screen: Over-the-shoulder shot from the widow toward the man in period dress.]\n[On screen: Close-up on the figure in period dress's hands gripping the rail.]\na man in period dress: \"I saw who slipped the ring into your shawl.\"\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na figure in period dress: \"The council has already decided her fate.\"\n[On screen: High wide shot of the crowded hall turning toward the door.]\na figure in period dress (off-screen): \"You think a scarred stranger can save you?\"\n[On screen: Medium two-shot of the man in period dress and the figure in period dress, the space between them charged.]\na figure in period dress: \"Drink deep, little lamp-keeper.\"\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na figure in period dress: \"Lord Ashvale? That is impossible.\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress\",\"left_wondering\":\"[mock] what comes after: \\\"Lord Ashvale? That is impossible.\\\"\",\"need_next\":4,\"confusing\":[\"Ashvale\",\"Drink\",\"Expose\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 629,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

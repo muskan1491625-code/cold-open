@@ -1,0 +1,25 @@
+{
+  "key": "768633e8fd92e79f9358b33db609c404f31d311b536b38952ccd503d84742a4c",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E1, E7): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nSelene (a figure in period dress): [mock] speaks 46 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nArc [mock] Part 1: Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nArc [mock] Part 2: Selene spreads a rumour that Mara lit a false light to wreck a ship.\nArc [mock] Part 3: Corin's past returns on a ship flying a black pennant.\nE1: Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nE7: Corin's past returns on a ship flying a black pennant.\nCLIP: [On screen: Slow push-in on the figure in period dress as the lamp flickers behind them.]\n[Action: the figure in period dress kneels on the slick quay boards.]\na figure in period dress: \"Mother will see you hang for this.\"\n[Sound: Glass shatters on stone.]\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na man in period dress: \"The boat leaves at the turn of the tide. Be on it.\"\n[Hard cut]\n[On screen: Extreme close-up on the figure in period dress's eyes, wet with sea spray.]\na figure in period dress: \"Expose me and her father hangs beside me.\"\n[On screen: Close-up on the man in period dress's hands gripping the rail.]\na figure in period dress: \"Take the girl to the cells until morning.\"\n[Sound: A string sting swells to a peak.]\n[On screen: Over-the-shoulder shot from the figure in period dress toward the the figure in period dress.]\na figure in period dress: \"Order! I will have order in my hall!\"\n[On screen: Extreme close-up on the man in period dress's eyes, wet with sea spray.]\na man in period dress: \"I saw who slipped the ring into your shawl.\"\n[On screen: Over-the-shoulder shot from the figure in period dress toward the widow.]\na man in period dress: \"They are coming up the cliff path with lanterns!\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress\",\"left_wondering\":\"[mock] what comes after: \\\"They are coming up the cliff path with lanterns!\\\"\",\"need_next\":4,\"confusing\":[\"Expose\",\"Mother\",\"Order\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 709,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

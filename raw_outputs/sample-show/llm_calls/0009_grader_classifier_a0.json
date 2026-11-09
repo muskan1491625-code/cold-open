@@ -1,0 +1,25 @@
+{
+  "key": "7ae436d963afc2ace92ec014f2c44536e60e7a9b8d3e9f0bc48a0c4bd9691e7c",
+  "role": "classifier",
+  "prompt_name": "grader",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "GradeReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Compare a first-time viewer's understanding of a promo clip with the truth.\nTRUTH (from the show bible, for episodes E2): Premise: [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nMayor Brisk (a figure in period dress): [mock] speaks 53 lines between E1 and E14\nWidow Halloran (a figure in period dress): [mock] speaks 45 lines between E1 and E14\nTobin The Ferryman (a man in period dress): [mock] speaks 40 lines between E1 and E14\nCorin (a figure in period dress): [mock] speaks 37 lines between E1 and E14\nArc [mock] Part 1: Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her.\nE2: The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain.\nCLIP: [On screen: Over-the-shoulder shot from the figure in period dress toward the figure in period dress.]\n[Action: the figure in period dress grabs the figure in period dress by the wrist.]\na figure in period dress: \"Expose me and her father hangs beside me.\"\n[On screen: High wide shot of the crowded hall turning toward the door.]\na figure in period dress: \"Every wedding needs a widow. Why not two?\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\na man in period dress (off-screen): \"They are coming up the cliff path with lanterns!\"\n[On screen: Close-up on the figure in period dress's jaw tightening.]\na figure in period dress: \"The council has already decided her fate.\"\n[On screen: Slow push-in on the widow as the lamp flickers behind them.]\n[Action: the widow kneels on the slick quay boards.]\na figure in period dress: \"Step away from her.\"\n[On screen: Wide shot of the storm-lashed harbour, lanterns swinging on the quay.]\n[Action: the figure in period dress tears the lace veil and lets it fall.]\na figure in period dress: \"Order! I will have order in my hall!\"\nVIEWER ANSWERS: {\"main_character\":\"a figure in period dress\",\"what_they_want\":\"[mock] to be believed and get out of this moment\",\"conflict\":\"[mock] pressure from a man in period dress (off-screen)\",\"left_wondering\":\"[mock] what comes after: \\\"Order! I will have order in my hall!\\\"\",\"need_next\":4,\"confusing\":[\"Every\",\"Expose\",\"Order\"]}\nReturn ONLY JSON: {\"who\": 0|1, \"want\": 0|0.5|1, \"conflict\": 0|0.5|1, \"open_question\": 0|1, \"notes\": \"<= 20 words\"}\n\"open_question\" = 1 only if the viewer names a specific unresolved question the clip sets up.\n"
+    }
+  ],
+  "response_text": "{\"who\": 0, \"want\": 0.5, \"conflict\": 0.5, \"open_question\": 1, \"notes\": \"[mock] keyword overlap only\"}",
+  "tokens_in": 612,
+  "tokens_out": 25,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}

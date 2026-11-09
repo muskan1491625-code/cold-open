@@ -1,0 +1,25 @@
+{
+  "key": "98417852e72ee06e7c6dd200df3fa1e1d8320c1b10bb29709001d7a49c181210",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/gemini-3.5-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E10.011 | 00:25.00-00:30.00 | CAM | Close-up on the Mayor's hands gripping the rail.\nE10.012 | 00:25.40-00:28.82 | DLG | SELENE (panicked, sweet) | \"Smile, sister. It is your last night of freedom.\"\nE10.013 | 00:30.00-00:34.00 | CAM | Medium two-shot of the Mayor and Tobin, the space between them charged.\nE10.014 | 00:30.40-00:33.44 | DLG | WIDOW HALLORAN (venomous, furious) | \"Every wedding needs a widow. Why not two?\"\nE10.015 | 00:34.00-00:37.00 | CAM | Extreme close-up on Selene's eyes, wet with sea spray.\nE10.016 | 00:34.20-00:37.00 | ACT | Selene kneels on the slick quay boards.\nE10.017 | 00:34.40-00:36.80 | DLG | WIDOW HALLORAN (silken, cold) | \"You were always too soft for this family.\"\nE10.018 | 00:37.00-00:41.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE10.019 | 00:37.40-00:40.80 | DLG | SELENE (venomous, shrill) | \"Smile, sister. It is your last night of freedom.\"\nE10.020 | 00:39.50-00:41.00 | SFX | A string sting swells to a peak.\nE10.021 | 00:41.00-00:46.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE10.022 | 00:41.40-00:44.06 | DLG | MARA (O.S., hopeful, furious) | \"Then let them come with their torches!\"\nE10.023 | 00:46.00-00:51.00 | CAM | High wide shot of the crowded hall turning toward the door.\nE10.024 | 00:46.40-00:49.44 | DLG | MAYOR BRISK (cold, pompous) | \"Order! I will have order in my hall!\"\nE10.025 | 00:51.00-00:54.00 | CAM | Extreme close-up on Mara's eyes, wet with sea spray.\nE10.026 | 00:51.40-00:53.80 | DLG | MAYOR BRISK (O.S., pompous, nervous) | \"Take the girl to the cells until morning.\"\nE10.027 | 00:54.00-00:59.00 | CAM | Low angle on Corin framed against the lighthouse beam.\nE10.028 | 00:54.40-00:58.80 | DLG | TOBIN THE FERRYMAN (gruff, kind) | \"The boat leaves at the turn of the tide. Be on it.\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"none\", \"categories\": [], \"evidence_ids\": [], \"reveals_disclosed\": []}",
+  "tokens_in": 762,
+  "tokens_out": 21,
+  "latency_s": 0.0,
+  "created_at": "2026-11-09T05:51:53+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": 0.0,
+  "list_price_equivalent": false,
+  "valid": true,
+  "validation_error": null
+}

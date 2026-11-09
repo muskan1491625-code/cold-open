@@ -1,0 +1,25 @@
+{
+  "key": "2d73069697e64ad9cd7e5aa0dcf96877de9469d629ea23ff77f08f5ef3b76607",
+  "role": "classifier",
+  "prompt_name": "risk",
+  "model": "gemini/TODO-flash-lite",
+  "temperature": 0.0,
+  "schema": "RiskReply",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Review this promo clip for paid advertising on Meta and TikTok.\nCLIP (with atom IDs): E04.009 | 00:24.00-00:28.00 | CAM | Slow push-in on the Mayor as the lamp flickers behind them.\nE04.010 | 00:24.20-00:28.00 | ACT | the Mayor draws a short blade from a boot.\nE04.011 | 00:24.40-00:27.44 | DLG | MARA (defiant, broken) | \"I kept that light burning for eleven winters.\"\n[Hard cut]\nE03.005 | 00:06.00-00:12.00 | CAM | Close-up on the Mayor's hands gripping the rail.\nE03.006 | 00:06.40-00:09.06 | DLG | MARA (broken, hopeful) | \"Then let them come with their torches!\"\nE03.007 | 00:12.00-00:17.00 | CAM | Extreme close-up on the widow's eyes, wet with sea spray.\nE03.008 | 00:12.20-00:17.00 | ACT | the widow grabs Tobin by the wrist.\nE03.009 | 00:12.40-00:16.80 | DLG | TOBIN THE FERRYMAN (kind, urgent) | \"The boat leaves at the turn of the tide. Be on it.\"\nE03.010 | 00:17.00-00:22.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE03.011 | 00:22.00-00:27.00 | CAM | Wide shot of the storm-lashed harbour, lanterns swinging on the quay.\nE03.012 | 00:22.40-00:25.44 | DLG | WIDOW HALLORAN (cold, silken) | \"You were always too soft for this family.\"\nE03.013 | 00:27.00-00:31.00 | CAM | Close-up on Mara's hands gripping the rail.\nE03.014 | 00:27.20-00:31.00 | ACT | Mara draws a short blade from a boot.\nE03.015 | 00:27.40-00:30.06 | DLG | SELENE (sweet, venomous) | \"Search her pockets. She is a thief!\"\nE03.016 | 00:31.00-00:36.00 | CAM | Tight shot on a silver ring glinting in candlelight.\nE03.017 | 00:31.40-00:34.44 | DLG | MAYOR BRISK (triumphant, cold) | \"Take the girl to the cells until morning.\"\nE03.018 | 00:36.00-00:42.00 | CAM | Low angle on Selene framed against the lighthouse beam.\nE03.019 | 00:36.20-00:42.00 | ACT | Selene tears the lace veil and lets it fall.\nE03.020 | 00:36.40-00:39.44 | DLG | MAYOR BRISK (O.S., cold, nervous) | \"Order! I will have order in my hall!\"\nKEY REVEALS OF THE SHOW: R01 (E1): [mock] Mara is accused of theft at her sister's betrothal feast until a hooded harbourmaster speaks for her\nR02 (E2): [mock] The harbourmaster is revealed as Lord Corin Ashvale, thought drowned, and offers Mara a bargain\nR03 (E3): [mock] On the wedding morning a poisoned cup forces Corin to choose between justice and Mara's family\nR04 (E4): [mock] Selene spreads a rumour that Mara lit a false light to wreck a ship\nR05 (E5): [mock] Tobin the ferryman reveals what he saw on the night of the feast\nR06 (E6): [mock] The council votes to take the lighthouse from Mara\nR07 (E7): [mock] Corin's past returns on a ship flying a black pennant\nR08 (E8): [mock] Mara discovers her father's logbook hidden in the lamp room\nReturn ONLY JSON:\n{\"policy_level\": \"none|low|high\",\n \"categories\": [from: graphic_violence, sexual_suggestive, self_harm, profanity, bullying],\n \"evidence_ids\": [atom IDs],\n \"reveals_disclosed\": [reveal IDs the clip clearly gives away]}\n\"high\" = likely rejected as an ad (e.g. torture, visible blood/injury focus, sexual activity). \"low\" = borderline (a slap, a threat, a kiss).\n"
+    }
+  ],
+  "response_text": "{\"policy_level\": \"low\", \"categories\": [\"bullying\"], \"evidence_ids\": [\"E03.008\"], \"reveals_disclosed\": []}",
+  "tokens_in": 759,
+  "tokens_out": 26,
+  "latency_s": 0.0,
+  "created_at": "2026-11-08T08:36:06+00:00",
+  "cached": false,
+  "attempt": 0,
+  "cost_usd": null,
+  "list_price_equivalent": true,
+  "valid": true,
+  "validation_error": null
+}
